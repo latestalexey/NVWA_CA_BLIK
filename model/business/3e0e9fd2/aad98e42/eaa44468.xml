@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="eaa44468" name="Vaststellen taakverdeling team (PF10)" documentation="als meerdere medewerkers betrokken zijn bij de uitvoering worden de taken verdeeld. dit kan heel kort telefonisch tot heel uitgebreid bij een grote audit">
+  <properties key="Pre" value="#inspecteurs > 1"/>
+</archimate:BusinessProcess>

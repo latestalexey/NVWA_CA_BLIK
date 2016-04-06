@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:ArchimateDiagramModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="18130e13" name="Strategische doelen - strategische principes">
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="5f6709d4" textAlignment="2">
+    <bounds x="612" y="12" width="325" height="49"/>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="1ca9b57b" source="5f6709d4" target="770c5a58">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/d5264319.xml#d5264319"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="8a8d0c88" source="5f6709d4" target="89edf176">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/9724ba6b.xml#9724ba6b"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="edfe659d" source="5f6709d4" target="51c094a1">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/4a10df27.xml#4a10df27"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="16ee6fbc" source="5f6709d4" target="c56a7233">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/95ed4d14.xml#95ed4d14"/>
+    </sourceConnections>
+    <archimateElement xsi:type="archimate:Principle" href="../../motivation/07842be0/15a3c557.xml#15a3c557"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="af242aff" textAlignment="2">
+    <bounds x="612" y="84" width="325" height="49"/>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="c7bd4e2e" source="af242aff" target="c56a7233">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/0a41ba31.xml#0a41ba31"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="2675a99b" source="af242aff" target="8cf3168f">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/8309b931.xml#8309b931"/>
+    </sourceConnections>
+    <archimateElement xsi:type="archimate:Principle" href="../../motivation/07842be0/9c697791.xml#9c697791"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="72c3ace1" textAlignment="2">
+    <bounds x="612" y="156" width="325" height="49"/>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="60acea1b" source="72c3ace1" target="173e3988">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/16796e03.xml#16796e03"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="3a188168" source="72c3ace1" target="21ea636b">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/bfd04eb5.xml#bfd04eb5"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="150e2664" source="72c3ace1" target="ceacad9f">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/a8edee13.xml#a8edee13"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="4f829f87" source="72c3ace1" target="3a5d8e75">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/ed0ada97.xml#ed0ada97"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="ccc14ee0" source="72c3ace1" target="0c80021a">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/3cb2e9f9.xml#3cb2e9f9"/>
+    </sourceConnections>
+    <archimateElement xsi:type="archimate:Principle" href="../../motivation/07842be0/72b93d16.xml#72b93d16"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="dd619164" textAlignment="2">
+    <bounds x="612" y="228" width="325" height="49"/>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="b3a7d41f" source="dd619164" target="ee741532">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/232c3263.xml#232c3263"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="bbd86057" source="dd619164" target="cf3e863e">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/cb2db2e8.xml#cb2db2e8"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="e37de263" source="dd619164" target="9e0c0727">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/342a9bc5.xml#342a9bc5"/>
+    </sourceConnections>
+    <archimateElement xsi:type="archimate:Principle" href="../../motivation/07842be0/33a36061.xml#33a36061"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="54264ca0" textAlignment="2">
+    <bounds x="612" y="300" width="325" height="49"/>
+    <archimateElement xsi:type="archimate:Principle" href="../../motivation/07842be0/3e66469a.xml#3e66469a"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="b8e50978" textAlignment="2">
+    <bounds x="612" y="372" width="325" height="49"/>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="0887524d" source="b8e50978" target="ee6e6fcc">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/e9374c8d.xml#e9374c8d"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="f19a3cbf" source="b8e50978" target="ddfc36d8">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/e348bba1.xml#e348bba1"/>
+    </sourceConnections>
+    <archimateElement xsi:type="archimate:Principle" href="../../motivation/07842be0/228a489b.xml#228a489b"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="532d894e" textAlignment="2">
+    <bounds x="612" y="444" width="325" height="49"/>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="b6a58988" source="532d894e" target="6d78ab48">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/94cfd5d0.xml#94cfd5d0"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="81b084e9" source="532d894e" target="d100cee9">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/fb9bfbe1.xml#fb9bfbe1"/>
+    </sourceConnections>
+    <archimateElement xsi:type="archimate:Principle" href="../../motivation/07842be0/bb06bb0c.xml#bb06bb0c"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="f51a3a84" textAlignment="2">
+    <bounds x="612" y="516" width="325" height="49"/>
+    <archimateElement xsi:type="archimate:Principle" href="../../motivation/07842be0/55be85cf.xml#55be85cf"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="ff5b127a" textAlignment="2">
+    <bounds x="612" y="588" width="325" height="49"/>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="69052e18" source="ff5b127a" target="ddfc36d8">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/23790c0d.xml#23790c0d"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="bd36a5e9" source="ff5b127a" target="2e194fdb">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/9fc74e37.xml#9fc74e37"/>
+    </sourceConnections>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="bb93e5c8" source="ff5b127a" target="0589aa15">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/a5ee7fdd.xml#a5ee7fdd"/>
+    </sourceConnections>
+    <archimateElement xsi:type="archimate:Principle" href="../../motivation/07842be0/6bbbcc02.xml#6bbbcc02"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="6c6f48d9" textAlignment="2">
+    <bounds x="612" y="660" width="325" height="49"/>
+    <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="13e9e378" source="6c6f48d9" target="9e0c0727">
+      <relationship xsi:type="archimate:InfluenceRelationship" href="../../relations/9bfcddbd.xml#9bfcddbd"/>
+    </sourceConnections>
+    <archimateElement xsi:type="archimate:Principle" href="../../motivation/07842be0/02e1185c.xml#02e1185c"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="770c5a58" textAlignment="2" targetConnections="1ca9b57b">
+    <bounds x="24" y="-48" width="361" height="49"/>
+    <archimateElement xsi:type="archimate:Goal" href="../../motivation/ccd42427/acbd48ed.xml#acbd48ed"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="ee6e6fcc" textAlignment="2" targetConnections="0887524d">
+    <bounds x="24" y="12" width="361" height="49"/>
+    <archimateElement xsi:type="archimate:Goal" href="../../motivation/ccd42427/cbffe1d8.xml#cbffe1d8"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="ddfc36d8" textAlignment="2" targetConnections="f19a3cbf 69052e18">
+    <bounds x="24" y="72" width="361" height="49"/>
+    <archimateElement xsi:type="archimate:Goal" href="../../motivation/ccd42427/961f6336.xml#961f6336"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="89edf176" textAlignment="2" targetConnections="8a8d0c88">
+    <bounds x="24" y="132" width="361" height="49"/>
+    <archimateElement xsi:type="archimate:Goal" href="../../motivation/ccd42427/7277ff4d.xml#7277ff4d"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="173e3988" textAlignment="2" targetConnections="60acea1b">
+    <bounds x="24" y="192" width="361" height="49"/>
+    <archimateElement xsi:type="archimate:Goal" href="../../motivation/ccd42427/0797f7f2.xml#0797f7f2"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="21ea636b" textAlignment="2" targetConnections="3a188168">
+    <bounds x="24" y="252" width="361" height="49"/>
+    <archimateElement xsi:type="archimate:Goal" href="../../motivation/ccd42427/a35c6cae.xml#a35c6cae"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="51c094a1" textAlignment="2" targetConnections="edfe659d">
+    <bounds x="24" y="312" width="361" height="49"/>
+    <archimateElement xsi:type="archimate:Goal" href="../../motivation/ccd42427/18169d24.xml#18169d24"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="ee741532" textAlignment="2" targetConnections="b3a7d41f">
+    <bounds x="24" y="372" width="361" height="49"/>
+    <archimateElement xsi:type="archimate:Goal" href="../../motivation/ccd42427/8ca95751.xml#8ca95751"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="cf3e863e" textAlignment="2" targetConnections="bbd86057">
+    <bounds x="24" y="432" width="361" height="49"/>
+    <archimateElement xsi:type="archimate:Goal" href="../../motivation/ccd42427/e683a169.xml#e683a169"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="ceacad9f" textAlignment="2" targetConnections="150e2664">
+    <bounds x="24" y="492" width="361" height="49"/>
+    <archimateElement xsi:type="archimate:Goal" href="../../motivation/ccd42427/2796ac3d.xml#2796ac3d"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="3a5d8e75" textAlignment="2" targetConnections="4f829f87">
+    <bounds x="24" y="552" width="361" height="49"/>
+    <archimateElement xsi:type="archimate:Goal" href="../../motivation/ccd42427/510eae30.xml#510eae30"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="0c80021a" textAlignment="2" targetConnections="ccc14ee0">
+    <bounds x="24" y="612" width="361" height="49"/>
+    <archimateElement xsi:type="archimate:Goal" href="../../motivation/ccd42427/a69ba94a.xml#a69ba94a"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="2e194fdb" textAlignment="2" targetConnections="bd36a5e9">
+    <bounds x="24" y="672" width="361" height="49"/>
+    <archimateElement xsi:type="archimate:Goal" href="../../motivation/ccd42427/f5d4f341.xml#f5d4f341"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="0589aa15" textAlignment="2" targetConnections="bb93e5c8">
+    <bounds x="24" y="732" width="361" height="49"/>
+    <archimateElement xsi:type="archimate:Goal" href="../../motivation/ccd42427/aec160e2.xml#aec160e2"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="9e0c0727" textAlignment="2" targetConnections="e37de263 13e9e378">
+    <bounds x="24" y="792" width="361" height="49"/>
+    <archimateElement xsi:type="archimate:Goal" href="../../motivation/ccd42427/7fc6bad0.xml#7fc6bad0"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="c56a7233" textAlignment="2" targetConnections="16ee6fbc c7bd4e2e">
+    <bounds x="24" y="852" width="361" height="49"/>
+    <archimateElement xsi:type="archimate:Goal" href="../../motivation/ccd42427/3b98a65c.xml#3b98a65c"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="8cf3168f" textAlignment="2" targetConnections="2675a99b">
+    <bounds x="24" y="912" width="361" height="49"/>
+    <archimateElement xsi:type="archimate:Goal" href="../../motivation/ccd42427/0e068367.xml#0e068367"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="6d78ab48" textAlignment="2" targetConnections="b6a58988">
+    <bounds x="24" y="972" width="361" height="49"/>
+    <archimateElement xsi:type="archimate:Goal" href="../../motivation/ccd42427/53a01ee7.xml#53a01ee7"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="d100cee9" textAlignment="2" targetConnections="81b084e9">
+    <bounds x="24" y="1032" width="361" height="49"/>
+    <archimateElement xsi:type="archimate:Goal" href="../../motivation/ccd42427/b172a460.xml#b172a460"/>
+  </children>
+</archimate:ArchimateDiagramModel>
