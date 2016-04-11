@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:Principle xmlns:archimate="http://www.archimatetool.com/archimate" id="0a430c22" name="BP.06 - De werkzaamheden van de NVWA worden ondersteund vanuit de basis" documentation="Om de NVWA processen van klantvraag tot klantlevering eenduidig en in de basis te ondersteunen bij de uitvoering en besturing is een basisvoorziening van samenhangende onderdelen nodig.">
-  <properties key="principe soort" value="Bedrijfsprincipe"/>
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="0a430c22"
+    name="BP.06 - De werkzaamheden van de NVWA worden ondersteund vanuit de basis"
+    documentation="Om de NVWA processen van klantvraag tot klantlevering eenduidig en in de basis te ondersteunen bij de uitvoering en besturing is een basisvoorziening van samenhangende onderdelen nodig.">
+  <properties
+      key="principe soort"
+      value="Bedrijfsprincipe"/>
 </archimate:Principle>

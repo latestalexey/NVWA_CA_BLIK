@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="60d18f78" name="Neutraal afdoen (PF10)" documentation="Hierbij kunnen voor de geinspecteerde mondeling de bevindingen (vastgelegde feitelijkheden in het inspectierapport) worden medegedeeld en dat er geen actie benodigd is.">
-  <properties key="Pre" value="Bepalen afdoening= completed"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="60d18f78"
+    name="Neutraal afdoen (PF10)"
+    documentation="Hierbij kunnen voor de geinspecteerde mondeling de bevindingen (vastgelegde feitelijkheden in het inspectierapport) worden medegedeeld en dat er geen actie benodigd is.">
+  <properties
+      key="Pre"
+      value="Bepalen afdoening= completed"/>
 </archimate:BusinessProcess>

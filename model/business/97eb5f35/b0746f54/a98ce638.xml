@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessFunction xmlns:archimate="http://www.archimatetool.com/archimate" id="a98ce638" name="Klant interactie" documentation="De rechtstreekse contacten met de klant en klantgroepen, gericht op de behoefte en ondersteuning van de klant. (SIGMA 1.0)"/>
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="a98ce638"
+    name="Klant interactie"
+    documentation="De rechtstreekse contacten met de klant en klantgroepen, gericht op de behoefte en ondersteuning van de klant. (SIGMA 1.0)"/>

@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessActor xmlns:archimate="http://www.archimatetool.com/archimate" id="Informanten" name="Informanten" documentation="Een persoon die (geheime) informatie verstrekt ten behoeve van een opsporingsonderzoek"/>
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="Informanten"
+    name="Informanten"
+    documentation="Een persoon die (geheime) informatie verstrekt ten behoeve van een opsporingsonderzoek"/>

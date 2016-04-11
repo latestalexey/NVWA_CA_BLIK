@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessFunction xmlns:archimate="http://www.archimatetool.com/archimate" id="fa0f8925" name="Inspectie" documentation="Het verzamelen van informatie over de vraag of een handeling of zaak voldoet aan de daaraan gestelde eisen, en daarna vormen van een oordeel. (SIGMA 1.0)"/>
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="fa0f8925"
+    name="Inspectie"
+    documentation="Het verzamelen van informatie over de vraag of een handeling of zaak voldoet aan de daaraan gestelde eisen, en daarna vormen van een oordeel. (SIGMA 1.0)"/>

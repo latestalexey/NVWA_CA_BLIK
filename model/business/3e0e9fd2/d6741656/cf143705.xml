@@ -1,5 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="cf143705" name="Vaststellen starten verificatie (PF15)" documentation="Op basis van de uitgevoerde beoordeling beslissen of het KS voor verificatie in aanmkerking komt">
-  <properties key="Pre" value="beoordelingen beschikbaar"/>
-  <properties key="Post" value="verificatie akkoord OR verificatie niet akkoord"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="cf143705"
+    name="Vaststellen starten verificatie (PF15)"
+    documentation="Op basis van de uitgevoerde beoordeling beslissen of het KS voor verificatie in aanmkerking komt">
+  <properties
+      key="Pre"
+      value="beoordelingen beschikbaar"/>
+  <properties
+      key="Post"
+      value="verificatie akkoord OR verificatie niet akkoord"/>
 </archimate:BusinessProcess>
