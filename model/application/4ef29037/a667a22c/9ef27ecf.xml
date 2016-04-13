@@ -1,8 +1,4 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="9ef27ecf"
-    name="Business intelligence &amp; visualisatie">
-  <properties
-      key="_Question"
-      value="Wat is verschil tussen deze en [Intelligence &amp; BAM] "/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:ApplicationFunction xmlns:archimate="http://www.archimatetool.com/archimate" id="9ef27ecf" name="Business intelligence &amp; visualisatie">
+  <properties key="_Question" value="Wat is verschil tussen deze en [Intelligence &amp; BAM] "/>
 </archimate:ApplicationFunction>

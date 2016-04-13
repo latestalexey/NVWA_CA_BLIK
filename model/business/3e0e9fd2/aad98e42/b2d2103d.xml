@@ -1,9 +1,4 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="b2d2103d"
-    name="Bezwaar en beroep (PF JZ)"
-    documentation="Dit is een fase die kan volgen op de fase afdoen na het opleggen van de bestuurlijke beschikking. Dit vormt geen onderdeel van deze procesflow">
-  <properties
-      key="Pre"
-      value="Beschikbaar stellen afdoenings-document (PF10) = completed"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="b2d2103d" name="Bezwaar en beroep (PF JZ)" documentation="Dit is een fase die kan volgen op de fase afdoen na het opleggen van de bestuurlijke beschikking. Dit vormt geen onderdeel van deze procesflow">
+  <properties key="Pre" value="Beschikbaar stellen afdoenings-document (PF10) = completed"/>
 </archimate:BusinessProcess>

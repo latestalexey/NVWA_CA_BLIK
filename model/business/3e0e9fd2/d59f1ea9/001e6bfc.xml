@@ -1,5 +1,2 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="001e6bfc"
-    name="Splitsen meervoudige melding (PF12)"
-    documentation="Het kan zijn dat er bij de invoer door de melder meerdere meldingen zijn gemaakt over diverse onderwerpen of over eenzelfde onderwerp bij diverse bedrijven. Deze meldingen worden gesplitst naar aparte meldingen binnen het systeem (dit heeft als gevolg dat de melder dus ook per melding een terugkoppeling zal krijgen)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="001e6bfc" name="Splitsen meervoudige melding (PF12)" documentation="Het kan zijn dat er bij de invoer door de melder meerdere meldingen zijn gemaakt over diverse onderwerpen of over eenzelfde onderwerp bij diverse bedrijven. Deze meldingen worden gesplitst naar aparte meldingen binnen het systeem (dit heeft als gevolg dat de melder dus ook per melding een terugkoppeling zal krijgen)"/>

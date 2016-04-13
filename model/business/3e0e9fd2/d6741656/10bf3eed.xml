@@ -1,9 +1,5 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="10bf3eed"
-    name="Beoordelen aanvraag (PF15)"
-    documentation="Bekeken wordt of de vragen op het zelfbeoordelingsformulier volledig en juist zijn beantwoord. Hierbij gaat het er niet primair om of de antwoorden ook stroken met de (vanuit de NVWA beleefde) werkelijkheid. Evidente onwaarheden worden wel gesignaleerd in het concept Beoordelingsrapport zelfbeoordeling. Het Concept beoordelingsrapport wordt via het Systeem gedeeld. Het Centraal Team bespreekt het concept Beoordelingsrapport zelfbeoordeling en bepaalt op basis daarvan de gespreksonderwerpen voor het intakegesprek. Essentieel zijn daarbij de selectiecriteria waarop verbetering noodzakelijk is om verdere behandeling van de aanvraag zinvol te maken.&#xD;&#xA;&#xD;&#xA;">
-  <properties
-      key="Pre"
-      value="inhoudelijke deskundige toegewezen"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="10bf3eed" name="Beoordelen aanvraag (PF15)" documentation="Bekeken wordt of de vragen op het zelfbeoordelingsformulier volledig en juist zijn beantwoord. Hierbij gaat het er niet primair om of de antwoorden ook stroken met de (vanuit de NVWA beleefde) werkelijkheid. Evidente onwaarheden worden wel gesignaleerd in het concept Beoordelingsrapport zelfbeoordeling. Het Concept beoordelingsrapport wordt via het Systeem gedeeld. ">
+  <properties key="Pre" value="inhoudelijke deskundige toegewezen"/>
+  <properties key="Pre" value="Zelfbeoordelingsformulier aanwezig"/>
 </archimate:BusinessProcess>

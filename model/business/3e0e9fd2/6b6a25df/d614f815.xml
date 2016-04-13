@@ -1,7 +1,4 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="d614f815"
-    name="Bepalen informatie behoefte (PF06)"
-    documentation="Alleen bij risicogerichte project opdracht&#xD;&#xA;Niet bij opdracht meldingen&#xD;&#xA;Bepaal aan de hand van de gekozen methoden welke documenten nodig zijn voor de inspecteur om gekozen methodieken uit te voeren. &#xD;&#xA;&#xD;&#xA;Voorbeelden van documenten zijn:&#xD;&#xA;- Relevante bedrijfsgegevens&#xD;&#xA;- Inspectielijsten&#xD;&#xA;- Werkinstructies&#xD;&#xA;- Interventiebeleid &#xD;&#xA;- Inspectiesysteem&#xD;&#xA;- Afdoening&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="d614f815" name="Bepalen informatie behoefte (PF06)" documentation="Alleen bij risicogerichte project opdracht&#xD;&#xA;Niet bij opdracht meldingen&#xD;&#xA;Bepaal aan de hand van de gekozen methoden welke documenten nodig zijn voor de inspecteur om gekozen methodieken uit te voeren. &#xD;&#xA;&#xD;&#xA;Voorbeelden van documenten zijn:&#xD;&#xA;- Relevante bedrijfsgegevens&#xD;&#xA;- Inspectielijsten&#xD;&#xA;- Werkinstructies&#xD;&#xA;- Interventiebeleid &#xD;&#xA;- Inspectiesysteem&#xD;&#xA;- Afdoening&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
   <properties/>
 </archimate:BusinessProcess>

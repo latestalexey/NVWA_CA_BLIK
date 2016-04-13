@@ -1,43 +1,15 @@
-<archimate:ArchimateModel
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NVWA: CA Repository GIT"
-    id="d801043f"
-    purpose=""
-    version="3.1.1">
-  <properties
-      key="_Project"
-      value="Bedrijfsfunctie| rapportage van de bedrijfsfuncties"/>
-  <properties
-      key="_Project"
-      value="Rollen|Overzicht van rollen per procesflow"/>
-  <properties
-      key="_Project"
-      value="Informatiesystemen|Informatiesystemen landschap inclusief relevante applicaties"/>
-  <properties
-      key="_Project"
-      value="Bedrijfsfuncties+Informatiesystemen"/>
-  <properties
-      key="_Project"
-      value="PF10| Procesflow Geprogrammeerde Handhaving"/>
-  <properties
-      key="_Project"
-      value="PF10 rollen| Procesflow Geprogrammeerde Handhaving inclusief rollen"/>
-  <properties
-      key="_Project"
-      value="PF11| Procesflow Externe Werkopdrachten"/>
-  <properties
-      key="_Project"
-      value="PF11 rollen| Procesflow Externe Werkopdrachten inclusief rollen"/>
-  <properties
-      key="_Project"
-      value="PF12| Procesflow van Melding tot afmelding"/>
-  <properties
-      key="_Project"
-      value="PF12 rollen| Procesflow van Melding tot afmelding inclusief rollen"/>
-  <properties
-      key="_Project"
-      value="PF15| Procesflow Kwaliteitssystemen"/>
-  <properties
-      key="_Project"
-      value="PF15 rollen| Procesflow Kwaliteitssystemen inclusief rollen"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:ArchimateModel xmlns:archimate="http://www.archimatetool.com/archimate" name="NVWA: CA Repository GIT" id="d801043f" purpose="" version="3.1.1">
+  <properties key="_Project" value="Bedrijfsfunctie| rapportage van de bedrijfsfuncties"/>
+  <properties key="_Project" value="Rollen|Overzicht van rollen per procesflow"/>
+  <properties key="_Project" value="Informatiesystemen|Informatiesystemen landschap inclusief relevante applicaties"/>
+  <properties key="_Project" value="Bedrijfsfuncties+Informatiesystemen"/>
+  <properties key="_Project" value="PF10| Procesflow Geprogrammeerde Handhaving"/>
+  <properties key="_Project" value="PF10 rollen| Procesflow Geprogrammeerde Handhaving inclusief rollen"/>
+  <properties key="_Project" value="PF11| Procesflow Externe Werkopdrachten"/>
+  <properties key="_Project" value="PF11 rollen| Procesflow Externe Werkopdrachten inclusief rollen"/>
+  <properties key="_Project" value="PF12| Procesflow van Melding tot afmelding"/>
+  <properties key="_Project" value="PF12 rollen| Procesflow van Melding tot afmelding inclusief rollen"/>
+  <properties key="_Project" value="PF15| Procesflow Kwaliteitssystemen"/>
+  <properties key="_Project" value="PF15 rollen| Procesflow Kwaliteitssystemen inclusief rollen"/>
 </archimate:ArchimateModel>

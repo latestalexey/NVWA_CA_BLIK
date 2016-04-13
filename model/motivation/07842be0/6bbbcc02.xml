@@ -1,12 +1,5 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="6bbbcc02"
-    name="SP.09 - De NVWA grijpt in waar nodig en doet dat proportioneel"
-    documentation="Om als autoriteit geloofwaardig te zijn moet de NVWA uniform en proportioneel optreden als dat nodig is om een onveilige situatie op gebied van voedselveiligheid, consumentenveiligheid, dierwelzijn of natuurbeheer te bestrijden.  &#xD;&#xA;Bij het constateren van niet naleving tijdens het handhaven kan de NVWA ingrijpen door sanctioneren of door bij vermoedens van crimineel handelen haar opsporingsdienst in te zetten">
-  <properties
-      key="principe statement"
-      value="De NVWA treedt op bij onveilige situaties en kan opschalen bij een crisis. Signalen van buiten en het eigen actuele en integrale beeld van de situatie leiden tot adequaat ingrijpen, eventueel met passende sancties."/>
-  <properties
-      key="principe soort"
-      value="Strategisch principe"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Principle xmlns:archimate="http://www.archimatetool.com/archimate" id="6bbbcc02" name="SP.09 - De NVWA grijpt in waar nodig en doet dat proportioneel" documentation="Om als autoriteit geloofwaardig te zijn moet de NVWA uniform en proportioneel optreden als dat nodig is om een onveilige situatie op gebied van voedselveiligheid, consumentenveiligheid, dierwelzijn of natuurbeheer te bestrijden.  &#xD;&#xA;Bij het constateren van niet naleving tijdens het handhaven kan de NVWA ingrijpen door sanctioneren of door bij vermoedens van crimineel handelen haar opsporingsdienst in te zetten">
+  <properties key="principe statement" value="De NVWA treedt op bij onveilige situaties en kan opschalen bij een crisis. Signalen van buiten en het eigen actuele en integrale beeld van de situatie leiden tot adequaat ingrijpen, eventueel met passende sancties."/>
+  <properties key="principe soort" value="Strategisch principe"/>
 </archimate:Principle>

@@ -1,12 +1,5 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="b8f14298"
-    name="Ordenen capaciteit en inspecties (PF10)"
-    documentation="de geplande beschikbare capaciteit van inspecteurs (verkregen uit het tactisch planningsproces) en de werkvoorraad (de set van inspectieopdrachten) van een project worden gestructureerd ingevoerd of gecontroleerd zodat koppelingen tussen de twee gemaakt kunnen worden in het proces roosteren. De controle is of de beschikbare capaciteit in balans is met de uit te voeren inspecties (aangeleverde werkvoorraad)">
-  <properties
-      key="Pre"
-      value="overzicht van beschikbare inspecteurs met de juiste competentie (planning)"/>
-  <properties
-      key="Pre"
-      value="overzicht van inspectieopdrachten en gevraagde capaciteiten per opdracht (planning)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="b8f14298" name="Ordenen capaciteit en inspecties (PF10)" documentation="de geplande beschikbare capaciteit van inspecteurs (verkregen uit het tactisch planningsproces) en de werkvoorraad (de set van inspectieopdrachten) van een project worden gestructureerd ingevoerd of gecontroleerd zodat koppelingen tussen de twee gemaakt kunnen worden in het proces roosteren. De controle is of de beschikbare capaciteit in balans is met de uit te voeren inspecties (aangeleverde werkvoorraad)">
+  <properties key="Pre" value="overzicht van beschikbare inspecteurs met de juiste competentie (planning)"/>
+  <properties key="Pre" value="overzicht van inspectieopdrachten en gevraagde capaciteiten per opdracht (planning)"/>
 </archimate:BusinessProcess>

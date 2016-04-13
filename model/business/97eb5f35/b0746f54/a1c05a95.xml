@@ -1,9 +1,4 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="a1c05a95"
-    name="Roostering"
-    documentation="Het matchen van een concrete capaciteitsvraag met een beschikbaar aanbodprofiel op basis van een vastgesteld roosterkader. (IM board nota roosteren)">
-  <properties
-      key="_Question"
-      value="Is dit feitelijk een ondersteunende functie?"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessFunction xmlns:archimate="http://www.archimatetool.com/archimate" id="a1c05a95" name="Roostering" documentation="Het matchen van een concrete capaciteitsvraag met een beschikbaar aanbodprofiel op basis van een vastgesteld roosterkader. (IM board nota roosteren)">
+  <properties key="_Question" value="Is dit feitelijk een ondersteunende functie?"/>
 </archimate:BusinessFunction>

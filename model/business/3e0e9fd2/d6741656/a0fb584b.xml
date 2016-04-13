@@ -1,12 +1,5 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="a0fb584b"
-    name="Programmeren verificatie (PF15)"
-    documentation="Komt sterk overeen met stappen binnen de procesflow Programmeren handhaving.">
-  <properties
-      key="Pre"
-      value="verificatie akkoord"/>
-  <properties
-      key="Post"
-      value="Inspectie opdracht"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="a0fb584b" name="Programmeren verificatie (PF15)" documentation="Komt sterk overeen met stappen binnen de procesflow Programmeren handhaving en met de risicogerichte selectie bij Geprogrammeerde handhaving.">
+  <properties key="Pre" value="verificatie akkoord"/>
+  <properties key="Post" value="Inspectie opdracht"/>
 </archimate:BusinessProcess>
