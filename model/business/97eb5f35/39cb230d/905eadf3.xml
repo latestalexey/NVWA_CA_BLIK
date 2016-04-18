@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessFunction xmlns:archimate="http://www.archimatetool.com/archimate" id="905eadf3" name="Kader bewaking" documentation="Het bewaken of processen binnen de (zelf) opgestelde beperkingen worden uitgevoerd. (GEMMA)"/>
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="905eadf3"
+    name="Kader bewaking"
+    documentation="Het bewaken of processen binnen de (zelf) opgestelde beperkingen worden uitgevoerd. (GEMMA)"/>

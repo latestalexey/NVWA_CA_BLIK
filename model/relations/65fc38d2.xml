@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:UsedByRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="65fc38d2">
-  <source xsi:type="archimate:ApplicationFunction" href="../application/4ef29037/a667a22c/27f3cb17/e42ddb20.xml#e42ddb20"/>
-  <target xsi:type="archimate:ApplicationFunction" href="../application/4ef29037/a667a22c/27f3cb17/5ad162b5.xml#5ad162b5"/>
-</archimate:UsedByRelationship>
+<archimate:UsedByRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="65fc38d2"
+    source="archimate:ApplicationFunction ../application/4ef29037/a667a22c/27f3cb17/e42ddb20.xml#e42ddb20"
+    target="archimate:ApplicationFunction ../application/4ef29037/a667a22c/27f3cb17/5ad162b5.xml#5ad162b5"/>

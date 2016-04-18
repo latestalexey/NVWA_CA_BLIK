@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessRole xmlns:archimate="http://www.archimatetool.com/archimate" id="c7e93f64" name="Manager (PF11)" documentation="{in PPI document staat bij de omschrijving een opsomming van taken. Dit wordt al ondervangen door de koppeling tussen processtap en rol. Omschrijving ontbreekt dus}"/>
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="c7e93f64"
+    name="Manager (PF11)"
+    documentation="{in PPI document staat bij de omschrijving een opsomming van taken. Dit wordt al ondervangen door de koppeling tussen processtap en rol. Omschrijving ontbreekt dus}"/>

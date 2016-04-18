@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="8469d6fd" name="beoordelen historie bedrijven (PF15)" documentation="De NVWA historie (naleefbeelden, risicoprofielen, etc.) van het KS en aangesloten bedrijven bekijken.">
-  <properties key="Pre" value="Bedrijven geselecteerd"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="8469d6fd"
+    name="beoordelen historie bedrijven (PF15)"
+    documentation="De NVWA historie (naleefbeelden, risicoprofielen, etc.) van het KS en aangesloten bedrijven bekijken.">
+  <properties
+      key="Pre"
+      value="Bedrijven geselecteerd"/>
 </archimate:BusinessProcess>

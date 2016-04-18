@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:TriggeringRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="b01992d8">
-  <source xsi:type="archimate:BusinessProcess" href="../business/3e0e9fd2/b444dcb0/143a63dc.xml#143a63dc"/>
-  <target xsi:type="archimate:BusinessProcess" href="../business/3e0e9fd2/b444dcb0/3bcd7fd8.xml#3bcd7fd8"/>
-</archimate:TriggeringRelationship>
+<archimate:TriggeringRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="b01992d8"
+    source="archimate:BusinessProcess ../business/3e0e9fd2/b444dcb0/143a63dc.xml#143a63dc"
+    target="archimate:BusinessProcess ../business/3e0e9fd2/b444dcb0/3bcd7fd8.xml#3bcd7fd8"/>

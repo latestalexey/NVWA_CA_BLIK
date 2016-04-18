@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessActor xmlns:archimate="http://www.archimatetool.com/archimate" id="Kennis_instituten" name="Kennis instituten" documentation="Instituten die als (een van de) kerntaak (kerntaken) heeft het ontwikkelen van kenis op een voor de NVWA relevant vakgebied"/>
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="Kennis_instituten"
+    name="Kennis instituten"
+    documentation="Instituten die als (een van de) kerntaak (kerntaken) heeft het ontwikkelen van kenis op een voor de NVWA relevant vakgebied"/>

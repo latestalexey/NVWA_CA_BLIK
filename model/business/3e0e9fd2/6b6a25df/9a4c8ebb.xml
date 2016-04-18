@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="9a4c8ebb" name="Verzamelen overige gegevens (PF06)" documentation="Verzamel vanuit de sector- en bedrijfsgegevens en inspectiehistorie overige data die het behaalde resultaat helpen verklaren en aanleiding geven voor het doen van aanbevelingen. &#xD;&#xA;&#xD;&#xA;Overige data kunnen zijn:&#xD;&#xA;- Signalen (zoals meldingen)&#xD;&#xA;- Trends&#xD;&#xA;- Beleidssignalen&#xD;&#xA;- Opmerkingen inspecteurs in bedrijfsdossiers&#xD;&#xA;&#xD;&#xA;"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="9a4c8ebb"
+    name="Verzamelen overige gegevens (PF06)"
+    documentation="Verzamel vanuit de sector- en bedrijfsgegevens en inspectiehistorie overige data die het behaalde resultaat helpen verklaren en aanleiding geven voor het doen van aanbevelingen. &#xD;&#xA;&#xD;&#xA;Overige data kunnen zijn:&#xD;&#xA;- Signalen (zoals meldingen)&#xD;&#xA;- Trends&#xD;&#xA;- Beleidssignalen&#xD;&#xA;- Opmerkingen inspecteurs in bedrijfsdossiers&#xD;&#xA;&#xD;&#xA;"/>

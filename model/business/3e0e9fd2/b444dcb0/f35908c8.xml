@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="f35908c8" name="Bepalen controle-maatregelen (PF11)" documentation="Op basis van het controlememorandum (inclusief controlematrix) wordt per regeling bepaald welke controlemaatregelen moeten worden uitgevoerd (b.v. administratieve controle of vangstcapaciteit van de vloot)."/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="f35908c8"
+    name="Bepalen controle-maatregelen (PF11)"
+    documentation="Op basis van het controlememorandum (inclusief controlematrix) wordt per regeling bepaald welke controlemaatregelen moeten worden uitgevoerd (b.v. administratieve controle of vangstcapaciteit van de vloot)."/>

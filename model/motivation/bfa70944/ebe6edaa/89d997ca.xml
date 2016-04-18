@@ -1,7 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:Goal xmlns:archimate="http://www.archimatetool.com/archimate" id="89d997ca" name="HH uitvoering">
-  <properties key="efficientie" value="Minimaal 70% van zijn productieve tijd besteedt de inspecteur aan het doen van inspecties (incl. reistijd, excl. voorbereiding en afhandeling)"/>
-  <properties key="uniformiteit" value="De NVWA levert uniforme afdoeningsproducten (zowel positief, neutraal als negatief) van de uitvoering aan haar stakeholders"/>
-  <properties key="kwaliteit" value="minimaal 95% van de afgeronde afdoeningsproducten is in 1 keer juist. "/>
-  <properties key="reistijd" value="de inzetplanning wordt zodanig verbeterd dat de reistijd van de inspecteurs wordt geminimaliseerd"/>
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="89d997ca"
+    name="HH uitvoering">
+  <properties
+      key="efficientie"
+      value="Minimaal 70% van zijn productieve tijd besteedt de inspecteur aan het doen van inspecties (incl. reistijd, excl. voorbereiding en afhandeling)"/>
+  <properties
+      key="uniformiteit"
+      value="De NVWA levert uniforme afdoeningsproducten (zowel positief, neutraal als negatief) van de uitvoering aan haar stakeholders"/>
+  <properties
+      key="kwaliteit"
+      value="minimaal 95% van de afgeronde afdoeningsproducten is in 1 keer juist. "/>
+  <properties
+      key="reistijd"
+      value="de inzetplanning wordt zodanig verbeterd dat de reistijd van de inspecteurs wordt geminimaliseerd"/>
 </archimate:Goal>

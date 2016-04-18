@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="6cbe652d" name="Horen overtreder (PF10)" documentation="degene die een bestuursrechtelijke interventie krijgt aangezegd mag hierop reageren met zijn zienswijze. dit zal verwerkt worden in het boeterapport">
-  <properties key="Pre" value="aanzeggen bestuurlijke maatregel = completed"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="6cbe652d"
+    name="Horen overtreder (PF10)"
+    documentation="degene die een bestuursrechtelijke interventie krijgt aangezegd mag hierop reageren met zijn zienswijze. dit zal verwerkt worden in het boeterapport">
+  <properties
+      key="Pre"
+      value="aanzeggen bestuurlijke maatregel = completed"/>
 </archimate:BusinessProcess>
