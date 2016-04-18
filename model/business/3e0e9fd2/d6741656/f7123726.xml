@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="f7123726" name="Voeren intake gesprek (PF15)" documentation="Tijdens het intakegesprek worden eventuele onduidelijkheden m.b.t. de ingevulde antwoorden opgelost. Vervolgens wordt met de vertegenwoordigers van de schemabeheerder besproken of ,en zo ja, in welk tempo het kwaliteitssysteem aangepast gaat worden conform de selectiecriteria. De resultaten van het intakegesprek worden vastgelegd in het Systeem.">
-  <properties key="Pre" value="afspraak is gepland EN datum afspraak is bereikt"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="f7123726"
+    name="Voeren intake gesprek (PF15)"
+    documentation="Tijdens het intakegesprek worden eventuele onduidelijkheden m.b.t. de ingevulde antwoorden opgelost. Vervolgens wordt met de vertegenwoordigers van de schemabeheerder besproken of ,en zo ja, in welk tempo het kwaliteitssysteem aangepast gaat worden conform de selectiecriteria. De resultaten van het intakegesprek worden vastgelegd in het Systeem.">
+  <properties
+      key="Pre"
+      value="afspraak is gepland EN datum afspraak is bereikt"/>
 </archimate:BusinessProcess>

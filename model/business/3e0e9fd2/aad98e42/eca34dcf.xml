@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="eca34dcf" name="Horen verdachte (PF10)" documentation="degene die het proces verbaal aangezegd krijgt mag hierop reageren. dit zal verwerkt worden in het proces verbaal">
-  <properties key="Pre" value="aanzeggen bestuurlijke strafbeschikking = completed"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="eca34dcf"
+    name="Horen verdachte (PF10)"
+    documentation="degene die het proces verbaal aangezegd krijgt mag hierop reageren. dit zal verwerkt worden in het proces verbaal">
+  <properties
+      key="Pre"
+      value="aanzeggen PV = completed"/>
 </archimate:BusinessProcess>

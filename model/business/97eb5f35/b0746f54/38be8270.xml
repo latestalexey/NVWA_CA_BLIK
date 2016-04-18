@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessFunction xmlns:archimate="http://www.archimatetool.com/archimate" id="38be8270" name="Toezicht" documentation="Het vaststellen, vastleggen en/of achterhalen van feitelijke situaties en/of gedragingen met als doel deze te toetsen aan de gestelde eisen."/>
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="38be8270"
+    name="Toezicht"
+    documentation="Het vaststellen, vastleggen en/of achterhalen van feitelijke situaties en/of gedragingen met als doel deze te toetsen aan de gestelde eisen."/>

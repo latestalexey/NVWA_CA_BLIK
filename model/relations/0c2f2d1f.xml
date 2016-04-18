@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:FlowRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="0c2f2d1f" name="levert naam">
-  <source xsi:type="archimate:ApplicationComponent" href="../application/5eea8998/6c83cb6a.xml#6c83cb6a"/>
-  <target xsi:type="archimate:ApplicationComponent" href="../application/5eea8998/75579a29.xml#75579a29"/>
-</archimate:FlowRelationship>
+<archimate:FlowRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="0c2f2d1f"
+    name="levert NAW + Specialisme + Organisatie + Competentie + werkveld"
+    source="archimate:ApplicationComponent ../application/5eea8998/6c83cb6a.xml#6c83cb6a"
+    target="archimate:ApplicationComponent ../application/5eea8998/75579a29.xml#75579a29"/>

@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="4dad4147" name="Registreren melding (PF12)" documentation="Meldingen worden geregistreerd op basis van de informatie zoals die via het desbetreffende kanaal wordt ontvangen.&#xD;&#xA;- aanmaken zaak&#xD;&#xA;- (automatisch) vullen van velden obv formulier / brief (OCR?) / telefoongesprek&#xD;&#xA;">
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="4dad4147"
+    name="Registreren melding (PF12)"
+    documentation="Meldingen worden geregistreerd op basis van de informatie zoals die via het desbetreffende kanaal wordt ontvangen.&#xD;&#xA;- aanmaken zaak&#xD;&#xA;- (automatisch) vullen van velden obv formulier / brief (OCR?) / telefoongesprek&#xD;&#xA;">
   <properties/>
 </archimate:BusinessProcess>

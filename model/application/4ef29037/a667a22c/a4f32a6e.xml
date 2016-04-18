@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:ApplicationFunction xmlns:archimate="http://www.archimatetool.com/archimate" id="a4f32a6e" name="Rijkswerkplek">
-  <properties key="_Question" value="Dit is infrastructuur en geen informatiesysteem? Andere term voor functionaliteit is Personal Productivity. Dit is verzamelterm voor Desktop applicaties zoals Office, Adobe, etc."/>
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="a4f32a6e"
+    name="Rijkswerkplek">
+  <properties
+      key="_Question"
+      value="Dit is infrastructuur en geen informatiesysteem? Andere term voor functionaliteit is Personal Productivity. Dit is verzamelterm voor Desktop applicaties zoals Office, Adobe, etc."/>
 </archimate:ApplicationFunction>

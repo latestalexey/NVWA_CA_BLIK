@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:AggregationRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="ebc73942">
-  <source xsi:type="archimate:BusinessProcess" href="../business/3e0e9fd2/d6741656/0e8b89bd.xml#0e8b89bd"/>
-  <target xsi:type="archimate:BusinessProcess" href="../business/3e0e9fd2/d6741656/e19083fe.xml#e19083fe"/>
-</archimate:AggregationRelationship>
+<archimate:AggregationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="ebc73942"
+    source="archimate:BusinessProcess ../business/3e0e9fd2/d6741656/0e8b89bd.xml#0e8b89bd"
+    target="archimate:BusinessProcess ../business/3e0e9fd2/d6741656/e19083fe.xml#e19083fe"/>

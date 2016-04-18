@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:ApplicationFunction xmlns:archimate="http://www.archimatetool.com/archimate" id="70e179e0" name="Offline werken">
-  <properties key="_Question" value="Klinkt meer als een requirement, eis voor een groep van informatiesystemen?"/>
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="70e179e0"
+    name="Offline werken">
+  <properties
+      key="_Question"
+      value="Klinkt meer als een requirement, eis voor een groep van informatiesystemen?"/>
 </archimate:ApplicationFunction>
