@@ -1,9 +1,4 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="fbde72c3"
-    name="Verzamelen gegevens voor inspectiedossier (PF10)"
-    documentation="Per inspectie wordt een (NVWA breed) inspectiedossier samengesteld met voor die inspectie relevante gegevens (zoals bepaald in het projectplan), zodat de inspecteur(s) aan de slag kunnen met het voorbereiden en uitvoeren van de inspectie. (dit verzamelen kan overigens ook door een andere dan de inspecteur zelf worden uitgevoerd)&#xD;&#xA;Dit gebeurt zo laat mogelijk zodat de meest recente informatie beschikbaar is.&#xD;&#xA;">
-  <properties
-      key="Pre"
-      value="inspectieopdracht is geroosterd"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="fbde72c3" name="Verzamelen gegevens voor inspectiedossier (PF10)" documentation="Per inspectie wordt een (NVWA breed) inspectiedossier samengesteld met voor die inspectie relevante gegevens (zoals bepaald in het projectplan), zodat de inspecteur(s) aan de slag kunnen met het voorbereiden en uitvoeren van de inspectie. (dit verzamelen kan overigens ook door een andere dan de inspecteur zelf worden uitgevoerd)&#xD;&#xA;Dit gebeurt zo laat mogelijk zodat de meest recente informatie beschikbaar is.&#xD;&#xA;">
+  <properties key="Pre" value="inspectieopdracht is geroosterd"/>
 </archimate:BusinessProcess>

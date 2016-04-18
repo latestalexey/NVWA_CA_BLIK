@@ -1,5 +1,2 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="c5046ad2"
-    name="Vaststellen in behandeling nemen (PF12)"
-    documentation="Bepaal of er sprake is van een case. Een melding is tevens een case wanneer deze over meerdere divisies/domeinen afspeelt en/of er meerdere inspecteurs de melding moeten afhandelen omdat er bijvoorbeeld meerdere bedrijven bij betrokken zijn."/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="c5046ad2" name="Vaststellen in behandeling nemen (PF12)" documentation="Bepaal of er sprake is van een case. Een melding is tevens een case wanneer deze over meerdere divisies/domeinen afspeelt en/of er meerdere inspecteurs de melding moeten afhandelen omdat er bijvoorbeeld meerdere bedrijven bij betrokken zijn."/>

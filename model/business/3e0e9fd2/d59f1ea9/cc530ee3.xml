@@ -1,9 +1,4 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="cc530ee3"
-    name="Bepalen in behandeling nemen (PF12)"
-    documentation="De aanpassing in prioriteit en de reden tot aanpassingen worden vastgelegd. Daarnaast legt de medewerker ook vast wat de afwegingen zijn gedurende de beoordeling van de melding omtrent acties, doorzetten etc. ">
-  <properties
-      key="Post"
-      value="melding toegewezen"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="cc530ee3" name="Bepalen in behandeling nemen (PF12)" documentation="De aanpassing in prioriteit en de reden tot aanpassingen worden vastgelegd. Daarnaast legt de medewerker ook vast wat de afwegingen zijn gedurende de beoordeling van de melding omtrent acties, doorzetten etc. ">
+  <properties key="Post" value="melding toegewezen"/>
 </archimate:BusinessProcess>
