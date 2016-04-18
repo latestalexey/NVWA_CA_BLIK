@@ -282,5 +282,7 @@
   </children>
   <properties
       key="Pre"/>
-  <properties/>
+  <properties
+      key="_Project"
+      value="PF06"/>
 </archimate:ArchimateDiagramModel>
