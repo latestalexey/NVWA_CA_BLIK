@@ -1,12 +1,5 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="02e1185c"
-    name="SP.10 -  De NVWA werkt bedrijfsgericht om haar doelmatigheid te vergroten"
-    documentation="NVWA wil als professionele organisatie te werk gaan, de toezichtlast beperken en de capaciteit optimaal inzetten. Deze aanpak betekent niet dat een inspecteur alle op het bedrijf van toepassing zijnde regelgeving controleert: de inspecteur neemt alleen die onderdelen mee die vanuit thematisch of risico-oogpunt moeten worden gecontroleerd (en welke binnen de aanwezige competenties vallen).&#xD;&#xA;">
-  <properties
-      key="principe statement"
-      value="Kiest de NVWA voor een bedrijfsinspectie dan kunnen alle van belang zijnde onderwerpen op Ã©Ã©n moment gecontroleerd worden als dat doelmatiger is. Door optimaal gebruik te maken van het contact-moment wordt voorkomen dat verschillende inspecteurs op verschillende momenten naar het bedrijf gaan om op verschillende regels te controleren."/>
-  <properties
-      key="principe soort"
-      value="Strategisch principe"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Principle xmlns:archimate="http://www.archimatetool.com/archimate" id="02e1185c" name="SP.10 -  De NVWA werkt bedrijfsgericht om haar doelmatigheid te vergroten" documentation="NVWA wil als professionele organisatie te werk gaan, de toezichtlast beperken en de capaciteit optimaal inzetten. Deze aanpak betekent niet dat een inspecteur alle op het bedrijf van toepassing zijnde regelgeving controleert: de inspecteur neemt alleen die onderdelen mee die vanuit thematisch of risico-oogpunt moeten worden gecontroleerd (en welke binnen de aanwezige competenties vallen).&#xD;&#xA;">
+  <properties key="principe statement" value="Kiest de NVWA voor een bedrijfsinspectie dan kunnen alle van belang zijnde onderwerpen op Ã©Ã©n moment gecontroleerd worden als dat doelmatiger is. Door optimaal gebruik te maken van het contact-moment wordt voorkomen dat verschillende inspecteurs op verschillende momenten naar het bedrijf gaan om op verschillende regels te controleren."/>
+  <properties key="principe soort" value="Strategisch principe"/>
 </archimate:Principle>

@@ -1,8 +1,4 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="6a47afc8"
-    name="Toewijzen inhoudelijke deskundigen (PF15)">
-  <properties
-      key="Pre"
-      value="trekker is toegewezen"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="6a47afc8" name="Toewijzen inhoudelijke deskundigen (PF15)">
+  <properties key="Pre" value="trekker is toegewezen"/>
 </archimate:BusinessProcess>

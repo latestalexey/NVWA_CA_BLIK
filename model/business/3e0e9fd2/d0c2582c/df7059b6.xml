@@ -1,11 +1,5 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="df7059b6"
-    name="Definitief vaststellen incident (PF20)">
-  <properties
-      key="Pre"
-      value="Allerteringsoverleg georganiseerd"/>
-  <properties
-      key="Pre"
-      value="Er is geen sprake van crisis"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="df7059b6" name="Definitief vaststellen incident (PF20)">
+  <properties key="Pre" value="Allerteringsoverleg georganiseerd"/>
+  <properties key="Pre" value="Er is geen sprake van crisis"/>
 </archimate:BusinessProcess>

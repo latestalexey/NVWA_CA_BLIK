@@ -1,5 +1,2 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="4716a620"
-    name="Bepalen noodzaak RASFF/RAPEX (PF12)"
-    documentation="Vaststellen of de melding ook moet leiden tot een RASFF / RAPEX bericht."/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="4716a620" name="12.3.5 Bepalen noodzaak RASFF/RAPEX (PF12)" documentation="Vaststellen of de melding ook moet leiden tot een RASFF / RAPEX bericht."/>

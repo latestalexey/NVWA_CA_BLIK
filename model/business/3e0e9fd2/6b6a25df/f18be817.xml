@@ -1,5 +1,2 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="f18be817"
-    name="Bepalen benodigde capaciteit (PF06)"
-    documentation="Bereken aan de hand van de geselecteerde doelgroep, gekozen methoden, minimaal aantal benodigde bedrijven, kritische inspectiemomenten en eventueel andere van toepassing zijnde selectiecriteria de volgende onderdelen:&#xD;&#xA;- Benodigde uren voor het berekende aantal uit te voeren inspecties&#xD;&#xA;- Benodigde budget&#xD;&#xA;- Capaciteit (vaardigheden) inspecteurs&#xD;&#xA;- Capaciteit middelen&#xD;&#xA;- Tijdverdeling over het jaar (piekmomenten; zie 5)&#xD;&#xA;"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="f18be817" name="Bepalen benodigde capaciteit (PF06)" documentation="Bereken aan de hand van de geselecteerde doelgroep, gekozen methoden, minimaal aantal benodigde bedrijven, kritische inspectiemomenten en eventueel andere van toepassing zijnde selectiecriteria de volgende onderdelen:&#xD;&#xA;- Benodigde uren voor het berekende aantal uit te voeren inspecties&#xD;&#xA;- Benodigde budget&#xD;&#xA;- Capaciteit (vaardigheden) inspecteurs&#xD;&#xA;- Capaciteit middelen&#xD;&#xA;- Tijdverdeling over het jaar (piekmomenten; zie 5)&#xD;&#xA;"/>

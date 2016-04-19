@@ -1,11 +1,5 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="4d670a06"
-    name="Deelnemen overleg (PF20)">
-  <properties
-      key="Pre"
-      value="Incident niet afgerond"/>
-  <properties
-      key="Post"
-      value="Crisis niet afgerond"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="4d670a06" name="Deelnemen overleg (PF20)">
+  <properties key="Pre" value="Incident niet afgerond"/>
+  <properties key="Post" value="Crisis niet afgerond"/>
 </archimate:BusinessProcess>

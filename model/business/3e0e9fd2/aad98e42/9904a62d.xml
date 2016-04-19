@@ -1,13 +1,6 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="9904a62d"
-    name="Beoordelen selectie (PF10)"
-    documentation="Vergelijk aan de hand van het selectieresultaat of er voldoende bedrijven beschikbaar zijn voor (vanuit de activiteit 'bereken benodigde aantal bedrijven') het behalen van de gestelde resultaatgerichte opdracht (hierin worden de reeds uitgevoerde inspecties meegenomen). &#xD;&#xA;Eventueel kan hier sprake zijn van oormerken (handmatige selectie) van specifieke bedrijven waarover meer bekend is (risicogericht)&#xD;&#xA;Geef eventuele afwijkingen aan (uitval door crisis, marktontwikkeling, IoD onderzoek op projectopdracht wetgeving, meer/minder dan benodigd).&#xD;&#xA;">
-  <properties
-      key="Post"
-      value="verschil tussen voor resultaat benodigde en geselecteerde aantal bedrijven en eventuele uitval is bekend"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="9904a62d" name="Beoordelen selectie (PF10)" documentation="Vergelijk aan de hand van het selectieresultaat of er voldoende bedrijven beschikbaar zijn voor (vanuit de activiteit 'bereken benodigde aantal bedrijven') het behalen van de gestelde resultaatgerichte opdracht (hierin worden de reeds uitgevoerde inspecties meegenomen). &#xD;&#xA;Eventueel kan hier sprake zijn van oormerken (handmatige selectie) van specifieke bedrijven waarover meer bekend is (risicogericht)&#xD;&#xA;Geef eventuele afwijkingen aan (uitval door crisis, marktontwikkeling, IoD onderzoek op projectopdracht wetgeving, meer/minder dan benodigd).&#xD;&#xA;">
+  <properties key="Post" value="verschil tussen voor resultaat benodigde en geselecteerde aantal bedrijven en eventuele uitval is bekend"/>
   <properties/>
-  <properties
-      key="Pre"
-      value="selectieresultaat aanwezig"/>
+  <properties key="Pre" value="selectieresultaat aanwezig"/>
 </archimate:BusinessProcess>

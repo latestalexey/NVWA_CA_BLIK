@@ -1,9 +1,4 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="110ddb4d"
-    name="Geven nalevingsadvies (PF10) (dienstverlening)"
-    documentation="De inspecteur kan ervoor kiezen om de handhavingsmethode dienstverlening toe te passen. Daarbij geeft hij advies aan de geinspecteerde over hoe beter de regels na te leven (compliance assistance) om een overtredingsituatie te helpen voorkomen of oplossen. Dit is in ACE onderdeel van proces &quot;bevorderen naleving&quot; maar daarin zit dan ook het geven van een waarschuwing en dat hebben we hier apart gehouden omdat bij geven nalevingsadvies geen schriftelijke follow up is en bij een waarschuwing wel. ">
-  <properties
-      key="Pre"
-      value="Beoordelen bevindingen = completed"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="110ddb4d" name="Geven nalevingsadvies (PF10) (dienstverlening)" documentation="De inspecteur kan ervoor kiezen om de handhavingsmethode dienstverlening toe te passen. Daarbij geeft hij advies aan de geinspecteerde over hoe beter de regels na te leven (compliance assistance) om een overtredingsituatie te helpen voorkomen of oplossen. Dit is in ACE onderdeel van proces &quot;bevorderen naleving&quot; maar daarin zit dan ook het geven van een waarschuwing en dat hebben we hier apart gehouden omdat bij geven nalevingsadvies geen schriftelijke follow up is en bij een waarschuwing wel. ">
+  <properties key="Pre" value="Beoordelen bevindingen = completed"/>
 </archimate:BusinessProcess>

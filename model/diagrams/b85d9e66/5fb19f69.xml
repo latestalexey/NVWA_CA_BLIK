@@ -1,116 +1,43 @@
-<archimate:ArchimateDiagramModel
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="5fb19f69"
-    name="CA Strategische principes">
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="8d873c8a"
-      textAlignment="2"
-      archimateElement="archimate:Principle ../../motivation/07842be0/15a3c557.xml#15a3c557">
-    <bounds
-        x="36"
-        y="12"
-        width="325"
-        height="49"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:ArchimateDiagramModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="5fb19f69" name="CA Strategische principes">
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="8d873c8a" textAlignment="2">
+    <bounds x="36" y="12" width="325" height="49"/>
+    <archimateElement xsi:type="archimate:Principle" href="../../motivation/07842be0/15a3c557.xml#15a3c557"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="c51d60b2"
-      textAlignment="2"
-      archimateElement="archimate:Principle ../../motivation/07842be0/9c697791.xml#9c697791">
-    <bounds
-        x="36"
-        y="84"
-        width="325"
-        height="49"/>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="c51d60b2" textAlignment="2">
+    <bounds x="36" y="84" width="325" height="49"/>
+    <archimateElement xsi:type="archimate:Principle" href="../../motivation/07842be0/9c697791.xml#9c697791"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="9912bea4"
-      textAlignment="2"
-      archimateElement="archimate:Principle ../../motivation/07842be0/72b93d16.xml#72b93d16">
-    <bounds
-        x="36"
-        y="156"
-        width="325"
-        height="49"/>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="9912bea4" textAlignment="2">
+    <bounds x="36" y="156" width="325" height="49"/>
+    <archimateElement xsi:type="archimate:Principle" href="../../motivation/07842be0/72b93d16.xml#72b93d16"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="d9f7616d"
-      textAlignment="2"
-      archimateElement="archimate:Principle ../../motivation/07842be0/33a36061.xml#33a36061">
-    <bounds
-        x="36"
-        y="228"
-        width="325"
-        height="49"/>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="d9f7616d" textAlignment="2">
+    <bounds x="36" y="228" width="325" height="49"/>
+    <archimateElement xsi:type="archimate:Principle" href="../../motivation/07842be0/33a36061.xml#33a36061"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="780c3711"
-      textAlignment="2"
-      archimateElement="archimate:Principle ../../motivation/07842be0/3e66469a.xml#3e66469a">
-    <bounds
-        x="36"
-        y="300"
-        width="325"
-        height="49"/>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="780c3711" textAlignment="2">
+    <bounds x="36" y="300" width="325" height="49"/>
+    <archimateElement xsi:type="archimate:Principle" href="../../motivation/07842be0/3e66469a.xml#3e66469a"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="4fc0914d"
-      textAlignment="2"
-      archimateElement="archimate:Principle ../../motivation/07842be0/228a489b.xml#228a489b">
-    <bounds
-        x="36"
-        y="372"
-        width="325"
-        height="49"/>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="4fc0914d" textAlignment="2">
+    <bounds x="36" y="372" width="325" height="49"/>
+    <archimateElement xsi:type="archimate:Principle" href="../../motivation/07842be0/228a489b.xml#228a489b"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="cf10bb51"
-      textAlignment="2"
-      archimateElement="archimate:Principle ../../motivation/07842be0/bb06bb0c.xml#bb06bb0c">
-    <bounds
-        x="36"
-        y="444"
-        width="325"
-        height="49"/>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="cf10bb51" textAlignment="2">
+    <bounds x="36" y="444" width="325" height="49"/>
+    <archimateElement xsi:type="archimate:Principle" href="../../motivation/07842be0/bb06bb0c.xml#bb06bb0c"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="3b569e3a"
-      textAlignment="2"
-      archimateElement="archimate:Principle ../../motivation/07842be0/55be85cf.xml#55be85cf">
-    <bounds
-        x="36"
-        y="516"
-        width="325"
-        height="49"/>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="3b569e3a" textAlignment="2">
+    <bounds x="36" y="516" width="325" height="49"/>
+    <archimateElement xsi:type="archimate:Principle" href="../../motivation/07842be0/55be85cf.xml#55be85cf"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="5c6297e0"
-      textAlignment="2"
-      archimateElement="archimate:Principle ../../motivation/07842be0/6bbbcc02.xml#6bbbcc02">
-    <bounds
-        x="36"
-        y="588"
-        width="325"
-        height="49"/>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="5c6297e0" textAlignment="2">
+    <bounds x="36" y="588" width="325" height="49"/>
+    <archimateElement xsi:type="archimate:Principle" href="../../motivation/07842be0/6bbbcc02.xml#6bbbcc02"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="1008150b"
-      textAlignment="2"
-      archimateElement="archimate:Principle ../../motivation/07842be0/02e1185c.xml#02e1185c">
-    <bounds
-        x="36"
-        y="660"
-        width="325"
-        height="49"/>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="1008150b" textAlignment="2">
+    <bounds x="36" y="660" width="325" height="49"/>
+    <archimateElement xsi:type="archimate:Principle" href="../../motivation/07842be0/02e1185c.xml#02e1185c"/>
   </children>
 </archimate:ArchimateDiagramModel>

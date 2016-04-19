@@ -1,9 +1,4 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="5377ba6d"
-    name="BP.08 - De NVWA biedt moderne ondersteuning"
-    documentation="De overheid heeft ingezet op het digitaliseren van de dienstverlening.">
-  <properties
-      key="principe soort"
-      value="Bedrijfsprincipe"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Principle xmlns:archimate="http://www.archimatetool.com/archimate" id="5377ba6d" name="BP.08 - De NVWA biedt moderne ondersteuning" documentation="De overheid heeft ingezet op het digitaliseren van de dienstverlening.">
+  <properties key="principe soort" value="Bedrijfsprincipe"/>
 </archimate:Principle>

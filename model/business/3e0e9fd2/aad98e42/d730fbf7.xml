@@ -1,9 +1,4 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="d730fbf7"
-    name="Verplaatsen naar locatie (PF10)"
-    documentation="indien je op locatie moet zijn, moet je rijden naar de locatie">
-  <properties
-      key="Pre"
-      value="fysieke inspectie = true"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="d730fbf7" name="Verplaatsen naar locatie (PF10)" documentation="indien je op locatie moet zijn, moet je rijden naar de locatie">
+  <properties key="Pre" value="fysieke inspectie = true"/>
 </archimate:BusinessProcess>
