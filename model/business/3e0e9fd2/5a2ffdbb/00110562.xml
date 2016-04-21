@@ -1,2 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="00110562" name="17.3 Vaststellen noodzaak referentiemonster (PF17)"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="00110562"
+    name="17.3 Vaststellen noodzaak referentiemonster (PF17)"
+    documentation="Of het meldingmonster nu wel of niet aanwezig is; in beide gevallen wordt bekeken of het mogelijk is om een referentiemonster te nemen. Het referentiemonster moet van dezelfde of vergelijkbare partij zijn als het exemplaar/product waarover de melding was binnengekomen. Als dat mogelijk is, wordt er een referentiemonster genomen. Als dat niet mogelijk is, én het meldingmonster is ook niet aanwezig, dan wordt in proces ‘meldingen’ bekeken hoe men de melding gaat afhandelen. ">
+  <properties
+      key="Pre"
+      value="Gerelateerde zaak is van type melding"/>
+  <properties
+      key="_Project"
+      value="Indien referentiemonster niet mogelijk dan afsluiten zaak"/>
+</archimate:BusinessProcess>

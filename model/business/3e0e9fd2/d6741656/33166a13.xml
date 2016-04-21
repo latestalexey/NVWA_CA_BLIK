@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="33166a13" name="Selecteren bedrijven voor verificatie (PF15)">
-  <properties key="Pre" value="Verificatie criteria en normen vastgesteld"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="33166a13"
+    name="Selecteren bedrijven voor verificatie (PF15)">
+  <properties
+      key="Pre"
+      value="Verificatie criteria en normen vastgesteld"/>
 </archimate:BusinessProcess>

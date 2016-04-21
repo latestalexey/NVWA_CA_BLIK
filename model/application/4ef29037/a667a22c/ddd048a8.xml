@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:ApplicationFunction xmlns:archimate="http://www.archimatetool.com/archimate" id="ddd048a8" name="Tijdcalculatie en verantwoorden">
-  <properties key="_Question" value="Verantwoorden staat ook bij [Plannen, begroten en verantwoorden]. Wat is het verschil? Verantwoorden is activiteit/bedrijfsfunctie die wordt ondersteund door business intelligence/reporting?"/>
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="ddd048a8"
+    name="Tijdcalculatie en verantwoorden">
+  <properties
+      key="_Question"
+      value="Verantwoorden staat ook bij [Plannen, begroten en verantwoorden]. Wat is het verschil? Verantwoorden is activiteit/bedrijfsfunctie die wordt ondersteund door business intelligence/reporting?"/>
 </archimate:ApplicationFunction>

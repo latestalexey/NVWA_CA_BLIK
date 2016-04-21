@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="82223f71" name="Verwerken ontvangen toezeggingen (PF15)" documentation="Deze stap is alleen nodig als er ook daadwerkelijk toezeggingen zijn gedaan door aanvrager. De toezeggingen worden door de aanvrager in het portaal gedeeld met de NVWA">
-  <properties key="Pre" value="Toezegging aanvrager"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="82223f71"
+    name="Verwerken ontvangen toezeggingen (PF15)"
+    documentation="Deze stap is alleen nodig als er ook daadwerkelijk toezeggingen zijn gedaan door aanvrager. De toezeggingen worden door de aanvrager in het portaal gedeeld met de NVWA">
+  <properties
+      key="Pre"
+      value="Toezegging aanvrager"/>
 </archimate:BusinessProcess>
