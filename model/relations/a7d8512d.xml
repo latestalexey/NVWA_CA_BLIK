@@ -1,0 +1,5 @@
+<archimate:FlowRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="a7d8512d"
+    source="archimate:BusinessProcess ../business/3e0e9fd2/d0c2582c/fa954d04.xml#fa954d04"
+    target="archimate:BusinessCollaboration ../business/16e91c80.xml#16e91c80"/>

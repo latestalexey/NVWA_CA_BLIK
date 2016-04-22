@@ -1,0 +1,5 @@
+<archimate:AssignmentRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="c4ac38d8"
+    source="archimate:BusinessActor ../business/d79adb61/Ministerie_van_Volksgezondheid,_Welzijn_en_Sport.xml#Ministerie_van_Volksgezondheid,_Welzijn_en_Sport"
+    target="archimate:BusinessProcess ../business/3e0e9fd2/d0c2582c/adb425b5.xml#adb425b5"/>
