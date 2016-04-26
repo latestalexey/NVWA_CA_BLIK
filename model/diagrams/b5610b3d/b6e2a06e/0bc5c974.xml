@@ -322,6 +322,12 @@
         y="60"
         width="1813"
         height="289"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="9cd35d93"
+        source="#96fda6db"
+        target="#dbea4cd9"
+        relationship="archimate:TriggeringRelationship ../../../relations/f98e77e4.xml#f98e77e4"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="e02c2046"
@@ -398,7 +404,7 @@
         textAlignment="2"
         archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/d0c2582c/7d629b33.xml#7d629b33">
       <bounds
-          x="300"
+          x="264"
           y="22"
           width="144"
           height="59"/>
@@ -691,10 +697,10 @@
           target="#9e26c830"
           relationship="archimate:TriggeringRelationship ../../../relations/a82060c9.xml#a82060c9">
         <bendpoints
-            startX="135"
-            startY="1"
-            endX="-57"
-            endY="-57"/>
+            startX="136"
+            startY="2"
+            endX="-56"
+            endY="-56"/>
       </sourceConnections>
     </children>
     <children
@@ -714,10 +720,10 @@
           target="#9e26c830"
           relationship="archimate:TriggeringRelationship ../../../relations/233df0ec.xml#233df0ec">
         <bendpoints
-            startX="135"
-            startY="-7"
-            endX="-57"
-            endY="51"/>
+            startX="136"
+            startY="4"
+            endX="-56"
+            endY="64"/>
       </sourceConnections>
     </children>
     <children
@@ -738,10 +744,10 @@
           target="#98e323b1"
           relationship="archimate:TriggeringRelationship ../../../relations/70b406a7.xml#70b406a7">
         <bendpoints
-            startX="51"
-            startY="-57"
-            endX="-141"
-            endY="1"/>
+            startX="52"
+            startY="-56"
+            endX="-140"
+            endY="2"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -750,10 +756,10 @@
           target="#28a09da0"
           relationship="archimate:TriggeringRelationship ../../../relations/09ab531f.xml#09ab531f">
         <bendpoints
-            startX="51"
-            startY="51"
-            endX="-142"
-            endY="18"/>
+            startX="52"
+            startY="64"
+            endX="-140"
+            endY="4"/>
       </sourceConnections>
     </children>
     <children
@@ -840,10 +846,10 @@
           target="#d0ada983"
           relationship="archimate:TriggeringRelationship ../../../relations/f5c3f379.xml#f5c3f379">
         <bendpoints
-            startX="207"
-            startY="3"
-            endX="3"
-            endY="121"/>
+            startX="208"
+            startY="4"
+            endX="4"
+            endY="122"/>
       </sourceConnections>
     </children>
     <children
@@ -1027,7 +1033,7 @@
       archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/dec2c0ec/58d60f78.xml#58d60f78">
     <bounds
         x="1920"
-        y="370"
+        y="480"
         width="349"
         height="59"/>
     <sourceConnections
@@ -1127,19 +1133,20 @@
       textAlignment="1"
       content="Onderdeel van afdoen?">
     <bounds
-        x="2400"
+        x="2423"
         y="456"
-        width="137"
+        width="114"
         height="37"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="dbea4cd9"
       textAlignment="2"
+      targetConnections="#9cd35d93"
       archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/dec2c0ec/6a8b2c80.xml#6a8b2c80">
     <bounds
-        x="2281"
-        y="516"
+        x="2280"
+        y="552"
         width="120"
         height="55"/>
   </children>
@@ -1288,7 +1295,7 @@
       archimateElement="archimate:BusinessActor ../../../business/d79adb61/Ministerie_van_Economische_Zaken.xml#Ministerie_van_Economische_Zaken">
     <bounds
         x="2675"
-        y="-24"
+        y="-60"
         width="120"
         height="55"/>
     <sourceConnections
@@ -1305,7 +1312,7 @@
       archimateElement="archimate:BusinessActor ../../../business/d79adb61/Ministerie_van_Volksgezondheid,_Welzijn_en_Sport.xml#Ministerie_van_Volksgezondheid,_Welzijn_en_Sport">
     <bounds
         x="2820"
-        y="-24"
+        y="-60"
         width="120"
         height="55"/>
     <sourceConnections
