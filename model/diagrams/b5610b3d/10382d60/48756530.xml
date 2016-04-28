@@ -1,0 +1,103 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="48756530"
+    name="PF15 PKS vs Bedrijfsfuncties">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3eb3e5db"
+      textAlignment="2"
+      targetConnections="#e1a551f0 #2524d47f #a082a532 #7fad8758 #be1468ec"
+      archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/dec2c0ec/f43c4a3a.xml#f43c4a3a">
+    <bounds
+        x="156"
+        y="120"
+        width="681"
+        height="97"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f75e44d8"
+      textAlignment="2"
+      archimateElement="archimate:BusinessFunction ../../../business/97eb5f35/4f01b4f7/a98ce638.xml#a98ce638">
+    <bounds
+        x="156"
+        y="264"
+        width="120"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="e1a551f0"
+        source="#f75e44d8"
+        target="#3eb3e5db"
+        relationship="archimate:UsedByRelationship ../../../relations/f7226c56.xml#f7226c56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="9bd0efde"
+      textAlignment="2"
+      archimateElement="archimate:BusinessFunction ../../../business/97eb5f35/b0746f54/fa0f8925.xml#fa0f8925">
+    <bounds
+        x="717"
+        y="264"
+        width="120"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="7fad8758"
+        source="#9bd0efde"
+        target="#3eb3e5db"
+        relationship="archimate:UsedByRelationship ../../../relations/ffb3f2e1.xml#ffb3f2e1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f0c1617f"
+      textAlignment="2"
+      archimateElement="archimate:BusinessFunction ../../../business/97eb5f35/bdeb0c06/f19ad9de.xml#f19ad9de">
+    <bounds
+        x="336"
+        y="264"
+        width="120"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="2524d47f"
+        source="#f0c1617f"
+        target="#3eb3e5db"
+        relationship="archimate:UsedByRelationship ../../../relations/34697f6d.xml#34697f6d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="bb538b20"
+      textAlignment="2"
+      archimateElement="archimate:BusinessFunction ../../../business/97eb5f35/b0746f54/7ae4ea07.xml#7ae4ea07">
+    <bounds
+        x="528"
+        y="264"
+        width="120"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="a082a532"
+        source="#bb538b20"
+        target="#3eb3e5db"
+        relationship="archimate:UsedByRelationship ../../../relations/650956a0.xml#650956a0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="9b527ac1"
+      textAlignment="2"
+      archimateElement="archimate:BusinessFunction ../../../business/97eb5f35/39cb230d/f631653d.xml#f631653d">
+    <bounds
+        x="319"
+        y="36"
+        width="120"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="be1468ec"
+        source="#9b527ac1"
+        target="#3eb3e5db"
+        relationship="archimate:UsedByRelationship ../../../relations/13e8d7b1.xml#13e8d7b1"/>
+  </children>
+</archimate:ArchimateDiagramModel>
