@@ -6,7 +6,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="1e4bcc3e"
-      name="Bedrijfsniveau">
+      name="Bedrijfsniveau"
+      fillColor="#00ff00">
     <bounds
         x="48"
         y="816"
@@ -115,7 +116,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="260f1610"
-      name="Concern niveau">
+      name="Concern niveau"
+      fillColor="#ff0000">
     <bounds
         x="48"
         y="36"
@@ -169,7 +171,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="2eda8871"
-      name="Doelgroepniveau">
+      name="Doelgroepniveau"
+      fillColor="#00ff00">
     <bounds
         x="49"
         y="480"
@@ -234,7 +237,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="5d77a05a"
-      name="Innovatie en vernieuwing">
+      name="Innovatie en vernieuwing"
+      fillColor="#0000ff">
     <bounds
         x="48"
         y="312"
@@ -266,7 +270,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="02efa45a"
-      name="Ondersteuning">
+      name="Ondersteuning"
+      fillColor="#0000ff">
     <bounds
         x="48"
         y="1416"
