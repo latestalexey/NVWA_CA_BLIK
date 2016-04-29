@@ -28,7 +28,7 @@
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="f8e824c2"
           source="#8aed02ed"
-          target="#aaaed679"
+          target="#0e49bb69"
           relationship="archimate:FlowRelationship ../../../relations/c5f88d0f.xml#c5f88d0f"/>
     </children>
   </children>
@@ -60,7 +60,7 @@
           textPosition="0"
           source="#70af8831"
           target="#e5b44476"
-          relationship="archimate:FlowRelationship ../../../../../../../BARTDE~1/AppData/Local/Temp/archi-2758354439858509293.tmp#57b2d056">
+          relationship="archimate:FlowRelationship ../../../../../../AppData/Local/Temp/archi-1363948243933041869.tmp#57b2d056">
         <bendpoints
             startX="168"
             startY="-15"
@@ -86,7 +86,7 @@
           textPosition="0"
           source="#70af8831"
           target="#7f193f6c"
-          relationship="archimate:FlowRelationship ../../../../../../../BARTDE~1/AppData/Local/Temp/archi-2758354439858509293.tmp#5216b22a">
+          relationship="archimate:FlowRelationship ../../../../../../AppData/Local/Temp/archi-1363948243933041869.tmp#5216b22a">
         <bendpoints
             startY="117"
             endY="-171"/>
@@ -143,6 +143,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0e49bb69"
       textAlignment="2"
+      targetConnections="#f8e824c2"
       archimateElement="archimate:ApplicationComponent ../../../application/5eea8998/6bbb4007.xml#6bbb4007"
       type="1">
     <bounds
@@ -204,7 +205,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="aaaed679"
         textAlignment="2"
-        targetConnections="#f8e824c2 #525eec21"
+        targetConnections="#525eec21"
         archimateElement="archimate:ApplicationComponent ../../../application/5eea8998/1cfe957c.xml#1cfe957c"
         type="1">
       <bounds
