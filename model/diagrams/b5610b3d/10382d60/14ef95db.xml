@@ -10,9 +10,9 @@
       targetConnections="#b01b1a25"
       archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/d6741656/56c8a119.xml#56c8a119">
     <bounds
-        x="-180"
+        x="-60"
         y="83"
-        width="1152"
+        width="1032"
         height="288"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -77,7 +77,7 @@
         fillColor="#ffffb5"
         archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/d6741656/0496e059.xml#0496e059">
       <bounds
-          x="816"
+          x="684"
           y="48"
           width="132"
           height="72"/>
@@ -96,7 +96,7 @@
         fillColor="#ffffb5"
         archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/d6741656/0720145f.xml#0720145f">
       <bounds
-          x="984"
+          x="852"
           y="48"
           width="132"
           height="72"/>
@@ -131,7 +131,7 @@
         targetConnections="#bf65753f"
         archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/d6741656/82223f71.xml#82223f71">
       <bounds
-          x="660"
+          x="528"
           y="168"
           width="132"
           height="72"/>
@@ -144,7 +144,7 @@
         fillColor="#ffffb5"
         archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/d6741656/55e5e7a1.xml#55e5e7a1">
       <bounds
-          x="984"
+          x="852"
           y="168"
           width="132"
           height="72"/>
@@ -157,7 +157,7 @@
         fillColor="#ffffb5"
         archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/d6741656/219d0364.xml#219d0364">
       <bounds
-          x="492"
+          x="360"
           y="48"
           width="132"
           height="72"/>
@@ -181,19 +181,7 @@
         targetConnections="#67e8dd2d #025fb8d6 #61c472f4 #59b8f525"
         archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/d6741656/f7123726.xml#f7123726">
       <bounds
-          x="660"
-          y="48"
-          width="132"
-          height="72"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="c8c202d8"
-        textAlignment="2"
-        targetConnections="#7bd32a78"
-        archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/d6741656/471a8564.xml#471a8564">
-      <bounds
-          x="336"
+          x="528"
           y="48"
           width="132"
           height="72"/>
@@ -449,7 +437,7 @@
       targetConnections="#91492e0c"
       archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/d59f1ea9/d0043906.xml#d0043906">
     <bounds
-        x="-372"
+        x="-252"
         y="199"
         width="132"
         height="55"/>
@@ -676,7 +664,7 @@
       targetConnections="#1d21380c"
       archimateElement="archimate:BusinessEvent ../../../business/fb14e83e/3075a323.xml#3075a323">
     <bounds
-        x="-552"
+        x="-432"
         y="185"
         width="132"
         height="73"/>
@@ -704,7 +692,7 @@
       textAlignment="2"
       archimateElement="archimate:BusinessRole ../../../business/9b6380e4/d6ba572c/1efa3e7d.xml#1efa3e7d">
     <bounds
-        x="-155"
+        x="-35"
         y="5"
         width="120"
         height="55"/>
@@ -717,29 +705,11 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="d169024c"
-      textAlignment="2"
-      archimateElement="archimate:BusinessRole ../../../business/9b6380e4/d6ba572c/1efa3e7d.xml#1efa3e7d">
-    <bounds
-        x="156"
-        y="5"
-        width="120"
-        height="55"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="7bd32a78"
-        source="#d169024c"
-        target="#c8c202d8"
-        relationship="archimate:AssignmentRelationship ../../../relations/7be2cfb6.xml#7be2cfb6"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="eccdcddf"
       textAlignment="2"
       archimateElement="archimate:BusinessRole ../../../business/9b6380e4/d6ba572c/1efa3e7d.xml#1efa3e7d">
     <bounds
         x="804"
-        y="5"
         width="120"
         height="55"/>
     <sourceConnections
@@ -755,7 +725,7 @@
       textAlignment="2"
       archimateElement="archimate:BusinessRole ../../../business/9b6380e4/d6ba572c/1efa3e7d.xml#1efa3e7d">
     <bounds
-        x="-144"
+        x="-24"
         y="396"
         width="120"
         height="55"/>
@@ -772,7 +742,7 @@
       textAlignment="2"
       archimateElement="archimate:BusinessRole ../../../business/9b6380e4/d6ba572c/b802d5c5.xml#b802d5c5">
     <bounds
-        x="13"
+        x="133"
         y="396"
         width="120"
         height="55"/>
@@ -789,7 +759,7 @@
       textAlignment="2"
       archimateElement="archimate:BusinessRole ../../../business/9b6380e4/d6ba572c/5077da5d.xml#5077da5d">
     <bounds
-        x="480"
+        x="468"
         y="396"
         width="120"
         height="55"/>
@@ -806,7 +776,7 @@
       textAlignment="2"
       archimateElement="archimate:BusinessRole ../../../business/9b6380e4/d6ba572c/5077da5d.xml#5077da5d">
     <bounds
-        x="816"
+        x="804"
         y="396"
         width="120"
         height="55"/>
@@ -823,7 +793,7 @@
       textAlignment="2"
       archimateElement="archimate:BusinessRole ../../../business/9b6380e4/d6ba572c/5077da5d.xml#5077da5d">
     <bounds
-        x="13"
+        x="133"
         y="5"
         width="120"
         height="55"/>
@@ -841,7 +811,6 @@
       archimateElement="archimate:BusinessRole ../../../business/9b6380e4/d6ba572c/5077da5d.xml#5077da5d">
     <bounds
         x="312"
-        y="5"
         width="120"
         height="55"/>
     <sourceConnections
@@ -858,7 +827,7 @@
       archimateElement="archimate:BusinessRole ../../../business/9b6380e4/d6ba572c/5077da5d.xml#5077da5d">
     <bounds
         x="636"
-        y="-76"
+        y="-81"
         width="120"
         height="55"/>
     <sourceConnections
@@ -875,6 +844,7 @@
       archimateElement="archimate:BusinessRole ../../../business/9b6380e4/d6ba572c/b802d5c5.xml#b802d5c5">
     <bounds
         x="533"
+        y="-5"
         width="120"
         height="55"/>
     <sourceConnections
@@ -891,7 +861,7 @@
       archimateElement="archimate:BusinessRole ../../../business/9b6380e4/d6ba572c/5077da5d.xml#5077da5d">
     <bounds
         x="444"
-        y="-76"
+        y="-81"
         width="120"
         height="55"/>
     <sourceConnections
@@ -1242,7 +1212,7 @@
       textAlignment="2"
       archimateElement="archimate:BusinessRole ../../../business/9b6380e4/d6ba572c/b8af0235.xml#b8af0235">
     <bounds
-        x="-546"
+        x="-426"
         y="5"
         width="120"
         height="55"/>
