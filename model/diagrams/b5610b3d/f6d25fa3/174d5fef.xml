@@ -29,7 +29,7 @@
           id="4e6766ae"
           source="#081d3910"
           target="#2929cf80"
-          relationship="archimate:UsedByRelationship ../../../../../Archi/archi-1363948243933041869.tmp#44118a3d">
+          relationship="archimate:UsedByRelationship ../../../../../../AppData/Local/Temp/archi-69897230490710612.tmp#44118a3d">
         <bendpoints
             startX="18"
             startY="-190"
@@ -483,7 +483,7 @@
           id="f988d6a4"
           source="#f38fb261"
           target="#5274ab89"
-          relationship="archimate:TriggeringRelationship ../../../../../Archi/archi-1363948243933041869.tmp#49b34a5f">
+          relationship="archimate:TriggeringRelationship ../../../../../../AppData/Local/Temp/archi-69897230490710612.tmp#49b34a5f">
         <bendpoints
             startX="-6"
             startY="-246"
@@ -495,7 +495,7 @@
           id="c2b61229"
           source="#f38fb261"
           target="#6b4581f2"
-          relationship="archimate:TriggeringRelationship ../../../../../Archi/archi-1363948243933041869.tmp#5b1a3e0a"/>
+          relationship="archimate:TriggeringRelationship ../../../../../../AppData/Local/Temp/archi-69897230490710612.tmp#5b1a3e0a"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -754,7 +754,7 @@
         id="9a7af9de"
         source="#5274ab89"
         target="#d1528f7b"
-        relationship="archimate:TriggeringRelationship ../../../../../Archi/archi-1363948243933041869.tmp#619bc01c">
+        relationship="archimate:TriggeringRelationship ../../../../../../AppData/Local/Temp/archi-69897230490710612.tmp#619bc01c">
       <bendpoints
           startX="1974"
           startY="-2"
