@@ -1,5 +1,6 @@
 <archimate:FlowRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="2138afeb"
-    source="archimate:ApplicationComponent ../application/5eea8998/88cf8f83.xml#88cf8f83"
+    id="6a898c1a"
+    name="Afdoening, vordering"
+    source="archimate:ApplicationComponent ../application/5eea8998/6bbb4007.xml#6bbb4007"
     target="archimate:ApplicationComponent ../application/5eea8998/8eb2ff67.xml#8eb2ff67"/>

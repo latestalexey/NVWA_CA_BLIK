@@ -1,5 +1,6 @@
 <archimate:FlowRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="4ccb7597"
+    id="217ff657"
+    name="Vordering"
     source="archimate:ApplicationComponent ../application/5eea8998/8eb2ff67.xml#8eb2ff67"
-    target="archimate:ApplicationComponent ../application/5eea8998/88cf8f83.xml#88cf8f83"/>
+    target="archimate:ApplicationComponent ../application/5eea8998/8e44cb3e.xml#8e44cb3e"/>

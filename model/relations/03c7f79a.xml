@@ -1,5 +1,10 @@
 <archimate:FlowRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="03c7f79a"
+    name="Medewerker"
     source="archimate:ApplicationComponent ../application/5eea8998/75579a29.xml#75579a29"
-    target="archimate:ApplicationComponent ../application/5eea8998/6bbb4007.xml#6bbb4007"/>
+    target="archimate:ApplicationComponent ../application/5eea8998/6bbb4007.xml#6bbb4007">
+  <properties
+      key="_Info"
+      value="Op aanvraag"/>
+</archimate:FlowRelationship>
