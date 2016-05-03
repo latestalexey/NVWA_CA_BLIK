@@ -1,5 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="62c38dc7"
-    name="17.12 Bepalen onderzoeksvraag (PF17)"
-    documentation="Het antwoord dat uit het onderzoek wordt verwacht. De onderzoeksvraag is leidend in het proces ‘van monsterneming tot resultaat’. Hier worden o.a. de randvoorwaarden voor de analyse en transportcondities van het monster op gebaseerd."/>
+    name="17.1.12 Bepalen onderzoeksvraag (PF17)"
+    documentation="Het antwoord dat uit het onderzoek wordt verwacht. De onderzoeksvraag is leidend in het proces ‘van monsterneming tot resultaat’. Hier worden o.a. de randvoorwaarden voor de analyse en transportcondities van het monster op gebaseerd.">
+  <properties
+      key="Pre"
+      value="Er is geen onderzoeksvraag op voorhand vastgesteld"/>
+  <properties
+      key="Post"
+      value="Keuze gemaakt voor wel of niet advies bij analyse uitslag"/>
+</archimate:BusinessProcess>
