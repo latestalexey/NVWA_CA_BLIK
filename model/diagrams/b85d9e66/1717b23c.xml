@@ -30,7 +30,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="baa96bf8"
       textAlignment="2"
-      targetConnections="#e9f582c7 #a9b31a9b #403346d7 #005f0aef"
+      targetConnections="#e9f582c7 #403346d7 #83d61cbf #6cde48dc"
       archimateElement="archimate:Principle ../../motivation/07842be0/33a36061.xml#33a36061">
     <bounds
         x="24"
@@ -90,7 +90,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="309ad14b"
       textAlignment="2"
-      targetConnections="#a118a318 #406d9090"
+      targetConnections="#406d9090 #de4dada1"
       archimateElement="archimate:Principle ../../motivation/07842be0/6bbbcc02.xml#6bbbcc02">
     <bounds
         x="24"
@@ -191,16 +191,16 @@
         relationship="archimate:InfluenceRelationship ../../relations/d67d78df.xml#d67d78df"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="a118a318"
-        source="#6e1d3553"
-        target="#309ad14b"
-        relationship="archimate:InfluenceRelationship ../../../../../Google%20Drive/ArchiXL/Projecten/NVWA/Archi/archi-4617337259308681392.tmp#5783f58d"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="a1cd3267"
         source="#6e1d3553"
         target="#df7595fa"
         relationship="archimate:InfluenceRelationship ../../relations/03cb783b.xml#03cb783b"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="de4dada1"
+        source="#6e1d3553"
+        target="#309ad14b"
+        relationship="archimate:InfluenceRelationship ../../relations/36eeff7b.xml#36eeff7b"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -231,10 +231,10 @@
         height="49"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="a9b31a9b"
+        id="6cde48dc"
         source="#faeec084"
         target="#baa96bf8"
-        relationship="archimate:InfluenceRelationship ../../../../../Google%20Drive/ArchiXL/Projecten/NVWA/Archi/archi-4617337259308681392.tmp#3747d81f"/>
+        relationship="archimate:InfluenceRelationship ../../relations/df122168.xml#df122168"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -374,16 +374,16 @@
         height="49"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="005f0aef"
-        source="#2fead69b"
-        target="#baa96bf8"
-        relationship="archimate:InfluenceRelationship ../../../../../Google%20Drive/ArchiXL/Projecten/NVWA/Archi/archi-4617337259308681392.tmp#61e2fcc2"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="392ceb60"
         source="#2fead69b"
         target="#5e12333a"
         relationship="archimate:InfluenceRelationship ../../relations/ef4a4985.xml#ef4a4985"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="83d61cbf"
+        source="#2fead69b"
+        target="#baa96bf8"
+        relationship="archimate:InfluenceRelationship ../../relations/c0a96d95.xml#c0a96d95"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

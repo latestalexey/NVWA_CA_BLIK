@@ -55,10 +55,10 @@
           height="72"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="e6e2f4ea"
+          id="9703525a"
           source="#77e2b984"
           target="#4b4f08ca"
-          relationship="archimate:TriggeringRelationship ../../../../../../Google%20Drive/ArchiXL/Projecten/NVWA/Archi/archi-4617337259308681392.tmp#4e72f886"/>
+          relationship="archimate:TriggeringRelationship ../../../relations/b83490a8.xml#b83490a8"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -133,7 +133,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="4b4f08ca"
         textAlignment="2"
-        targetConnections="#e6e2f4ea"
+        targetConnections="#9703525a"
         archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/6b6a25df/ca98b9b5.xml#ca98b9b5">
       <bounds
           x="660"

@@ -27,16 +27,16 @@
         relationship="archimate:InfluenceRelationship ../../relations/9724ba6b.xml#9724ba6b"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="edfe659d"
-        source="#5f6709d4"
-        target="#51c094a1"
-        relationship="archimate:InfluenceRelationship ../../../../../Google%20Drive/ArchiXL/Projecten/NVWA/Archi/archi-4617337259308681392.tmp#4a10df27"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="16ee6fbc"
         source="#5f6709d4"
         target="#c56a7233"
         relationship="archimate:InfluenceRelationship ../../relations/95ed4d14.xml#95ed4d14"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="2e7a2c6c"
+        source="#5f6709d4"
+        target="#51c094a1"
+        relationship="archimate:InfluenceRelationship ../../relations/ac01dd3a.xml#ac01dd3a"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -97,10 +97,10 @@
         relationship="archimate:InfluenceRelationship ../../relations/ed0ada97.xml#ed0ada97"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="ccc14ee0"
+        id="6aee8f2a"
         source="#72c3ace1"
         target="#0c80021a"
-        relationship="archimate:InfluenceRelationship ../../../../../Google%20Drive/ArchiXL/Projecten/NVWA/Archi/archi-4617337259308681392.tmp#3cb2e9f9"/>
+        relationship="archimate:InfluenceRelationship ../../relations/c14d5533.xml#c14d5533"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -321,7 +321,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="51c094a1"
       textAlignment="2"
-      targetConnections="#edfe659d"
+      targetConnections="#2e7a2c6c"
       archimateElement="archimate:Goal ../../motivation/ccd42427/18169d24.xml#18169d24">
     <bounds
         x="24"
@@ -381,7 +381,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0c80021a"
       textAlignment="2"
-      targetConnections="#ccc14ee0"
+      targetConnections="#6aee8f2a"
       archimateElement="archimate:Goal ../../motivation/ccd42427/a69ba94a.xml#a69ba94a">
     <bounds
         x="24"
