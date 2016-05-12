@@ -124,7 +124,7 @@
           fillColor="#ffff80"
           archimateElement="archimate:BusinessObject ../../business/a8d2739c/7efd7fe0.xml#7efd7fe0">
         <bounds
-            x="168"
+            x="144"
             y="36"
             width="120"
             height="55"/>
@@ -136,7 +136,7 @@
           fillColor="#ffff80"
           archimateElement="archimate:BusinessObject ../../business/a8d2739c/57c9f78f.xml#57c9f78f">
         <bounds
-            x="24"
+            x="12"
             y="36"
             width="120"
             height="55"/>
@@ -617,7 +617,7 @@
               fillColor="#ffff80"
               archimateElement="archimate:BusinessObject ../../business/a8d2739c/e762cda0.xml#e762cda0">
             <bounds
-                x="12"
+                x="23"
                 y="24"
                 width="121"
                 height="49"/>
@@ -629,7 +629,7 @@
               fillColor="#ffff80"
               archimateElement="archimate:BusinessObject ../../business/a8d2739c/9054533b.xml#9054533b">
             <bounds
-                x="13"
+                x="24"
                 y="84"
                 width="120"
                 height="49"/>
@@ -642,7 +642,7 @@
             fillColor="#ffff80"
             archimateElement="archimate:BusinessObject ../../business/a8d2739c/484f2f25.xml#484f2f25">
           <bounds
-              x="168"
+              x="156"
               y="180"
               width="120"
               height="49"/>
@@ -818,7 +818,7 @@
         x="36"
         y="1452"
         width="1200"
-        height="744"/>
+        height="661"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="0b39e06f"
@@ -853,8 +853,8 @@
         textAlignment="2"
         archimateElement="archimate:BusinessFunction ../../business/97eb5f35/ee2bf64d/e332bd40.xml#e332bd40">
       <bounds
-          x="288"
-          y="252"
+          x="312"
+          y="240"
           width="276"
           height="192"/>
     </children>
@@ -864,7 +864,7 @@
         textAlignment="2"
         archimateElement="archimate:BusinessFunction ../../business/97eb5f35/ee2bf64d/e3889a6f.xml#e3889a6f">
       <bounds
-          x="300"
+          x="312"
           y="36"
           width="276"
           height="192"/>
@@ -875,8 +875,8 @@
         textAlignment="2"
         archimateElement="archimate:BusinessFunction ../../business/97eb5f35/ee2bf64d/ff770d5a.xml#ff770d5a">
       <bounds
-          x="576"
-          y="25"
+          x="613"
+          y="36"
           width="276"
           height="192"/>
       <children
@@ -934,8 +934,8 @@
         textAlignment="2"
         archimateElement="archimate:BusinessFunction ../../business/97eb5f35/ee2bf64d/70392dd0.xml#70392dd0">
       <bounds
-          x="576"
-          y="252"
+          x="613"
+          y="240"
           width="276"
           height="192"/>
     </children>
@@ -945,8 +945,8 @@
         textAlignment="2"
         archimateElement="archimate:BusinessFunction ../../business/97eb5f35/ee2bf64d/c2592cdb.xml#c2592cdb">
       <bounds
-          x="876"
-          y="450"
+          x="912"
+          y="444"
           width="276"
           height="192"/>
     </children>
@@ -956,7 +956,7 @@
         textAlignment="2"
         archimateElement="archimate:BusinessFunction ../../business/97eb5f35/ee2bf64d/4ccea358.xml#4ccea358">
       <bounds
-          x="888"
+          x="912"
           y="240"
           width="276"
           height="192"/>
@@ -968,7 +968,7 @@
         archimateElement="archimate:BusinessFunction ../../business/97eb5f35/ee2bf64d/651a2d6e.xml#651a2d6e">
       <bounds
           x="12"
-          y="444"
+          y="450"
           width="276"
           height="192"/>
     </children>
@@ -979,7 +979,7 @@
         fillColor="#ffffb5"
         archimateElement="archimate:BusinessFunction ../../business/97eb5f35/ee2bf64d/5d39a333.xml#5d39a333">
       <bounds
-          x="288"
+          x="312"
           y="450"
           width="276"
           height="192"/>
@@ -990,7 +990,7 @@
         textAlignment="2"
         archimateElement="archimate:BusinessFunction ../../business/97eb5f35/ee2bf64d/4fa51e51.xml#4fa51e51">
       <bounds
-          x="552"
+          x="613"
           y="450"
           width="276"
           height="192"/>
@@ -1002,8 +1002,8 @@
         targetConnections="#0b39e06f"
         archimateElement="archimate:BusinessFunction ../../business/97eb5f35/ee2bf64d/234cfdc3.xml#234cfdc3">
       <bounds
-          x="888"
-          y="24"
+          x="912"
+          y="35"
           width="276"
           height="193"/>
       <children
@@ -1014,7 +1014,7 @@
           archimateElement="archimate:BusinessObject ../../business/a8d2739c/5f042622.xml#5f042622">
         <bounds
             x="15"
-            y="47"
+            y="36"
             width="120"
             height="60"/>
       </children>
@@ -1026,7 +1026,7 @@
           archimateElement="archimate:BusinessObject ../../business/a8d2739c/a249800b.xml#a249800b">
         <bounds
             x="144"
-            y="47"
+            y="36"
             width="120"
             height="60"/>
       </children>
