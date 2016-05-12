@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="ff24b52c"
-    name="15.2.2 Selectie aangesloten bedrijven (PF15)"
-    documentation="De schemabeheerder levert gegevens aan over de aangesloten bedrijven. De wijze van aanlevering van de gegevens is afgestemd met de NVWA en voldoet aan haar eisen. Op basis van deze gegevens wordt een selectie gemaakt van de inspectieresultaten voor de betrokken bedrijven.&#xD;&#xA;&#xD;&#xA;LET OP: koppelen gaat uit van de oude beschrijving waarbij het ontvangen van een bestand is beschreven. Dit is een technische oplossingsrichting die op dit niveau niet wordt beschreven. De term koppelen is dan ook niet toepasselijk. Volgens de beschrijving gaat het vooral om het maken van een selectie van bedrijven t.b.v. de beoordeling.">
-  <properties
-      key="Pre"
-      value="gegevens aangesloten bedrijven ontvangen"/>
-</archimate:BusinessProcess>
