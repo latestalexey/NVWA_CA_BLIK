@@ -1,4 +1,8 @@
 <archimate:ApplicationInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="0902c215"
-    name="BBS koppeling"/>
+    name="BBS koppeling">
+  <properties
+      key="Gereed op"
+      value="gereed"/>
+</archimate:ApplicationInteraction>

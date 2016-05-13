@@ -2,7 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="2e6e6e63"
-    name="CA Applicatie landschap met koppelingen">
+    name="CA Applicatie landschap met gegevensstromen">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c296c70e"
@@ -635,7 +635,4 @@
           endY="24"/>
     </sourceConnections>
   </children>
-  <properties
-      key="_Project"
-      value="Koppelingen"/>
 </archimate:ArchimateDiagramModel>

@@ -1,4 +1,8 @@
 <archimate:ApplicationInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="1f71a33e"
-    name="Rooster applicatie koppeling"/>
+    name="Rooster applicatie koppeling">
+  <properties
+      key="Gereed op"
+      value="1 december 2016"/>
+</archimate:ApplicationInteraction>
