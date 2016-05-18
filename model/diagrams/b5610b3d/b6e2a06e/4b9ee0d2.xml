@@ -1376,14 +1376,14 @@
         target="#6e57e089"
         relationship="archimate:AssignmentRelationship ../../../relations/131be966.xml#131be966">
       <bendpoints
-          startY="-74"
-          endX="-80"
-          endY="78"/>
+          startY="-76"
+          endX="-92"
+          endY="76"/>
       <bendpoints
-          startX="72"
-          startY="-74"
+          startX="84"
+          startY="-76"
           endX="-8"
-          endY="78"/>
+          endY="76"/>
     </sourceConnections>
   </children>
   <children
@@ -1403,14 +1403,14 @@
         target="#6e57e089"
         relationship="archimate:AssignmentRelationship ../../../relations/29806471.xml#29806471">
       <bendpoints
-          startY="-74"
-          endX="52"
-          endY="78"/>
+          startY="-76"
+          endX="40"
+          endY="76"/>
       <bendpoints
-          startX="-60"
-          startY="-74"
+          startX="-48"
+          startY="-76"
           endX="-8"
-          endY="78"/>
+          endY="76"/>
     </sourceConnections>
   </children>
   <children
@@ -1430,14 +1430,14 @@
         target="#6e57e089"
         relationship="archimate:AssignmentRelationship ../../../relations/9bd2da74.xml#9bd2da74">
       <bendpoints
-          startY="-74"
+          startY="-76"
           endX="184"
-          endY="78"/>
+          endY="76"/>
       <bendpoints
           startX="-192"
-          startY="-74"
+          startY="-76"
           endX="-8"
-          endY="78"/>
+          endY="76"/>
     </sourceConnections>
   </children>
   <children
