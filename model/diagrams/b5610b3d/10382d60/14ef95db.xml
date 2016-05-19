@@ -158,7 +158,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4c3a1149"
       textAlignment="2"
-      targetConnections="#7054befb #75e856cb"
+      targetConnections="#7054befb"
       archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/d6741656/a0fb584b.xml#a0fb584b">
     <bounds
         x="1908"
@@ -263,23 +263,6 @@
           y="168"
           width="132"
           height="72"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="75e856cb"
-          source="#752ab8fc"
-          target="#4c3a1149"
-          relationship="archimate:TriggeringRelationship ../../../relations/f74832d0.xml#f74832d0">
-        <bendpoints
-            startX="138"
-            startY="1"
-            endX="-390"
-            endY="66"/>
-        <bendpoints
-            startX="138"
-            startY="-83"
-            endX="-390"
-            endY="-18"/>
-      </sourceConnections>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
