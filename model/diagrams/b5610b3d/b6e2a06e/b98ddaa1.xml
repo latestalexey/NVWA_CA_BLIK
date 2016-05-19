@@ -413,18 +413,12 @@
           y="22"
           width="163"
           height="59"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="228f5994"
-          source="#16f9ad63"
-          target="#4fef8d8c"
-          relationship="archimate:TriggeringRelationship ../../../relations/64531101.xml#64531101"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="4fef8d8c"
         textAlignment="2"
-        targetConnections="#228f5994 #fd29fb73"
+        targetConnections="#fd29fb73"
         fillColor="#ffffb5"
         archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/d0c2582c/adb425b5.xml#adb425b5">
       <bounds
@@ -467,15 +461,15 @@
           target="#1af8f37d"
           relationship="archimate:FlowRelationship ../../../relations/a7d8512d.xml#a7d8512d">
         <bendpoints
-            startX="-24"
-            startY="-195"
-            endX="-391"
-            endY="-51"/>
+            startX="-22"
+            startY="-302"
+            endX="-372"
+            endY="-62"/>
         <bendpoints
-            startX="336"
-            startY="-195"
-            endX="-31"
-            endY="-51"/>
+            startX="362"
+            startY="-302"
+            endX="12"
+            endY="-62"/>
       </sourceConnections>
     </children>
     <children
@@ -580,15 +574,15 @@
           target="#aca62db5"
           relationship="archimate:TriggeringRelationship ../../../relations/a5bae153.xml#a5bae153">
         <bendpoints
-            startX="6"
-            startY="-244"
-            endX="2668"
-            endY="-266"/>
+            startX="-6"
+            startY="-364"
+            endX="2656"
+            endY="-386"/>
         <bendpoints
             startX="-2658"
-            startY="-244"
+            startY="-364"
             endX="4"
-            endY="-266"/>
+            endY="-386"/>
       </sourceConnections>
     </children>
     <children
@@ -715,7 +709,7 @@
         id="28d1f2de"
         textAlignment="2"
         targetConnections="#cfe4cca7 #8ae41995"
-        archimateElement="archimate:BusinessProcess ../../../business/6efdefd8.xml#6efdefd8">
+        archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/d0c2582c/6efdefd8.xml#6efdefd8">
       <bounds
           x="1380"
           y="146"
@@ -1244,8 +1238,8 @@
       targetConnections="#5f8caf55 #48e19e7b"
       archimateElement="archimate:BusinessCollaboration ../../../business/8910b235.xml#8910b235">
     <bounds
-        x="2172"
-        y="-60"
+        x="2177"
+        y="-156"
         width="120"
         height="55"/>
     <sourceConnections
@@ -1323,15 +1317,15 @@
         target="#948dc451"
         relationship="archimate:AssignmentRelationship ../../../relations/24aec58c.xml#24aec58c">
       <bendpoints
-          startX="48"
-          startY="58"
+          startX="44"
+          startY="70"
           endX="-1290"
-          endY="-100"/>
+          endY="-184"/>
       <bendpoints
-          startX="1284"
-          startY="58"
+          startX="1280"
+          startY="70"
           endX="-54"
-          endY="-100"/>
+          endY="-184"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1340,25 +1334,25 @@
         target="#3d84e951"
         relationship="archimate:AssignmentRelationship ../../../relations/d11a1835.xml#d11a1835">
       <bendpoints
-          startX="48"
-          startY="58"
+          startX="44"
+          startY="70"
           endX="-1290"
-          endY="-208"/>
+          endY="-292"/>
       <bendpoints
-          startX="1176"
-          startY="58"
+          startX="1172"
+          startY="70"
           endX="-162"
-          endY="-208"/>
+          endY="-292"/>
       <bendpoints
-          startX="1176"
-          startY="214"
+          startX="1172"
+          startY="298"
           endX="-162"
-          endY="-52"/>
+          endY="-64"/>
       <bendpoints
-          startX="1284"
-          startY="214"
+          startX="1280"
+          startY="298"
           endX="-54"
-          endY="-52"/>
+          endY="-64"/>
     </sourceConnections>
   </children>
   <children
@@ -1386,8 +1380,8 @@
       targetConnections="#af7523e2 #56028633"
       archimateElement="archimate:BusinessCollaboration ../../../business/16e91c80.xml#16e91c80">
     <bounds
-        x="2443"
-        y="-60"
+        x="2448"
+        y="-156"
         width="120"
         height="55"/>
     <sourceConnections
@@ -1415,10 +1409,10 @@
         target="#948dc451"
         relationship="archimate:AssignmentRelationship ../../../relations/5ffe5c95.xml#5ffe5c95">
       <bendpoints
-          startX="1038"
+          startX="1032"
           startY="-2"
           endX="-30"
-          endY="-160"/>
+          endY="-256"/>
     </sourceConnections>
   </children>
   <children

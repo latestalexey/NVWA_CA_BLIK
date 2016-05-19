@@ -393,7 +393,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="ae401e1a"
         textAlignment="2"
-        targetConnections="#5fa8f01b"
+        targetConnections="#a4938a86"
         fillColor="#ffffb5"
         archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/d0c2582c/adb425b5.xml#adb425b5">
       <bounds
@@ -677,7 +677,7 @@
         id="25c9b79d"
         textAlignment="2"
         targetConnections="#6c17cde2"
-        archimateElement="archimate:BusinessProcess ../../../business/6efdefd8.xml#6efdefd8">
+        archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/d0c2582c/6efdefd8.xml#6efdefd8">
       <bounds
           x="1368"
           y="146"
@@ -689,6 +689,16 @@
           source="#25c9b79d"
           target="#0a7021e5"
           relationship="archimate:TriggeringRelationship ../../../relations/bc6cd1fa.xml#bc6cd1fa"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="68b4141f"
+        textAlignment="1"
+        content="Er mist een stap waarin advies wordt gegeven t.b.v. vaststellen">
+      <bounds
+          x="624"
+          width="123"
+          height="80"/>
     </children>
   </children>
   <children
@@ -1221,18 +1231,24 @@
         y="-60"
         width="163"
         height="59"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="408219ab"
+      textAlignment="2"
+      fillColor="#c0c0c0"
+      archimateElement="archimate:BusinessProcess ../../../business/82fdbbfc.xml#82fdbbfc">
+    <bounds
+        x="2448"
+        y="-60"
+        width="163"
+        height="59"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="5fa8f01b"
-        source="#f93013dd"
+        id="a4938a86"
+        source="#408219ab"
         target="#ae401e1a"
-        relationship="archimate:TriggeringRelationship ../../../relations/64531101.xml#64531101">
-      <bendpoints
-          startX="183"
-          startY="-5"
-          endX="-9"
-          endY="-147"/>
-    </sourceConnections>
+        relationship="archimate:TriggeringRelationship ../../../relations/64531101.xml#64531101"/>
   </children>
   <properties
       key="_Project"
