@@ -1,0 +1,20 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="725459f8"
+    name="PF10 KPI's">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="58031426"
+      textAlignment="1"
+      content="De KPI's van PF10 zoals beschreven in PP&amp;I einddocument voor GHH2 zijn niet geformuleerd als KPI met bijbehorend criterium. Wel zijn verschillende soorten tellingen genoemd. In enkele gevallen is er wel een criterium beschreven maar is er geen norm gegeven.&#xD;&#xA;&#xD;&#xA;Voorbeelden:&#xD;&#xA;- Doorlooptijd&#xD;&#xA;- Uitgevoerde inspecties&#xD;&#xA;- Uitgevoerde projecten (is eigenlijk PF06)&#xD;&#xA;- Aantal matregelen&#xD;&#xA;- etc.">
+    <bounds
+        x="61"
+        y="67"
+        width="324"
+        height="270"/>
+  </children>
+  <properties
+      key="_Project"
+      value="PF10"/>
+</archimate:ArchimateDiagramModel>

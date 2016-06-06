@@ -55,7 +55,7 @@
       id="05a07e45"
       textAlignment="2"
       targetConnections="#4e8af5bb"
-      archimateElement="archimate:Goal ../../motivation/97fe842e.xml#97fe842e">
+      archimateElement="archimate:Goal ../../motivation/43acbf11/e48c30f9/97fe842e.xml#97fe842e">
     <bounds
         x="60"
         y="79"
@@ -67,7 +67,7 @@
       id="dc57ea4e"
       textAlignment="2"
       targetConnections="#f47075f7"
-      archimateElement="archimate:Assessment ../../motivation/4075e574.xml#4075e574">
+      archimateElement="archimate:Assessment ../../motivation/43acbf11/e48c30f9/4075e574.xml#4075e574">
     <bounds
         x="60"
         y="189"
@@ -85,7 +85,7 @@
       id="1eedb4b0"
       textAlignment="2"
       targetConnections="#03b47433"
-      archimateElement="archimate:Goal ../../motivation/50ccfc17.xml#50ccfc17">
+      archimateElement="archimate:Goal ../../motivation/43acbf11/e48c30f9/50ccfc17.xml#50ccfc17">
     <bounds
         x="300"
         y="79"
@@ -97,7 +97,7 @@
       id="51cc70d4"
       textAlignment="2"
       targetConnections="#c668d78b"
-      archimateElement="archimate:Assessment ../../motivation/e3de5d0c.xml#e3de5d0c">
+      archimateElement="archimate:Assessment ../../motivation/43acbf11/e48c30f9/e3de5d0c.xml#e3de5d0c">
     <bounds
         x="300"
         y="189"
@@ -115,7 +115,7 @@
       id="72048a1a"
       textAlignment="2"
       targetConnections="#2a8d0d78"
-      archimateElement="archimate:Goal ../../motivation/8c7d6a87.xml#8c7d6a87">
+      archimateElement="archimate:Goal ../../motivation/43acbf11/e48c30f9/8c7d6a87.xml#8c7d6a87">
     <bounds
         x="540"
         y="79"
@@ -127,7 +127,7 @@
       id="12edb93c"
       textAlignment="2"
       targetConnections="#9f03c18c"
-      archimateElement="archimate:Assessment ../../motivation/4bc29d1e.xml#4bc29d1e">
+      archimateElement="archimate:Assessment ../../motivation/43acbf11/e48c30f9/4bc29d1e.xml#4bc29d1e">
     <bounds
         x="540"
         y="189"
@@ -145,7 +145,7 @@
       id="074bbd76"
       textAlignment="2"
       targetConnections="#111f4236"
-      archimateElement="archimate:Goal ../../motivation/3903e8cd.xml#3903e8cd">
+      archimateElement="archimate:Goal ../../motivation/43acbf11/e48c30f9/3903e8cd.xml#3903e8cd">
     <bounds
         x="768"
         y="79"
@@ -157,7 +157,7 @@
       id="5f046482"
       textAlignment="2"
       targetConnections="#9b197e1c"
-      archimateElement="archimate:Assessment ../../motivation/4f3fa373.xml#4f3fa373">
+      archimateElement="archimate:Assessment ../../motivation/43acbf11/e48c30f9/4f3fa373.xml#4f3fa373">
     <bounds
         x="768"
         y="189"
@@ -205,4 +205,7 @@
         width="86"
         height="80"/>
   </children>
+  <properties
+      key="_Project"
+      value="PF20"/>
 </archimate:ArchimateDiagramModel>

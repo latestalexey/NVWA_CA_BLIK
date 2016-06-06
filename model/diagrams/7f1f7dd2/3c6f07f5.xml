@@ -1,0 +1,248 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="3c6f07f5"
+    name="PF11 KPI's">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="c6eed79d"
+      textAlignment="2"
+      archimateElement="archimate:BusinessProcess ../../business/3e0e9fd2/dec2c0ec/e85f00f0.xml#e85f00f0">
+    <bounds
+        x="12"
+        y="312"
+        width="1393"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e105d962"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/43acbf11/fb09ae11/3c22b54a.xml#3c22b54a">
+    <bounds
+        x="12"
+        y="192"
+        width="144"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="9f5d3753"
+      textAlignment="2"
+      archimateElement="archimate:Goal ../../motivation/43acbf11/fb09ae11/a1c6bd32.xml#a1c6bd32">
+    <bounds
+        x="12"
+        y="84"
+        width="144"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7cb8d7a5"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/43acbf11/fb09ae11/1c85048e.xml#1c85048e">
+    <bounds
+        x="168"
+        y="192"
+        width="144"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="bb4c4c97"
+      textAlignment="2"
+      archimateElement="archimate:Goal ../../motivation/43acbf11/fb09ae11/b1ac3802.xml#b1ac3802">
+    <bounds
+        x="168"
+        y="84"
+        width="144"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="378a8e8e"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/43acbf11/fb09ae11/250570dc.xml#250570dc">
+    <bounds
+        x="324"
+        y="156"
+        width="85"
+        height="61"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="db2a1596"
+      textAlignment="2"
+      archimateElement="archimate:Goal ../../motivation/43acbf11/fb09ae11/506fdce1.xml#506fdce1">
+    <bounds
+        x="324"
+        y="84"
+        width="144"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="98a4e0e4"
+      textAlignment="2"
+      archimateElement="archimate:Goal ../../motivation/43acbf11/fb09ae11/714b636f.xml#714b636f">
+    <bounds
+        x="480"
+        y="84"
+        width="144"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="9e1c41ea"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/43acbf11/fb09ae11/1df20ee9.xml#1df20ee9">
+    <bounds
+        x="636"
+        y="192"
+        width="144"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="10547ce3"
+      textAlignment="2"
+      archimateElement="archimate:Goal ../../motivation/43acbf11/fb09ae11/2a3070fb.xml#2a3070fb">
+    <bounds
+        x="636"
+        y="84"
+        width="144"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a875b7ea"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/43acbf11/fb09ae11/b6a41d64.xml#b6a41d64">
+    <bounds
+        x="792"
+        y="172"
+        width="144"
+        height="96"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="39dc9978"
+      textAlignment="2"
+      archimateElement="archimate:Goal ../../motivation/43acbf11/fb09ae11/12420a80.xml#12420a80">
+    <bounds
+        x="792"
+        y="84"
+        width="144"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="aa295d24"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/43acbf11/fb09ae11/e4e3a786.xml#e4e3a786">
+    <bounds
+        x="948"
+        y="192"
+        width="144"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="9ec1af4f"
+      textAlignment="2"
+      archimateElement="archimate:Goal ../../motivation/43acbf11/fb09ae11/021165a3.xml#021165a3">
+    <bounds
+        x="948"
+        y="84"
+        width="144"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="fb96cdb4"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/39faca94.xml#39faca94">
+    <bounds
+        x="360"
+        y="240"
+        width="109"
+        height="61"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="75e742d4"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/6a1e536b.xml#6a1e536b">
+    <bounds
+        x="1104"
+        y="192"
+        width="144"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="74aa95a7"
+      textAlignment="2"
+      archimateElement="archimate:Goal ../../motivation/ea9829f2.xml#ea9829f2">
+    <bounds
+        x="1104"
+        y="84"
+        width="144"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="821fda86"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/7478d719.xml#7478d719">
+    <bounds
+        x="1260"
+        y="192"
+        width="144"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="0889da13"
+      textAlignment="2"
+      archimateElement="archimate:Goal ../../motivation/8f15c866.xml#8f15c866">
+    <bounds
+        x="1260"
+        y="84"
+        width="144"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="be7b8ba3"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/3f45b58e.xml#3f45b58e">
+    <bounds
+        x="456"
+        y="156"
+        width="121"
+        height="61"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="616104f9"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/900286fc.xml#900286fc">
+    <bounds
+        x="504"
+        y="240"
+        width="133"
+        height="61"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="e09235c0"
+      textAlignment="1"
+      content="Wat is het doel? doel -> criterum">
+    <bounds
+        x="978"
+        y="29"
+        width="114"
+        height="44"/>
+  </children>
+</archimate:ArchimateDiagramModel>
