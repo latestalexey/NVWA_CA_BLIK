@@ -57,16 +57,16 @@
         height="66"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="d11a0313"
-        source="#53e6a587"
-        target="#c6f1d4a8"
-        relationship="archimate:InfluenceRelationship ../../relations/ff58c857.xml#ff58c857"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="4f459e5b"
         source="#53e6a587"
         target="#f025ce48"
         relationship="archimate:AssociationRelationship ../../relations/5d15161d.xml#5d15161d"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="d11a0313"
+        source="#53e6a587"
+        target="#c6f1d4a8"
+        relationship="archimate:InfluenceRelationship ../../relations/ff58c857.xml#ff58c857"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -80,16 +80,16 @@
         height="66"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="bb2d31d6"
-        source="#0157e114"
-        target="#f88ced8e"
-        relationship="archimate:InfluenceRelationship ../../relations/8cb72c6f.xml#8cb72c6f"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="f61390ce"
         source="#0157e114"
         target="#f025ce48"
         relationship="archimate:AssociationRelationship ../../relations/0ce35404.xml#0ce35404"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="bb2d31d6"
+        source="#0157e114"
+        target="#f88ced8e"
+        relationship="archimate:InfluenceRelationship ../../relations/8cb72c6f.xml#8cb72c6f"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -127,16 +127,16 @@
         height="66"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="e4c75bcf"
-        source="#7fee48a4"
-        target="#c5b9e94b"
-        relationship="archimate:InfluenceRelationship ../../relations/3cbb0b76.xml#3cbb0b76"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="e1f8bab6"
         source="#7fee48a4"
         target="#f025ce48"
         relationship="archimate:AssociationRelationship ../../relations/eb54fa4a.xml#eb54fa4a"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="e4c75bcf"
+        source="#7fee48a4"
+        target="#c5b9e94b"
+        relationship="archimate:InfluenceRelationship ../../relations/3cbb0b76.xml#3cbb0b76"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -162,16 +162,16 @@
         height="66"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="3a657b55"
-        source="#b3ae2a14"
-        target="#f3e9f6e9"
-        relationship="archimate:InfluenceRelationship ../../relations/e4e88fd8.xml#e4e88fd8"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="9f0ff2c9"
         source="#b3ae2a14"
         target="#64f48189"
         relationship="archimate:AssociationRelationship ../../relations/22c52ac6.xml#22c52ac6"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="3a657b55"
+        source="#b3ae2a14"
+        target="#f3e9f6e9"
+        relationship="archimate:InfluenceRelationship ../../relations/e4e88fd8.xml#e4e88fd8"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
