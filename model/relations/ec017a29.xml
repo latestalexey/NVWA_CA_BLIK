@@ -1,5 +1,5 @@
 <archimate:AggregationRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="ec017a29"
-    source="archimate:BusinessObject ../business/5fc2138b.xml#5fc2138b"
-    target="archimate:BusinessObject ../business/1b7e1878.xml#1b7e1878"/>
+    source="archimate:BusinessObject ../business/102cc247/5fc2138b.xml#5fc2138b"
+    target="archimate:BusinessObject ../business/102cc247/1b7e1878.xml#1b7e1878"/>
