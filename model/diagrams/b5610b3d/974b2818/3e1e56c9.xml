@@ -23,12 +23,6 @@
         y="192"
         width="937"
         height="433"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="7f93def1"
-        source="#b415a3d2"
-        target="#bff7aedc"
-        relationship="archimate:AggregationRelationship ../../../relations/317deb1e.xml#317deb1e"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="e5deae4c"
@@ -39,17 +33,10 @@
           y="24"
           width="505"
           height="193"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="2f2215f5"
-          source="#e5deae4c"
-          target="#40f951ef"
-          relationship="archimate:AggregationRelationship ../../../relations/28c09b19.xml#28c09b19"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="40f951ef"
           textAlignment="2"
-          targetConnections="#2f2215f5"
           archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/aad98e42/d76158a1.xml#d76158a1">
         <bounds
             x="348"
@@ -84,7 +71,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="bff7aedc"
         textAlignment="2"
-        targetConnections="#7f93def1"
         archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/aad98e42/f836f903.xml#f836f903">
       <bounds
           x="744"

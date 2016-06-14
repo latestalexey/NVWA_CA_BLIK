@@ -683,6 +683,12 @@
           source="#25c9b79d"
           target="#0a7021e5"
           relationship="archimate:TriggeringRelationship ../../../relations/bc6cd1fa.xml#bc6cd1fa"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="a6575eb8"
+          source="#25c9b79d"
+          target="#acbb4e59"
+          relationship="archimate:TriggeringRelationship ../../../relations/d0706a2c.xml#d0706a2c"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelNote"
@@ -1042,7 +1048,7 @@
       archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/dec2c0ec/cab3b7fd.xml#cab3b7fd">
     <bounds
         x="-372"
-        y="467"
+        y="528"
         width="1645"
         height="55"/>
   </children>
@@ -1092,9 +1098,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="acbb4e59"
       textAlignment="2"
+      targetConnections="#a6575eb8"
       archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/aad98e42/ad79def3.xml#ad79def3">
     <bounds
-        x="2928"
+        x="3012"
         y="394"
         width="163"
         height="59"/>
@@ -1135,7 +1142,7 @@
       textAlignment="1"
       content="Onderdeel van afdoen?">
     <bounds
-        x="2370"
+        x="2376"
         y="456"
         width="114"
         height="37"/>
@@ -1159,8 +1166,8 @@
       targetConnections="#0a3d95f2"
       archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/dec2c0ec/6a8b2c80.xml#6a8b2c80">
     <bounds
-        x="3900"
-        y="-24"
+        x="4092"
+        y="-36"
         width="120"
         height="55"/>
   </children>
