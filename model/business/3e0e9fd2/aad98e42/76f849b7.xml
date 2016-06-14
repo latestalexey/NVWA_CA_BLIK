@@ -1,8 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="76f849b7"
-    name="Opstellen rapport van bevindingen (PF10)"
-    documentation="Het opstellen van een verslag van de geconstateerde overtreding door bevindingen te toetsen aan het juridisch kader. Dit heette voorheen boeterapport">
+    name="Opstellenboete rapport (PF10)"
+    documentation="Het opstellen van een verslag van de geconstateerde overtreding door bevindingen te toetsen aan het juridisch kader.&#xD;&#xA;">
   <properties
       key="Pre"
       value="Horen overtreder = completed"/>

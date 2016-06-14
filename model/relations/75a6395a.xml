@@ -1,5 +1,5 @@
-<archimate:AggregationRelationship
+<archimate:TriggeringRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="b18f7884"
-    source="archimate:BusinessProcess ../business/3e0e9fd2/aad98e42/ce98d16a.xml#ce98d16a"
+    id="75a6395a"
+    source="archimate:BusinessProcess ../business/3e0e9fd2/aad98e42/ccdbbfb8.xml#ccdbbfb8"
     target="archimate:BusinessProcess ../business/3e0e9fd2/aad98e42/9f637279.xml#9f637279"/>

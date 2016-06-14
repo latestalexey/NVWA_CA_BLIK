@@ -1,7 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="9d00a0c1"
-    name="fysieke inspectie">
+    name="Fysieke inspectie"
+    documentation="ook audit en verificatie (vanuit PKS)&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="_ToDo"
       value="Definitie toevoegen"/>

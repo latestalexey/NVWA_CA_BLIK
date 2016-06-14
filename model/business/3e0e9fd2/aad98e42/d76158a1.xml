@@ -5,8 +5,5 @@
     documentation="Indien op locatie wordt mondeling aangegeven dat een bestuursrechtelijke interventie (boete of andere maatregel zoals last onder dwangsom) zal volgen.">
   <properties
       key="Pre"
-      value="Beoordelen bevindingen = completed"/>
-  <properties
-      key="Pre"
-      value="Beoordelen bevindingen = completed"/>
+      value="Vormen oordeel = completed"/>
 </archimate:BusinessProcess>
