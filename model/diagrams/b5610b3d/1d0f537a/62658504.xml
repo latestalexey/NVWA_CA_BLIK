@@ -583,7 +583,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="23864027"
           textAlignment="2"
-          targetConnections="#6cd65ec5"
+          targetConnections="#6cd65ec5 #77204edf"
           archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/aad98e42/2d5fefb8.xml#2d5fefb8">
         <bounds
             x="552"
@@ -1139,6 +1139,21 @@
         source="#61b1e51b"
         target="#a83cca63"
         relationship="archimate:AggregationRelationship ../../../relations/74a9108c.xml#74a9108c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="3d1d5cb6"
+      textAlignment="1"
+      content="uit elkaar trekken en 3 afzonderlijke stappen van maken?">
+    <bounds
+        x="3449"
+        y="253"
+        width="185"
+        height="80"/>
+    <sourceConnections
+        id="77204edf"
+        source="#3d1d5cb6"
+        target="#23864027"/>
   </children>
   <properties
       key="_Project"
