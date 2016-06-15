@@ -216,7 +216,7 @@
       name="PF15 KS">
     <bounds
         x="33"
-        y="324"
+        y="600"
         width="481"
         height="253"/>
     <children
@@ -313,8 +313,8 @@
       id="828a5275"
       name="PF20 ICB">
     <bounds
-        x="540"
-        y="600"
+        x="33"
+        y="876"
         width="481"
         height="253"/>
     <children
@@ -400,7 +400,7 @@
       id="314b2be6"
       name="PF17 Monsterneming">
     <bounds
-        x="33"
+        x="540"
         y="600"
         width="481"
         height="253"/>
@@ -476,7 +476,7 @@
       id="e413d848"
       name="PF12 Meldingen">
     <bounds
-        x="539"
+        x="33"
         y="322"
         width="482"
         height="255"/>
@@ -554,6 +554,60 @@
       <bounds
           x="324"
           y="36"
+          width="136"
+          height="61"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="d15dc20b"
+      name="PF13 Verleningen">
+    <bounds
+        x="541"
+        y="322"
+        width="468"
+        height="255"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="3650c59e"
+        textAlignment="2"
+        archimateElement="archimate:BusinessRole ../../business/9b6380e4/5f6c97aa/d350cb10.xml#d350cb10">
+      <bounds
+          x="24"
+          y="36"
+          width="136"
+          height="61"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="121ec60c"
+        textAlignment="2"
+        archimateElement="archimate:BusinessRole ../../business/9b6380e4/5f6c97aa/91312e3b.xml#91312e3b">
+      <bounds
+          x="171"
+          y="36"
+          width="136"
+          height="61"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="185585df"
+        textAlignment="2"
+        archimateElement="archimate:BusinessRole ../../business/9b6380e4/5f6c97aa/f11d32d6.xml#f11d32d6">
+      <bounds
+          x="171"
+          y="108"
+          width="136"
+          height="61"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="660cf39e"
+        textAlignment="2"
+        archimateElement="archimate:BusinessRole ../../business/9b6380e4/5f6c97aa/156a4cc8.xml#156a4cc8">
+      <bounds
+          x="24"
+          y="108"
           width="136"
           height="61"/>
     </children>
