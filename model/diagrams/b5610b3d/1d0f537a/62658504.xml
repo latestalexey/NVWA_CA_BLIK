@@ -1161,8 +1161,8 @@
       textAlignment="1"
       content="Waar zit afronden van de inspectiezaak en waar zit afronden van de het handhavingsproject?&#xD;&#xA;">
     <bounds
-        x="4538"
-        y="673"
+        x="4644"
+        y="663"
         width="185"
         height="80"/>
   </children>
@@ -1180,6 +1180,17 @@
         id="a9126c46"
         source="#834db66d"
         target="#0ee66dfe"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="9659732d"
+      textAlignment="1"
+      content="Waar zit oordeelsvorming over inspecties heen ikv handhavingsproject?">
+    <bounds
+        x="4925"
+        y="673"
+        width="185"
+        height="80"/>
   </children>
   <properties
       key="_Project"
