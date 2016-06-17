@@ -378,61 +378,6 @@
           height="561"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="70cfb139"
-          textAlignment="2"
-          archimateElement="archimate:BusinessFunction ../../business/97eb5f35/b0746f54/fa0f8925.xml#fa0f8925">
-        <bounds
-            x="12"
-            y="48"
-            width="373"
-            height="217"/>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="98662b16"
-            textAlignment="2"
-            archimateElement="archimate:BusinessFunction ../../business/97eb5f35/b0746f54/8e0de180.xml#8e0de180">
-          <bounds
-              x="11"
-              y="24"
-              width="169"
-              height="123"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="3833995f"
-            textAlignment="2"
-            archimateElement="archimate:BusinessFunction ../../business/97eb5f35/b0746f54/9d00a0c1.xml#9d00a0c1">
-          <bounds
-              x="192"
-              y="24"
-              width="169"
-              height="123"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="6ac45dc0"
-            textAlignment="2"
-            archimateElement="archimate:ApplicationFunction ../../application/4ef29037/a667a22c/27f3cb17/2cbac177.xml#2cbac177">
-          <bounds
-              x="18"
-              y="156"
-              width="144"
-              height="48"/>
-        </children>
-        <children
-            xsi:type="archimate:DiagramModelArchimateObject"
-            id="d0257e19"
-            textAlignment="2"
-            archimateElement="archimate:ApplicationFunction ../../application/4ef29037/b64a7915/8896771c.xml#8896771c">
-          <bounds
-              x="199"
-              y="156"
-              width="144"
-              height="48"/>
-        </children>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
           id="09527d7d"
           textAlignment="2"
           archimateElement="archimate:BusinessFunction ../../business/97eb5f35/b0746f54/2c71d963.xml#2c71d963">
