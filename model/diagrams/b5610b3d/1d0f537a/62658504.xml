@@ -146,7 +146,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="7d93f6a3"
         textAlignment="2"
-        targetConnections="#820572b1 #fe49a17d #b88dd31d #2cbafc1c"
+        targetConnections="#820572b1 #fe49a17d #b88dd31d #2cbafc1c #aaa7fa11"
         archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/aad98e42/9b055b03.xml#9b055b03">
       <bounds
           x="24"
@@ -1227,6 +1227,21 @@
         y="673"
         width="185"
         height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="cc02a7a3"
+      textAlignment="1"
+      content="Op niveau van individuele inspecties of op niveau teambak/project/etc.?">
+    <bounds
+        x="1717"
+        y="261"
+        width="185"
+        height="80"/>
+    <sourceConnections
+        id="aaa7fa11"
+        source="#cc02a7a3"
+        target="#7d93f6a3"/>
   </children>
   <properties
       key="_Project"
