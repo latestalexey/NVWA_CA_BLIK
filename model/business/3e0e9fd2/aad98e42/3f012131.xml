@@ -1,7 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="3f012131"
-    name="Bepalen datum uitvoering (PF10)"
+    name="Bepalen datum uitvoering"
     documentation="het  (bij zelfroosteren) overnemen van de door het rooster voorgestelde datum voor de uitvoering van de inspectie (tenzij er een goede reden is om, binnen kaders, te schuiven) ">
   <properties
       key="Pre"

@@ -1,7 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="83307608"
-    name="Maken inspectie-afspraak (PF10)"
+    name="Maken inspectie-afspraak"
     documentation="afspraak maken met de geÃ¯nspecteerde, waarbij digitaal of per post de geÃ¯nspecteerde een voorstel voor datum van inspectie ontvangt (als de datum van inspectie niet uit komt, kan de geÃ¯nspecteerde de datum wijzigen). Bij eventuele benodigde afspraken met medehandhavers (bv douane of politie) (die al gemaakt zijn in de werkvoorbereiding) wordt hiermee rekening gehouden in het voorstellen van datum.&#xD;&#xA;Doet zich voor bij categorie 2 activiteiten (herinspectie bijvoorbeeld). Hierbij wordt voordat de activiteit wordt gekoppelt aan een inspecteur i eerst een afspraak (tijdstip) met de te inspecteren vestiging gemaakt.&#xD;&#xA;">
   <properties
       key="Pre"

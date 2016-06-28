@@ -1,7 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="6798b08f"
-    name="Tracering">
+    name="Tracering"
+    documentation="Rechercheren (o.a. bij incident/crisis het herleiden van de herkomst van een product of een besmetting)">
   <properties
       key="_Question"
       value="Is dit een aparte functie?"/>

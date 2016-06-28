@@ -1,7 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="5d4eb2b4"
-    name="Bepalen datum afhandeling (PF10)"
+    name="Bepalen datum afhandeling"
     documentation="het bepalen van een moment om een specifieke inspectie af te handelen voor wat betreft zaken die niet tijdens de inspectie zelf kunnen. Deze geroosterde  tijd is alleen zichtbaar voor de inspecteur zelf.">
   <properties
       key="Pre"
