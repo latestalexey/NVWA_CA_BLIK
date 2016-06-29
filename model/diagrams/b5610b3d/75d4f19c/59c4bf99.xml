@@ -2,15 +2,15 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="59c4bf99"
-    name="PF17 van Monsterneming tot Resultaat (copy)">
+    name="PF17 van Monsterneming tot Resultaat: Monstertransport">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="274594ed"
       textAlignment="2"
       archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/5a2ffdbb/8390bfb3.xml#8390bfb3">
     <bounds
-        x="600"
-        y="192"
+        x="24"
+        y="24"
         width="1164"
         height="219"/>
     <sourceConnections

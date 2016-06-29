@@ -2,7 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="2d44e9f3"
-    name="PF17 van Monsterneming tot Resultaat (copy)">
+    name="PF17 van Monsterneming tot Resultaat: Beoordelen monster analyse">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="cad4a49d"
@@ -11,7 +11,7 @@
       archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/dec2c0ec/3826ce1b.xml#3826ce1b">
     <bounds
         x="804"
-        y="291"
+        y="15"
         width="144"
         height="64"/>
   </children>
@@ -22,7 +22,7 @@
       archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/5a2ffdbb/9109e4ab.xml#9109e4ab">
     <bounds
         x="48"
-        y="384"
+        y="108"
         width="1128"
         height="219"/>
     <children
