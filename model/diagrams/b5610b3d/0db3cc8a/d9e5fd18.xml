@@ -842,17 +842,6 @@
         width="249"
         height="116"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="ab9ba81b"
-      textAlignment="1"
-      content="Gebeurt dit alleen bij externe werkopdrachten???">
-    <bounds
-        x="4264"
-        y="357"
-        width="185"
-        height="49"/>
-  </children>
   <properties
       key="_Project"
       value="PF11"/>
