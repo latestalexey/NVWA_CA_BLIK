@@ -1119,7 +1119,7 @@
     <bounds
         x="240"
         y="-144"
-        width="6204"
+        width="6409"
         height="91"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1194,10 +1194,10 @@
         target="#d2e8d512"
         relationship="archimate:AggregationRelationship ../../../relations/04860340.xml#04860340">
       <bendpoints
-          startX="2972"
-          startY="184"
-          endX="-24"
-          endY="-172"/>
+          startX="3084"
+          startY="159"
+          endX="-12"
+          endY="-204"/>
     </sourceConnections>
   </children>
   <properties
