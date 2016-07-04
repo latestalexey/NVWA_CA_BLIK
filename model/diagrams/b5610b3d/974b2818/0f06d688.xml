@@ -575,8 +575,8 @@
       textAlignment="1"
       content="Ontvangen inspectie advies derde land; is inkomend bericht. Pre conditie en/of business object? In laatste geval een specifieke vorm van CIM object bericht?&#xD;&#xA;&#xD;&#xA;">
     <bounds
-        x="5268"
-        y="455"
+        x="5340"
+        y="499"
         width="205"
         height="109"/>
   </children>
@@ -768,9 +768,9 @@
             relationship="archimate:TriggeringRelationship ../../../relations/1661dca5.xml#1661dca5">
           <bendpoints
               startX="-8"
-              startY="374"
+              startY="362"
               endX="-3584"
-              endY="370"/>
+              endY="359"/>
           <bendpoints
               startX="3556"
               startY="362"
