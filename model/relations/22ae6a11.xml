@@ -1,0 +1,6 @@
+<archimate:UsedByRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="22ae6a11"
+    name="XML"
+    source="archimate:InfrastructureService ../technology/e43c567e.xml#e43c567e"
+    target="archimate:SystemSoftware ../technology/53a4d77a.xml#53a4d77a"/>
