@@ -1,0 +1,5 @@
+<archimate:FlowRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="74057bfd"
+    source="archimate:SystemSoftware ../technology/39c00a04.xml#39c00a04"
+    target="archimate:InfrastructureInterface ../technology/79e3a5e6.xml#79e3a5e6"/>

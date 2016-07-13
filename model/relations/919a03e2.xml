@@ -1,0 +1,6 @@
+<archimate:UsedByRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="919a03e2"
+    name="SOAP/XML"
+    source="archimate:InfrastructureService ../technology/4f96b4a3.xml#4f96b4a3"
+    target="archimate:InfrastructureInterface ../technology/af0c09e8.xml#af0c09e8"/>

@@ -1,0 +1,6 @@
+<archimate:AssociationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="561e6eb9"
+    name="https"
+    source="archimate:BusinessRole ../business/9bbd0781.xml#9bbd0781"
+    target="archimate:SystemSoftware ../technology/ed011a68.xml#ed011a68"/>

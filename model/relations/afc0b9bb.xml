@@ -1,0 +1,6 @@
+<archimate:FlowRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="afc0b9bb"
+    name="SOAP/XML"
+    source="archimate:InfrastructureInterface ../technology/8a57c4cc.xml#8a57c4cc"
+    target="archimate:SystemSoftware ../technology/c5364ea3.xml#c5364ea3"/>
