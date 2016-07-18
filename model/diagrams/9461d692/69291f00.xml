@@ -2,7 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="69291f00"
-    name="CIM 1.1">
+    name="CIM 1.2">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="9a5d21dc"
@@ -1881,12 +1881,6 @@
           height="55"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="6733a61f"
-          source="#facb3832"
-          target="#95e67c44"
-          relationship="archimate:AssociationRelationship ../../relations/25fae186.xml#25fae186"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="4db6e9b3"
           source="#facb3832"
           target="#fd2b03ea"
@@ -1929,6 +1923,12 @@
             endX="-36"
             endY="516"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="6733a61f"
+          source="#facb3832"
+          target="#95e67c44"
+          relationship="archimate:AssociationRelationship ../../relations/25fae186.xml#25fae186"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
