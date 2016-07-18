@@ -1,0 +1,5 @@
+<archimate:AssociationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="ae34270f"
+    source="archimate:CommunicationPath ../technology/4023afb4.xml#4023afb4"
+    target="archimate:SystemSoftware ../technology/952cad22.xml#952cad22"/>
