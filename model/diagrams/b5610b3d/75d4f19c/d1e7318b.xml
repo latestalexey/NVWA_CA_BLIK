@@ -41,7 +41,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="62ddd8ff"
         textAlignment="2"
-        targetConnections="#544fb72d #c418dd50 #db49a8ed"
+        targetConnections="#db49a8ed #544fb72d #c418dd50"
         archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/5a2ffdbb/b37d49a1.xml#b37d49a1">
       <bounds
           x="12"
@@ -327,46 +327,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="9dbb803b"
-      textAlignment="2"
-      archimateElement="archimate:BusinessProcess ../../../business/df93aac1.xml#df93aac1">
-    <bounds
-        x="288"
-        y="192"
-        width="139"
-        height="60"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="544fb72d"
-        source="#9dbb803b"
-        target="#62ddd8ff"
-        relationship="archimate:TriggeringRelationship ../../../relations/bab3862a.xml#bab3862a"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="1a8241de"
-      textAlignment="2"
-      archimateElement="archimate:BusinessProcess ../../../business/aff3b294.xml#aff3b294">
-    <bounds
-        x="288"
-        y="264"
-        width="139"
-        height="60"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="c418dd50"
-        source="#1a8241de"
-        target="#62ddd8ff"
-        relationship="archimate:TriggeringRelationship ../../../relations/dbe72997.xml#dbe72997">
-      <bendpoints
-          startX="196"
-          startY="19"
-          endX="-12"
-          endY="120"/>
-    </sourceConnections>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="f1598706"
       textAlignment="2"
       archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/dec2c0ec/cab3b7fd.xml#cab3b7fd">
@@ -381,5 +341,45 @@
         source="#f1598706"
         target="#62ddd8ff"
         relationship="archimate:TriggeringRelationship ../../../relations/c6ab7d3c.xml#c6ab7d3c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3c852fd1"
+      textAlignment="2"
+      archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/dec2c0ec/4454537e.xml#4454537e">
+    <bounds
+        x="288"
+        y="278"
+        width="139"
+        height="61"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="c418dd50"
+        source="#3c852fd1"
+        target="#62ddd8ff"
+        relationship="archimate:TriggeringRelationship ../../../relations/dbe72997.xml#dbe72997">
+      <bendpoints
+          startX="196"
+          startY="19"
+          endX="-12"
+          endY="120"/>
+    </sourceConnections>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="293d2e8e"
+      textAlignment="2"
+      archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/dec2c0ec/4b3887e6.xml#4b3887e6">
+    <bounds
+        x="288"
+        y="199"
+        width="139"
+        height="61"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="544fb72d"
+        source="#293d2e8e"
+        target="#62ddd8ff"
+        relationship="archimate:TriggeringRelationship ../../../relations/bab3862a.xml#bab3862a"/>
   </children>
 </archimate:ArchimateDiagramModel>
