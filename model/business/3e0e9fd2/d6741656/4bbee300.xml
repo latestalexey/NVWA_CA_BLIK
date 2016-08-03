@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="4bbee300"
     name="15.2.1 Vaststellen behandeltermijn bureaustudie (PF15)"
-    documentation="Het behandelplan wordt opgesteld aan de hand van een format waaruit zo goed mogelijk blijkt wie op een bepaald moment een rol heeft, welke acties worden uitgevoerd en wat de termijn is. Het behandelplan wordt inhoudelijk besproken in CTKS, gedeeld met de schemabeheerder in het Portaal en gearchiveerd in het Systeem."/>
+    documentation="Afhankelijk van de capaciteit  bij de NVWA en de in de toezegging genoemde termijnen  wordt er bepaald wanneer de bureaustudie zal starten en wat de duur zal zijn.&#xD;&#xA;">
+  <properties
+      key="Post"
+      value="schemabeheerder geïnformeerd"/>
+</archimate:BusinessProcess>

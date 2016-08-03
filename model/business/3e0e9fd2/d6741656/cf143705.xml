@@ -5,8 +5,8 @@
     documentation="Op basis van de uitgevoerde beoordeling beslissen of het KS voor verificatie in aanmkerking komt">
   <properties
       key="Pre"
-      value="beoordelingen beschikbaar"/>
+      value="Conclusie beschikbaar"/>
   <properties
       key="Post"
-      value="verificatie akkoord OR verificatie niet akkoord"/>
+      value="de schemabeheerder ontvangt de conclusie en wordt geïnformeerd over het wel of niet starten van de verificatie"/>
 </archimate:BusinessProcess>

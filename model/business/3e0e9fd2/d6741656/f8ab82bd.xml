@@ -1,4 +1,9 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="f8ab82bd"
-    name="15.2.5 Bespreken &amp; vastleggen bevindingen (PF15)"/>
+    name="15.2.5 Bespreken &amp; vastleggen bevindingen (PF15)"
+    documentation="De inhoudelijke deskundige(n) bespreken samen met de trekker de bevindingen van de bureaustudie en leggen deze vast">
+  <properties
+      key="Post"
+      value="onderdelen beoordeeld"/>
+</archimate:BusinessProcess>

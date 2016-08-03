@@ -1,4 +1,9 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="9ba6356a"
-    name="15.3.8 Aanvullen informatie behoefte voor inspecteur (PF15)"/>
+    name="15.3.8 Aanvullen informatie behoefte voor inspecteur (PF15)"
+    documentation="Het aanvullen van de standaard verificatielijst op basis van de informatiebehoefte">
+  <properties
+      key="Pre"
+      value="informatie behoefte inspecteur bepaald"/>
+</archimate:BusinessProcess>

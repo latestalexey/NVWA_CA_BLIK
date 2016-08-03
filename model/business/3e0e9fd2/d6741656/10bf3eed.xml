@@ -2,8 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="10bf3eed"
     name="15.1.3 Toetsen aanvraag (PF15)"
-    documentation="Bekeken wordt of de vragen op het zelfbeoordelingsformulier volledig en juist zijn beantwoord. Hierbij gaat het er niet primair om of de antwoorden ook stroken met de (vanuit de NVWA beleefde) werkelijkheid. Evidente onwaarheden worden wel gesignaleerd in het concept Beoordelingsrapport zelfbeoordeling. Het Concept beoordelingsrapport wordt via het Systeem gedeeld. Het Centraal Team bespreekt het concept Beoordelingsrapport zelfbeoordeling en bepaalt op basis daarvan de gespreksonderwerpen voor het intakegesprek. Essentieel zijn daarbij de selectiecriteria waarop verbetering noodzakelijk is om verdere behandeling van de aanvraag zinvol te maken.&#xD;&#xA;&#xD;&#xA;">
+    documentation="de inhoudelijke deskundige(n) toetsen of de aanvraag voldoet aan de door de NVWA gestelde criteria en of dit aantoonbaar is in de door de schemabeheerder aangeleverde documenten. Let op, dit gaat nog niet zo zeer om de inhoudelijke toets zoals in de bureaustudie, maar er wordt getoetst of alle informatie compleet en correct aangeleverd is door de schemabeheerder. En er wordt gekeken of de scope van het schema voldoende wetgeving afdekt in de concordantie tabel zodat het voor de NVWA waarde heeft om het schema in behandeling te nemen. Indien het schema geen waarde heeft voor de NVWA zal de aanvraag afgewezen worden.">
   <properties
       key="Pre"
       value="inhoudelijke deskundige toegewezen"/>
+  <properties
+      key="Post"
+      value="aanvraag is correct en volledig bevonden"/>
+  <properties
+      key="Post"
+      value="Schema dekt voldoende wetgeving af om in behandeling te nemen"/>
+  <properties
+      key="Post"
+      value="Gegevens aangesloten bedrijven verwerkt"/>
+  <properties
+      key="Post"
+      value="Schemaeigenaar geïnformeerd"/>
 </archimate:BusinessProcess>
