@@ -21,12 +21,6 @@
         relationship="archimate:AssociationRelationship ../../relations/797cff94.xml#797cff94"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="d50fb9c5"
-        source="#5c198886"
-        target="#78d6b9f4"
-        relationship="archimate:AssociationRelationship ../../relations/b39d2903.xml#b39d2903"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="9b197e1c"
         source="#5c198886"
         target="#5f046482"
@@ -169,18 +163,6 @@
         source="#5f046482"
         target="#074bbd76"
         relationship="archimate:InfluenceRelationship ../../relations/ef1a6651.xml#ef1a6651"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="78d6b9f4"
-      textAlignment="2"
-      targetConnections="#d50fb9c5"
-      archimateElement="archimate:Product ../../business/9243f7be/e245fd22.xml#e245fd22">
-    <bounds
-        x="1008"
-        y="336"
-        width="120"
-        height="55"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
