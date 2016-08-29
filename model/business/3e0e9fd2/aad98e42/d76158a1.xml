@@ -1,8 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="d76158a1"
-    name="Aankondigen bestuusrechtelijke interventie"
-    documentation="Indien op locatie wordt mondeling aangegeven dat een bestuursrechtelijke interventie (bestuurlijke boete, bestuurlijke maatregel of bestuursdwang) zal volgen. De hoogte hiervan wordt bepaald bij de afdoening. De geinspecteerde kan hierop een zienswijze laten vastleggen in het rapport van bevindingen.">
+    name="Aankondigen bestuursrechtelijke interventie"
+    documentation="Indien op locatie wordt mondeling aangegeven dat een bestuursrechtelijke interventie (bestuurlijke boete, bestuurlijke maatregel of bestuursdwang) zal volgen. De hoogte hiervan wordt bepaald bij de afdoening. De geinspecteerde kan hierop een zienswijze laten vastleggen in het rapport van bevindingen.&#xD;&#xA;In dit geval is altijd sprake van een herinspectie die alvast kan worden ingepland/gestart">
   <properties
       key="Pre"
       value="Vormen oordeel = completed"/>
