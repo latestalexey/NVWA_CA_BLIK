@@ -965,7 +965,7 @@
     <bounds
         x="5004"
         y="312"
-        width="1369"
+        width="1537"
         height="336"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1284,10 +1284,21 @@
         textAlignment="2"
         archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/aad98e42/a311206d.xml#a311206d">
       <bounds
-          x="1225"
-          y="228"
-          width="120"
-          height="55"/>
+          x="1368"
+          y="132"
+          width="144"
+          height="144"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="f4afb86a"
+          textAlignment="2"
+          archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/aad98e42/00738638.xml#00738638">
+        <bounds
+            x="12"
+            y="60"
+            width="120"
+            height="55"/>
+      </children>
     </children>
   </children>
   <children
@@ -1299,7 +1310,7 @@
     <bounds
         x="24"
         y="48"
-        width="6193"
+        width="6517"
         height="108"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
