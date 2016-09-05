@@ -1,0 +1,83 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="35279844"
+    name="Procesbeheer">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a11fef50"
+      textAlignment="2"
+      archimateElement="archimate:ApplicationComponent ../application/2da6e951/7c9531c7/f411034c.xml#f411034c">
+    <bounds
+        x="168"
+        y="48"
+        width="912"
+        height="96"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="c3ce194d"
+        textAlignment="2"
+        archimateElement="archimate:ApplicationFunction ../application/2da6e951/7c9531c7/e549d69f.xml#e549d69f">
+      <bounds
+          x="204"
+          y="34"
+          width="120"
+          height="36"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="ffcd700a"
+        textAlignment="2"
+        archimateElement="archimate:ApplicationFunction ../application/2da6e951/7c9531c7/d96fe264.xml#d96fe264">
+      <bounds
+          x="600"
+          y="34"
+          width="120"
+          height="36"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="d4754ea5"
+        textAlignment="2"
+        archimateElement="archimate:ApplicationFunction ../application/2da6e951/7c9531c7/63230a35.xml#63230a35">
+      <bounds
+          x="336"
+          y="34"
+          width="120"
+          height="36"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="52d4b6bc"
+        textAlignment="2"
+        archimateElement="archimate:ApplicationFunction ../application/2da6e951/7c9531c7/7b95dd1d.xml#7b95dd1d">
+      <bounds
+          x="468"
+          y="34"
+          width="120"
+          height="36"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="626f16d1"
+        textAlignment="2"
+        archimateElement="archimate:ApplicationFunction ../application/2da6e951/7c9531c7/f925fccd.xml#f925fccd">
+      <bounds
+          x="732"
+          y="34"
+          width="156"
+          height="36"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="98ce4b78"
+        textAlignment="2"
+        archimateElement="archimate:ApplicationFunction ../application/2da6e951/7c9531c7/aa83fcf6.xml#aa83fcf6">
+      <bounds
+          x="36"
+          y="24"
+          width="120"
+          height="55"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>
