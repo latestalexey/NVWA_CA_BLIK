@@ -17,7 +17,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c279f635"
         textAlignment="2"
-        targetConnections="#3bca30ab #fdf76ff3 #42d76c2c #ee50b252 #a711aa14"
+        targetConnections="#3bca30ab #fdf76ff3 #ee50b252 #a711aa14 #42d76c2c"
         archimateElement="archimate:BusinessProcess ../business/3e0e9fd2/dec2c0ec/4b3887e6.xml#4b3887e6">
       <bounds
           x="36"
@@ -50,18 +50,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="39107815"
-          source="#c279f635"
-          target="#2a511585"
-          relationship="archimate:TriggeringRelationship ../relations/82518410.xml#82518410">
-        <bendpoints
-            startX="259"
-            startY="-240"
-            endX="320"
-            endY="264"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="dbf15e0f"
           source="#c279f635"
           target="#6494227e"
@@ -71,6 +59,18 @@
             startY="12"
             endX="-18"
             endY="-146"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="39107815"
+          source="#c279f635"
+          target="#2a511585"
+          relationship="archimate:TriggeringRelationship ../relations/82518410.xml#82518410">
+        <bendpoints
+            startX="259"
+            startY="-240"
+            endX="320"
+            endY="264"/>
       </sourceConnections>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -134,7 +134,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="2a511585"
         textAlignment="2"
-        targetConnections="#e692edb1 #39107815"
+        targetConnections="#39107815 #e692edb1"
         archimateElement="archimate:BusinessProcess ../business/3e0e9fd2/dec2c0ec/cab3b7fd.xml#cab3b7fd">
       <bounds
           x="240"

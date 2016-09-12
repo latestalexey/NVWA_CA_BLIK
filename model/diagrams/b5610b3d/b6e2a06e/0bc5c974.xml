@@ -175,12 +175,6 @@
           height="55"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="37769369"
-          source="#b7e7e50e"
-          target="#ea9acf59"
-          relationship="archimate:TriggeringRelationship ../../../relations/e0b2aa1d.xml#e0b2aa1d"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="f855b002"
           source="#b7e7e50e"
           target="#e02c2046"
@@ -191,6 +185,12 @@
             endX="-8"
             endY="50"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="37769369"
+          source="#b7e7e50e"
+          target="#ea9acf59"
+          relationship="archimate:TriggeringRelationship ../../../relations/e0b2aa1d.xml#e0b2aa1d"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -903,7 +903,7 @@
         textAlignment="1"
         content="NVWA doet alleen afbouw incident overleg (dept. doet afbouw crisisoverleg)">
       <bounds
-          x="204"
+          x="144"
           y="3"
           width="285"
           height="52"/>
@@ -1044,7 +1044,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ea9acf59"
       textAlignment="2"
-      targetConnections="#37769369 #5c42535b #31319dab"
+      targetConnections="#37769369 #31319dab #5c42535b"
       archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/dec2c0ec/cab3b7fd.xml#cab3b7fd">
     <bounds
         x="-372"

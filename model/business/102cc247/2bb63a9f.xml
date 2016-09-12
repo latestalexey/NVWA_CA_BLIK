@@ -1,4 +1,11 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="2bb63a9f"
-    name="Onderneming"/>
+    name="Onderneming">
+  <properties
+      key="_Info"
+      value="Aanvrager (PF14 14.1.1 Invullen aanvraag)"/>
+  <properties
+      key="_Info"
+      value="Transporteur (PF14 14.4.1 Beoordelen documenten)"/>
+</archimate:BusinessObject>

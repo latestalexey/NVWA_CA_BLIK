@@ -1,0 +1,6 @@
+<archimate:TriggeringRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="df176465"
+    documentation="PM Keuring overdragen (niet permanent toezicht)"
+    source="archimate:BusinessProcess ../business/3e0e9fd2/fb349d11/ec9be45b.xml#ec9be45b"
+    target="archimate:BusinessProcess ../business/3e0e9fd2/fb349d11/f97adfee.xml#f97adfee"/>

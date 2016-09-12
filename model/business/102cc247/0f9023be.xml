@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="0f9023be"
-    name="Vestiging"/>
+    name="Vestiging">
+  <properties
+      key="_Info"
+      value="Slachtplaats (PF14)"/>
+</archimate:BusinessObject>
