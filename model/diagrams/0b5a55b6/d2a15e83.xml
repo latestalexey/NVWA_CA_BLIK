@@ -69,7 +69,18 @@
           id="e2a3a6c4"
           source="#b6bedd1b"
           target="#18338f21"
-          relationship="archimate:RealisationRelationship ../../relations/3efa62d3.xml#3efa62d3"/>
+          relationship="archimate:RealisationRelationship ../../relations/3efa62d3.xml#3efa62d3">
+        <bendpoints
+            startX="-120"
+            startY="9"
+            endX="120"
+            endY="-63"/>
+        <bendpoints
+            startX="-120"
+            startY="69"
+            endX="120"
+            endY="-3"/>
+      </sourceConnections>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -108,13 +119,29 @@
           id="c3eb9c98"
           source="#3e9d3666"
           target="#d017ab1d"
-          relationship="archimate:RealisationRelationship ../../relations/4a74841a.xml#4a74841a"/>
+          relationship="archimate:RealisationRelationship ../../relations/4a74841a.xml#4a74841a">
+        <bendpoints
+            startX="-120"
+            startY="-3"
+            endX="120"
+            endY="33"/>
+        <bendpoints
+            startX="-120"
+            startY="-39"
+            endX="120"
+            endY="-3"/>
+      </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="d1edf60f"
           source="#3e9d3666"
           target="#8f42019d"
-          relationship="archimate:RealisationRelationship ../../relations/d4b7f740.xml#d4b7f740"/>
+          relationship="archimate:RealisationRelationship ../../relations/d4b7f740.xml#d4b7f740">
+        <bendpoints
+            startY="-99"
+            endX="240"
+            endY="3"/>
+      </sourceConnections>
     </children>
   </children>
   <children
@@ -164,7 +191,18 @@
           id="96c198b3"
           source="#81cb9259"
           target="#f9b87448"
-          relationship="archimate:RealisationRelationship ../../relations/db935363.xml#db935363"/>
+          relationship="archimate:RealisationRelationship ../../relations/db935363.xml#db935363">
+        <bendpoints
+            startX="120"
+            startY="9"
+            endX="-108"
+            endY="-27"/>
+        <bendpoints
+            startX="120"
+            startY="45"
+            endX="-108"
+            endY="-3"/>
+      </sourceConnections>
     </children>
   </children>
   <children
@@ -310,13 +348,34 @@
           id="56ca70ff"
           source="#67229cba"
           target="#4262d0af"
-          relationship="archimate:RealisationRelationship ../../relations/9c2317f0.xml#9c2317f0"/>
+          relationship="archimate:RealisationRelationship ../../relations/9c2317f0.xml#9c2317f0">
+        <bendpoints
+            startX="-24"
+            startY="-99"
+            endX="61"
+            endY="117"/>
+        <bendpoints
+            startX="-72"
+            startY="-99"
+            endX="13"
+            endY="117"/>
+      </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="8302114a"
           source="#67229cba"
           target="#db897942"
-          relationship="archimate:RealisationRelationship ../../relations/bae2729c.xml#bae2729c"/>
+          relationship="archimate:RealisationRelationship ../../relations/bae2729c.xml#bae2729c">
+        <bendpoints
+            startX="24"
+            startY="-99"
+            endX="-24"
+            endY="117"/>
+        <bendpoints
+            startX="48"
+            startY="-99"
+            endY="117"/>
+      </sourceConnections>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -363,7 +422,7 @@
       archimateElement="archimate:ApplicationService ../../application/2da6e951/e93b1b8a/f4ef0c36/13a729c6/a797c881.xml#a797c881">
     <bounds
         x="264"
-        y="-36"
+        y="-24"
         width="120"
         height="55"/>
     <sourceConnections
@@ -469,9 +528,9 @@
       targetConnections="#56ca70ff"
       archimateElement="archimate:ApplicationService ../../application/2da6e951/7aaaffcb/14fe3b81.xml#14fe3b81">
     <bounds
-        x="383"
+        x="359"
         y="-180"
-        width="120"
+        width="144"
         height="55"/>
   </children>
   <children

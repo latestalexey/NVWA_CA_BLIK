@@ -821,7 +821,7 @@
         id="f4d34ab9"
         textAlignment="2"
         targetConnections="#ca74ff1d"
-        archimateElement="archimate:DataObject ../../../application/2da6e951/cbd5c7b8/a15b6fbe.xml#a15b6fbe">
+        archimateElement="archimate:DataObject ../../../application/2da6e951/47e371c2/a15b6fbe.xml#a15b6fbe">
       <bounds
           x="528"
           y="312"
@@ -890,7 +890,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="af5ad7be"
         textAlignment="2"
-        targetConnections="#72306dd3"
         archimateElement="archimate:ApplicationFunction ../../../application/2da6e951/a045781d/90cc78ba.xml#90cc78ba">
       <bounds
           x="732"
@@ -931,12 +930,6 @@
           y="24"
           width="888"
           height="122"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="72306dd3"
-          source="#244a9bd1"
-          target="#af5ad7be"
-          relationship="archimate:AssociationRelationship ../../../relations/994067ec.xml#994067ec"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="e6557cb1"
