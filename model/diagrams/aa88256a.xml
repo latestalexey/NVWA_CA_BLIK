@@ -9,8 +9,8 @@
       name="Bedrijfsniveau"
       fillColor="#00ff00">
     <bounds
-        x="48"
-        y="696"
+        x="47"
+        y="768"
         width="745"
         height="1237"/>
     <children
@@ -403,8 +403,8 @@
       name="Doelgroepniveau"
       fillColor="#00ff00">
     <bounds
-        x="48"
-        y="192"
+        x="47"
+        y="264"
         width="745"
         height="469"/>
     <children
@@ -494,7 +494,7 @@
         x="48"
         y="12"
         width="745"
-        height="152"/>
+        height="216"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c3e863ca"
@@ -502,7 +502,7 @@
         archimateElement="archimate:BusinessProcess ../business/3e0e9fd2/dec2c0ec/2b98fc33.xml#2b98fc33">
       <bounds
           x="36"
-          y="36"
+          y="96"
           width="681"
           height="37"/>
     </children>
@@ -513,9 +513,20 @@
         archimateElement="archimate:BusinessProcess ../business/3e0e9fd2/dec2c0ec/f1801b3c.xml#f1801b3c">
       <bounds
           x="36"
-          y="96"
+          y="156"
           width="681"
           height="37"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="cd83d028"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../business/3e0e9fd2/dec2c0ec/c3f832fb.xml#c3f832fb">
+      <bounds
+          x="36"
+          y="36"
+          width="680"
+          height="36"/>
     </children>
   </children>
   <children
@@ -524,31 +535,31 @@
       name="Ondersteuning"
       fillColor="#0000ff">
     <bounds
-        x="47"
-        y="1956"
+        x="46"
+        y="2028"
         width="745"
-        height="156"/>
+        height="240"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="bc057de9"
         textAlignment="2"
-        archimateElement="archimate:BusinessProcess ../business/3e0e9fd2/b3873b5b/3a7273ba.xml#3a7273ba">
+        archimateElement="archimate:BusinessProcess ../business/3e0e9fd2/dec2c0ec/3a7273ba.xml#3a7273ba">
       <bounds
           x="36"
           y="36"
           width="681"
-          height="37"/>
+          height="85"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="d4e5ad15"
         textAlignment="2"
-        archimateElement="archimate:BusinessProcess ../business/3e0e9fd2/b3873b5b/03fe17b5.xml#03fe17b5">
+        archimateElement="archimate:BusinessProcess ../business/3e0e9fd2/dec2c0ec/03fe17b5.xml#03fe17b5">
       <bounds
           x="36"
-          y="96"
+          y="144"
           width="681"
-          height="37"/>
+          height="85"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
