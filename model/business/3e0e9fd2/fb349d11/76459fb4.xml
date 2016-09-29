@@ -1,7 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="76459fb4"
-    name="14.5.2 Nemen PM beslissing"
+    name="14.5.3 Beoordelen PM bevindingen"
     documentation="Op basis van de bevindingen uit de PM-keuring wordt door de dierenarts een besluit genomen. Wanneer dieren door de Keurder zijn goedgekeurd wordt deze beslissing impliciet genomen. Bij twijfel is een dier overgedragen en wordt het besluit door de dierenarts zelf, na nader onderzoek, genomen. Deze stap vraagt geen feitelijke keuringshandelingen, maar gaat over het nemen van de verantwoordelijkheid voor de beslissing door de toezichthoudend dierenarts.&#xD;&#xA;Als de AM-keuring is uitgesteld (door niet-voorhanden informatie) kan ook de PM-keuringsbeslissing niet worden genomen. Deze wordt dan ook uitgesteld tot het moment dat de AM-keuringsbeslissing is genomen.">
   <properties
       key="Pre"
