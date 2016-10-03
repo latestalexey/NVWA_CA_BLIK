@@ -16,16 +16,16 @@
         height="336"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="397e09ae"
+        id="5b03751b"
         source="#6da9e2cf"
         target="#0cfcf1ee"
-        relationship="archimate:CompositionRelationship ../../../../relations/b741d8d6.xml#b741d8d6"/>
+        relationship="archimate:AggregationRelationship ../../../../relations/ecf21b06.xml#ecf21b06"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="0cfcf1ee"
         textAlignment="2"
-        targetConnections="#397e09ae"
-        archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/aad98e42/ad79def3.xml#ad79def3">
+        targetConnections="#5b03751b"
+        archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/ad79def3.xml#ad79def3">
       <bounds
           x="24"
           y="48"
@@ -35,7 +35,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="1571f543"
           textAlignment="2"
-          archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/aad98e42/71c77eb4.xml#71c77eb4">
+          archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/304ea55f/6f1decce/71c77eb4.xml#71c77eb4">
         <bounds
             x="24"
             y="36"
@@ -59,7 +59,7 @@
           id="667bcae2"
           textAlignment="2"
           targetConnections="#dda16ef3"
-          archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/aad98e42/fbde72c3.xml#fbde72c3">
+          archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/304ea55f/6f1decce/fbde72c3.xml#fbde72c3">
         <bounds
             x="16"
             y="132"
@@ -82,7 +82,7 @@
             id="620b1bd3"
             textAlignment="2"
             targetConnections="#7edd2ef3 #0e37ec61"
-            archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/aad98e42/6daacdb1.xml#6daacdb1">
+            archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/304ea55f/6f1decce/6daacdb1.xml#6daacdb1">
           <bounds
               x="36"
               y="24"
@@ -94,7 +94,7 @@
             id="7283a3d5"
             textAlignment="2"
             targetConnections="#f2d691b5 #d66a4ef7"
-            archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/aad98e42/802857aa.xml#802857aa">
+            archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/304ea55f/6f1decce/802857aa.xml#802857aa">
           <bounds
               x="192"
               y="24"
@@ -107,7 +107,7 @@
           id="3f944376"
           textAlignment="2"
           targetConnections="#27ff80f1 #a440086f"
-          archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/aad98e42/eaa44468.xml#eaa44468">
+          archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/304ea55f/6f1decce/eaa44468.xml#eaa44468">
         <bounds
             x="180"
             y="36"
@@ -126,7 +126,7 @@
           textAlignment="2"
           targetConnections="#feca8822 #9da3f5d4"
           fillColor="#ff8080"
-          archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/aad98e42/07e403da.xml#07e403da">
+          archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/304ea55f/6f1decce/07e403da.xml#07e403da">
         <bounds
             x="396"
             y="36"
@@ -145,7 +145,7 @@
           textAlignment="2"
           targetConnections="#33a65947"
           fillColor="#ff8080"
-          archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/aad98e42/aeed614e.xml#aeed614e">
+          archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/304ea55f/6f1decce/aeed614e.xml#aeed614e">
         <bounds
             x="552"
             y="36"
@@ -164,7 +164,7 @@
           textAlignment="2"
           targetConnections="#9cfd3f90"
           fillColor="#ff8080"
-          archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/aad98e42/d730fbf7.xml#d730fbf7">
+          archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/304ea55f/6f1decce/d730fbf7.xml#d730fbf7">
         <bounds
             x="552"
             y="138"
