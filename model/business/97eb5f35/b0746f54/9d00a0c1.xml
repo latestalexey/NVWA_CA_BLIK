@@ -1,9 +1,4 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="9d00a0c1"
-    name="Uitvoering toezicht"
-    documentation="ook audit en verificatie (vanuit PKS)&#xD;&#xA;&#xD;&#xA;">
-  <properties
-      key="_ToDo"
-      value="Definitie toevoegen"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessFunction xmlns:archimate="http://www.archimatetool.com/archimate" id="9d00a0c1" name="Uitvoering toezicht" documentation="ook audit en verificatie (vanuit PKS)&#xD;&#xA;&#xD;&#xA;">
+  <properties key="_ToDo" value="Definitie toevoegen"/>
 </archimate:BusinessFunction>

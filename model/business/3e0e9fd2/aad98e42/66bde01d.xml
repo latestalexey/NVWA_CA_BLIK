@@ -1,5 +1,2 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="66bde01d"
-    name="Bepalen werkvoorraad (PF10)"
-    documentation="Bij het selecteren ontstaat de werkvoorraad van uit te voeren activiteiten (zaken) en wordt deze door het systeem bepaald en toegewezen aan een org eenheid."/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="66bde01d" name="Bepalen werkvoorraad (PF10)" documentation="Bij het selecteren ontstaat de werkvoorraad van uit te voeren activiteiten (zaken) en wordt deze door het systeem bepaald en toegewezen aan een org eenheid."/>

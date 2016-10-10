@@ -1,5 +1,2 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="43a5ccfa"
-    name="Bepalen acties (PF20)"
-    documentation="Op basis van de aanwezige informatie en de uitkomsten van het TAT wordt bekeken welke acties nodig zijn. Als het om een incident gaat dat vaker voorkomt dan is daar meestal al een draaiboek van beschikbaar waar de te nemen acties in genoemd staan. Bij onbekende of niet vaak voorkomende incidenten moeten de acties handmatig vastgesteld worden en is er dus geen draaiboek aanwezig"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="43a5ccfa" name="Bepalen acties (PF20)" documentation="Op basis van de aanwezige informatie en de uitkomsten van het TAT wordt bekeken welke acties nodig zijn. Als het om een incident gaat dat vaker voorkomt dan is daar meestal al een draaiboek van beschikbaar waar de te nemen acties in genoemd staan. Bij onbekende of niet vaak voorkomende incidenten moeten de acties handmatig vastgesteld worden en is er dus geen draaiboek aanwezig"/>

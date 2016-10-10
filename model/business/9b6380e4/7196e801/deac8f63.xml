@@ -1,5 +1,2 @@
-<archimate:BusinessRole
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="deac8f63"
-    name="Zaak toewijzer"
-    documentation="- wijst zaken toewijzen aan zichzelf"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessRole xmlns:archimate="http://www.archimatetool.com/archimate" id="deac8f63" name="Zaak toewijzer" documentation="- wijst zaken toewijzen aan zichzelf"/>

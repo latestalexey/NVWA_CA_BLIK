@@ -1,8 +1,4 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="5ad162b5"
-    name="Gegevens bewerken">
-  <properties
-      key="_Question"
-      value="Dit lijkt van een hele andere orde dan alle andere: bij de meeste functies is er sprake van gegevens bewerken."/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:ApplicationFunction xmlns:archimate="http://www.archimatetool.com/archimate" id="5ad162b5" name="Gegevens bewerken">
+  <properties key="_Question" value="Dit lijkt van een hele andere orde dan alle andere: bij de meeste functies is er sprake van gegevens bewerken."/>
 </archimate:ApplicationFunction>

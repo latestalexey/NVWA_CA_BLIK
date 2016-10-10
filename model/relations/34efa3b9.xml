@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:FlowRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="34efa3b9" name="periodeverantwoordingen" documentation="Als antwoord op een tijdverantwoording stuurt KODE een periodeverantwoording terug. Hierin zitten niet alleen de toelagen en urensaldi, maar ook de verantwoording van de berekeningen door KODE. Dit bericht wordt in een XML-bericht overgedragen, waarvan het formaat tussen DTV en KODE is afgesproken (zie het FO van DTV).">
+  <source xsi:type="archimate:SystemSoftware" href="../technology/db22fc58.xml#db22fc58"/>
+  <target xsi:type="archimate:SystemSoftware" href="../technology/e443d62d.xml#e443d62d"/>
+</archimate:FlowRelationship>

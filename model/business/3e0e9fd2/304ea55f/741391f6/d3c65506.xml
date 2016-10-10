@@ -1,9 +1,4 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="d3c65506"
-    name="Opstellen toezichtrapport"
-    documentation="op basis van de ingevulde inspectielijsten/controles wordt een feitelijk overzicht van de inspectie opgeleverd (in afdoening centraal een &quot;kennisgeving van inspectie&quot; genoemd) waarin bezoekdatum, -reden, de controlepunten (‘inspectielijst’) en de eventuele afwijkingen of overtredingen zijn opgenomen. Dit rapport is in sommige gevallen het einde van de uitvoering als geen afdoening is vereist. Dat kan zijn omdat de inspectie is uitgevoerd voor afdoening door derden (zoals bij een externe werkopdracht) of omdat er geen overtredingen waren. ">
-  <properties
-      key="Pre"
-      value="inspectielijst ingevuld en volledig"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="d3c65506" name="Opstellen toezichtrapport" documentation="op basis van de ingevulde inspectielijsten/controles wordt een feitelijk overzicht van de inspectie opgeleverd (in afdoening centraal een &quot;kennisgeving van inspectie&quot; genoemd) waarin bezoekdatum, -reden, de controlepunten (‘inspectielijst’) en de eventuele afwijkingen of overtredingen zijn opgenomen. Dit rapport is in sommige gevallen het einde van de uitvoering als geen afdoening is vereist. Dat kan zijn omdat de inspectie is uitgevoerd voor afdoening door derden (zoals bij een externe werkopdracht) of omdat er geen overtredingen waren. ">
+  <properties key="Pre" value="inspectielijst ingevuld en volledig"/>
 </archimate:BusinessProcess>

@@ -1,8 +1,4 @@
-<archimate:ApplicationInteraction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="719ac11e"
-    name="SAS koppeling">
-  <properties
-      key="Gereed op "
-      value="1 juni 2016"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:ApplicationInteraction xmlns:archimate="http://www.archimatetool.com/archimate" id="719ac11e" name="SAS koppeling">
+  <properties key="Gereed op " value="1 juni 2016"/>
 </archimate:ApplicationInteraction>

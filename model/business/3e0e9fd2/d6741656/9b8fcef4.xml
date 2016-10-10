@@ -1,9 +1,4 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="9b8fcef4"
-    name="15.2.6 Opstellen conclusie bureaustudie (PF15)"
-    documentation="Aan de hand van de vastgelegde bevindingen wordt de conclusie van de bureaustudie opgesteld. ">
-  <properties
-      key="Pre"
-      value="bevindingen vastgelegd"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="9b8fcef4" name="15.2.6 Opstellen conclusie bureaustudie (PF15)" documentation="Aan de hand van de vastgelegde bevindingen wordt de conclusie van de bureaustudie opgesteld. ">
+  <properties key="Pre" value="bevindingen vastgelegd"/>
 </archimate:BusinessProcess>

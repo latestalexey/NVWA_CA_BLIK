@@ -1,5 +1,2 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="592b40b0"
-    name="Terugmelden tegencontrole-verzoek (PF11)"
-    documentation="CCU - Op basis van de beoordeling op uitvoerbaarheid van het tegencontrole verzoek wordt besloten om het verzoek wel/ niet te accepteren. Als het verzoek niet wordt geaccepteerd, dan meldt Opdrachtgever dit direct terug naar aanvrager. Als het verzoek wordt geaccepteerd, meldt Opdrachtgever dit aan aanvrager en neemt dit verzoek op in het proces vanaf Klaarzetten inspectiedossier."/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="592b40b0" name="Terugmelden tegencontrole-verzoek (PF11)" documentation="CCU - Op basis van de beoordeling op uitvoerbaarheid van het tegencontrole verzoek wordt besloten om het verzoek wel/ niet te accepteren. Als het verzoek niet wordt geaccepteerd, dan meldt Opdrachtgever dit direct terug naar aanvrager. Als het verzoek wordt geaccepteerd, meldt Opdrachtgever dit aan aanvrager en neemt dit verzoek op in het proces vanaf Klaarzetten inspectiedossier."/>

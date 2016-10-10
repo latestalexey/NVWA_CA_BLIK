@@ -1,5 +1,2 @@
-<archimate:BusinessRole
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="5fe31c0d"
-    name="Aanvrager"
-    documentation="- intieert (op basis van PDC) een zaak en vult eventueel benodigde gegevens in"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessRole xmlns:archimate="http://www.archimatetool.com/archimate" id="5fe31c0d" name="Aanvrager" documentation="- intieert (op basis van PDC) een zaak en vult eventueel benodigde gegevens in"/>

@@ -1,5 +1,5 @@
-<archimate:FlowRelationship
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="a2d77661"
-    source="archimate:SystemSoftware ../technology/952cad22.xml#952cad22"
-    target="archimate:SystemSoftware ../technology/db22fc58.xml#db22fc58"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:FlowRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="a2d77661" name="arbeidsmodaliteiten en categorieën" documentation="Dit is een handmatige koppeling. Uit P-Direkt komt een Excel-bestand, dat door P&amp;O wordt ingelezen in DTV. ">
+  <source xsi:type="archimate:SystemSoftware" href="../technology/952cad22.xml#952cad22"/>
+  <target xsi:type="archimate:SystemSoftware" href="../technology/e443d62d.xml#e443d62d"/>
+</archimate:FlowRelationship>

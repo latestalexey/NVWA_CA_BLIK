@@ -1,5 +1,2 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="f78602fc"
-    name="13.2.1 Controleren aanvraag op juistheid (PF13)"
-    documentation="De ondersteuner controleert bij verleningen waar dat na automatische controle nog nodig is de aanvraag op inhoudelijke juistheid: juiste bijlage e.d.: alles wat niet afgevangen kan worden door de automatische controle op volledigheid (bijv. vakantiefoto ipv foto bedrijfsobject). "/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="f78602fc" name="13.2.1 Controleren aanvraag op juistheid (PF13)" documentation="De ondersteuner controleert bij verleningen waar dat na automatische controle nog nodig is de aanvraag op inhoudelijke juistheid: juiste bijlage e.d.: alles wat niet afgevangen kan worden door de automatische controle op volledigheid (bijv. vakantiefoto ipv foto bedrijfsobject). "/>

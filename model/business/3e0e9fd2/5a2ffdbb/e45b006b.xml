@@ -1,5 +1,2 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="e45b006b"
-    name="17.2.4 Scannen monster bij aanvang transport (PF17)"
-    documentation="Wanneer het monster wordt opgehaald bij een transportlocatie, wordt het monsternummer gescand en geeft het systeem aan naar welk laboratorium het monster getransporteerd moet worden."/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="e45b006b" name="17.2.4 Scannen monster bij aanvang transport (PF17)" documentation="Wanneer het monster wordt opgehaald bij een transportlocatie, wordt het monsternummer gescand en geeft het systeem aan naar welk laboratorium het monster getransporteerd moet worden."/>

@@ -1,9 +1,4 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="802857aa"
-    name="Verzamelen externe gegevens"
-    documentation="zijn er gegevens die niet standaard beschikbaar zijn voor de nvwa? dit wil je vooraf kunnen bestuderen ipv aan de start van een inspectie of audit op locatie. Dit gaat om gegevens specifiek voor de controle: bv een voedselveiligheidsplan voor een audit of de administratie van een bedrijf waar later een fysieke inspectie plaatsvindt. n.b. bij een administratieve controle op afstand vindt tevens de aankondiging van de controle plaats. Denk ook aan gegevens van andere toezichthouders of externe bronnen als inspectieview.">
-  <properties
-      key="Pre"
-      value="administratieve controle (op afstand) = true"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="802857aa" name="Verzamelen externe gegevens" documentation="zijn er gegevens die niet standaard beschikbaar zijn voor de nvwa? dit wil je vooraf kunnen bestuderen ipv aan de start van een inspectie of audit op locatie. Dit gaat om gegevens specifiek voor de controle: bv een voedselveiligheidsplan voor een audit of de administratie van een bedrijf waar later een fysieke inspectie plaatsvindt. n.b. bij een administratieve controle op afstand vindt tevens de aankondiging van de controle plaats. Denk ook aan gegevens van andere toezichthouders of externe bronnen als inspectieview.">
+  <properties key="Pre" value="administratieve controle (op afstand) = true"/>
 </archimate:BusinessProcess>

@@ -1,10 +1,6 @@
-<archimate:FlowRelationship
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="0c3bd0b0"
-    name="Beschikbaarheid"
-    source="archimate:ApplicationComponent ../application/5eea8998/e28f8179.xml#e28f8179"
-    target="archimate:ApplicationComponent ../application/5eea8998/6bbb4007.xml#6bbb4007">
-  <properties
-      key="_Info"
-      value="december 2016"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:FlowRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="0c3bd0b0" name="Beschikbaarheid">
+  <properties key="_Info" value="december 2016"/>
+  <source xsi:type="archimate:ApplicationComponent" href="../application/5eea8998/e28f8179.xml#e28f8179"/>
+  <target xsi:type="archimate:ApplicationComponent" href="../application/5eea8998/6bbb4007.xml#6bbb4007"/>
 </archimate:FlowRelationship>

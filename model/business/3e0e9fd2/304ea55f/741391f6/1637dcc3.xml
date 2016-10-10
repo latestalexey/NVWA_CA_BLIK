@@ -1,10 +1,5 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="1637dcc3"
-    name="Verwerken aanvullend onderzoek"
-    documentation="hierbij gaat het om het beoordelen van de uitslag van de monstername &#xD;&#xA;en/of de uitkomsten nav onderzoek of overleg hoe waarnemingen te interpreteren (dit speelt in situaties waar de inspecteur ter plekke niet weet hoe de waarnemingen te beoordelen en dat dat met een telefoontje met een collega/projectleider ter plekke niet is op te lossen) ">
-  <properties
-      key="Pre"
-      value="monsterneming is nodig EN resultaat monsterneming is ontvangen EN/OF vastgelegde en gecontroleerde waarneming is gereed"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="1637dcc3" name="Verwerken aanvullend onderzoek" documentation="hierbij gaat het om het beoordelen van de uitslag van de monstername &#xD;&#xA;en/of de uitkomsten nav onderzoek of overleg hoe waarnemingen te interpreteren (dit speelt in situaties waar de inspecteur ter plekke niet weet hoe de waarnemingen te beoordelen en dat dat met een telefoontje met een collega/projectleider ter plekke niet is op te lossen) ">
+  <properties key="Pre" value="monsterneming is nodig EN resultaat monsterneming is ontvangen EN/OF vastgelegde en gecontroleerde waarneming is gereed"/>
   <properties/>
 </archimate:BusinessProcess>

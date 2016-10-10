@@ -1,5 +1,2 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="12bb8e3e"
-    name="13.1.4 Accepteren aanvraag (PF13)"
-    documentation="Na ontvangst verstuurt het systeem automatisch een ontvangstbevestiging van de aanvraag. In de ontvangstbevestiging wordt minimaal de onderstaande informatie vermeld.&#xD;&#xA;-&#x9;Ontvangstdatum aanvraag &#xD;&#xA;-&#x9;Informatie over wat er is aangevraagd&#xD;&#xA;-&#x9;Afhandel termijn&#xD;&#xA;-&#x9;Informatie over de procedure &#xD;&#xA;-&#x9;Hoe hij de voortgang kan volgen&#xD;&#xA;"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="12bb8e3e" name="13.1.4 Accepteren aanvraag (PF13)" documentation="Na ontvangst verstuurt het systeem automatisch een ontvangstbevestiging van de aanvraag. In de ontvangstbevestiging wordt minimaal de onderstaande informatie vermeld.&#xD;&#xA;-&#x9;Ontvangstdatum aanvraag &#xD;&#xA;-&#x9;Informatie over wat er is aangevraagd&#xD;&#xA;-&#x9;Afhandel termijn&#xD;&#xA;-&#x9;Informatie over de procedure &#xD;&#xA;-&#x9;Hoe hij de voortgang kan volgen&#xD;&#xA;"/>

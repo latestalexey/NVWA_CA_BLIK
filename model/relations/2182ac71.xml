@@ -1,5 +1,5 @@
-<archimate:UsedByRelationship
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="2182ac71"
-    source="archimate:SystemSoftware ../technology/c5364ea3.xml#c5364ea3"
-    target="archimate:InfrastructureService ../technology/9d196074.xml#9d196074"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:UsedByRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="2182ac71">
+  <source xsi:type="archimate:SystemSoftware" href="../technology/c5364ea3.xml#c5364ea3"/>
+  <target xsi:type="archimate:InfrastructureService" href="../technology/9d196074.xml#9d196074"/>
+</archimate:UsedByRelationship>

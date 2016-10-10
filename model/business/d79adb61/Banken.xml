@@ -1,5 +1,2 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="Banken"
-    name="Banken"
-    documentation="Een bank is een financi‰le dienstverlener. Personen en bedrijven kunnen tegen een vergoeding (rente) geld bij een bank inleggen en dit geld kan vervolgens tegen een hogere rente weer worden uitgeleend. Het verschil tussen de ontvangen en betaalde rente is voor de bank een belangrijke inkomstenbron."/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessActor xmlns:archimate="http://www.archimatetool.com/archimate" id="Banken" name="Banken" documentation="Een bank is een financi‰le dienstverlener. Personen en bedrijven kunnen tegen een vergoeding (rente) geld bij een bank inleggen en dit geld kan vervolgens tegen een hogere rente weer worden uitgeleend. Het verschil tussen de ontvangen en betaalde rente is voor de bank een belangrijke inkomstenbron."/>

@@ -1,9 +1,4 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="18d44cf3"
-    name="6.2 Opstellen projectplannen (projectprotocollen)"
-    documentation="In deze fase worden de projectopdrachten uit het handhavingsprogramma uitgewerkt tot projectplannen (protocollen) voor de uitvoering.&#xD;&#xA;Bij de uitwerking van de direct bruikbare verbeteringen heeft men gekozen voor de term &quot;projectprotocol&quot; als benaming voor het plan. Dit moet nader worden afgestemd.&#xD;&#xA;Er moet nog worden bepaald hoe de capaciteit voor onvoorziene meldingen (op basis van historische gegevens) kan worden meegenomen in de diverse projectplannen.">
-  <properties
-      key="Pre"
-      value="combineren van projectopdrachten is voltooid (proces opstellen handhavingsprogramma)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="18d44cf3" name="6.2 Opstellen projectplannen (projectprotocollen)" documentation="In deze fase worden de projectopdrachten uit het handhavingsprogramma uitgewerkt tot projectplannen (protocollen) voor de uitvoering.&#xD;&#xA;Bij de uitwerking van de direct bruikbare verbeteringen heeft men gekozen voor de term &quot;projectprotocol&quot; als benaming voor het plan. Dit moet nader worden afgestemd.&#xD;&#xA;Er moet nog worden bepaald hoe de capaciteit voor onvoorziene meldingen (op basis van historische gegevens) kan worden meegenomen in de diverse projectplannen.">
+  <properties key="Pre" value="combineren van projectopdrachten is voltooid (proces opstellen handhavingsprogramma)"/>
 </archimate:BusinessProcess>

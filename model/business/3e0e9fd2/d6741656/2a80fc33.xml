@@ -1,9 +1,4 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="2a80fc33"
-    name="15.3.3 Bepalen deel-waarneming (PF15)"
-    documentation="Er wordt bepaald hoeveel bedrijven er geselecteerd moeten worden t.b.v. de verificatie">
-  <properties
-      key="_Info"
-      value="bedrijven geselecteerd a.d.h.v. risico’s"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="2a80fc33" name="15.3.3 Bepalen deel-waarneming (PF15)" documentation="Er wordt bepaald hoeveel bedrijven er geselecteerd moeten worden t.b.v. de verificatie">
+  <properties key="_Info" value="bedrijven geselecteerd a.d.h.v. risico’s"/>
 </archimate:BusinessProcess>

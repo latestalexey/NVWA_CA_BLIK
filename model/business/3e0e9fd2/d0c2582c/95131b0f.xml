@@ -1,9 +1,4 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="95131b0f"
-    name="Nazorg personeel (PF20)"
-    documentation="Indien nodig wordt nazorg verleend aan het personeel. ">
-  <properties
-      key="Pre"
-      value="Personeel is gedebriefd"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="95131b0f" name="Nazorg personeel (PF20)" documentation="Indien nodig wordt nazorg verleend aan het personeel. ">
+  <properties key="Pre" value="Personeel is gedebriefd"/>
 </archimate:BusinessProcess>

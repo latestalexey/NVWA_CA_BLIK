@@ -1,9 +1,4 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="cf3a67c9"
-    name="Advies uitbrengen (PF20)"
-    documentation="Via de HI van de divisie adviseert de IG/plv IG/HI het departement om een DBT bij elkaar te laten komen zodat de SG/DG een besluit kan nemen om al dan niet een crisissituatie af te kondigen. Bij de beslissing tot het afkondigen van een crisis gaat de regie over naar het departement. Als dit wordt besloten dan stemt de NVWA met de beleidsdirecties de te nemen maatregelen af.">
-  <properties
-      key="Pre"
-      value="er is vastgesteld dat het waarschijnlijk om een crisis gaat"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="cf3a67c9" name="Advies uitbrengen (PF20)" documentation="Via de HI van de divisie adviseert de IG/plv IG/HI het departement om een DBT bij elkaar te laten komen zodat de SG/DG een besluit kan nemen om al dan niet een crisissituatie af te kondigen. Bij de beslissing tot het afkondigen van een crisis gaat de regie over naar het departement. Als dit wordt besloten dan stemt de NVWA met de beleidsdirecties de te nemen maatregelen af.">
+  <properties key="Pre" value="er is vastgesteld dat het waarschijnlijk om een crisis gaat"/>
 </archimate:BusinessProcess>

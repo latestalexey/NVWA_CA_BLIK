@@ -1,9 +1,4 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="02c279bc"
-    name="15.3.6 Vaststellen behandeltermijn Verificatie (PF15)"
-    documentation="De behandeltermijn van de verificatie wordt vastgesteld op basis van de hoeveelheid geselecteerde bedrijven en de capaciteit van de NVWA in afstemming met TU divisie(s)">
-  <properties
-      key="Post"
-      value="Informeren schema eigenaar"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="02c279bc" name="15.3.6 Vaststellen behandeltermijn Verificatie (PF15)" documentation="De behandeltermijn van de verificatie wordt vastgesteld op basis van de hoeveelheid geselecteerde bedrijven en de capaciteit van de NVWA in afstemming met TU divisie(s)">
+  <properties key="Post" value="Informeren schema eigenaar"/>
 </archimate:BusinessProcess>

@@ -1,5 +1,2 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="3748a271"
-    name="12.3.1 Bepalen formule bedrijf (PF12)"
-    documentation="Als de melding een formulebedrijf bevat en ook aan de Accountmanager Formulebedrijf moet worden doorgezet dan melding naar Accountmanager Formulebedrijf (dit zijn meldingen over bijvoorbeeld eigen merk formulebedrijven)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="3748a271" name="12.3.1 Bepalen formule bedrijf (PF12)" documentation="Als de melding een formulebedrijf bevat en ook aan de Accountmanager Formulebedrijf moet worden doorgezet dan melding naar Accountmanager Formulebedrijf (dit zijn meldingen over bijvoorbeeld eigen merk formulebedrijven)"/>

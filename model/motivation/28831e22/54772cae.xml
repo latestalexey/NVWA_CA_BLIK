@@ -1,9 +1,4 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="54772cae"
-    name="BP.04 - De NVWA kent één informatiewerkelijkheid"
-    documentation="De NVWA wil toewerken naar een adequate informatiepositie. Dit om de kwaliteit te verhogen en kosten te verlagen van het uit te voeren werk. Deze informatiepositie wordt gekenmerkt door: eenduidigheid, samenhang en (centrale) toegankelijkheid van de eigen en externe bronnen">
-  <properties
-      key="principe soort"
-      value="Bedrijfsprincipe"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Principle xmlns:archimate="http://www.archimatetool.com/archimate" id="54772cae" name="BP.04 - De NVWA kent één informatiewerkelijkheid" documentation="De NVWA wil toewerken naar een adequate informatiepositie. Dit om de kwaliteit te verhogen en kosten te verlagen van het uit te voeren werk. Deze informatiepositie wordt gekenmerkt door: eenduidigheid, samenhang en (centrale) toegankelijkheid van de eigen en externe bronnen">
+  <properties key="principe soort" value="Bedrijfsprincipe"/>
 </archimate:Principle>

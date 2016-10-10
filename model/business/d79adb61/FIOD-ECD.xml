@@ -1,5 +1,2 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="FIOD-ECD"
-    name="FIOD-ECD"
-    documentation="De FIOD is de opsporingsdienst van de Belastingdienst in Nederland. De rechercheurs, projectleiders en teamleiders van de FIOD zijn algemeen opsporingsambtenaar, wat inhoudt dat zij bevoegd zijn tot het opsporen van alle strafbare feiten. Daarnaast beschikt de FIOD over eigen hulpofficieren van justitie, die onder andere verdachten in verzekering kunnen stellen, doorzoekingen kunnen bevelen, uitlevering kunnen bevelen, en machtiging kunnen verlenen tot het binnentreden in een woning zonder toestemming van de bewoner(s)."/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessActor xmlns:archimate="http://www.archimatetool.com/archimate" id="FIOD-ECD" name="FIOD-ECD" documentation="De FIOD is de opsporingsdienst van de Belastingdienst in Nederland. De rechercheurs, projectleiders en teamleiders van de FIOD zijn algemeen opsporingsambtenaar, wat inhoudt dat zij bevoegd zijn tot het opsporen van alle strafbare feiten. Daarnaast beschikt de FIOD over eigen hulpofficieren van justitie, die onder andere verdachten in verzekering kunnen stellen, doorzoekingen kunnen bevelen, uitlevering kunnen bevelen, en machtiging kunnen verlenen tot het binnentreden in een woning zonder toestemming van de bewoner(s)."/>

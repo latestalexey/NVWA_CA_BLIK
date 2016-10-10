@@ -1,9 +1,4 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="4bbee300"
-    name="15.2.1 Vaststellen behandeltermijn bureaustudie (PF15)"
-    documentation="Afhankelijk van de capaciteit  bij de NVWA en de in de toezegging genoemde termijnen  wordt er bepaald wanneer de bureaustudie zal starten en wat de duur zal zijn.&#xD;&#xA;">
-  <properties
-      key="Post"
-      value="schemabeheerder geïnformeerd"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="4bbee300" name="15.2.1 Vaststellen behandeltermijn bureaustudie (PF15)" documentation="Afhankelijk van de capaciteit  bij de NVWA en de in de toezegging genoemde termijnen  wordt er bepaald wanneer de bureaustudie zal starten en wat de duur zal zijn.&#xD;&#xA;">
+  <properties key="Post" value="schemabeheerder geïnformeerd"/>
 </archimate:BusinessProcess>

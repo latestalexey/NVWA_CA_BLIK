@@ -1,6 +1,5 @@
-<archimate:UsedByRelationship
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="504c8689"
-    name="SOAP/XML"
-    source="archimate:InfrastructureInterface ../technology/af0c09e8.xml#af0c09e8"
-    target="archimate:InfrastructureService ../technology/e09ecbba.xml#e09ecbba"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:UsedByRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="504c8689" name="SOAP/XML">
+  <source xsi:type="archimate:InfrastructureInterface" href="../technology/af0c09e8.xml#af0c09e8"/>
+  <target xsi:type="archimate:InfrastructureService" href="../technology/e09ecbba.xml#e09ecbba"/>
+</archimate:UsedByRelationship>

@@ -1,9 +1,4 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="33166a13"
-    name="15.3.4 Selecteren bedrijven (PF15)"
-    documentation="Aan de hand van de deelwaarmening worden de bedrijven geselecteerd waarbij een inspecteur langs zal gaan t.b.v. de verificatie">
-  <properties
-      key="Pre"
-      value="Verificatie criteria en deelwaarneming bekend"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="33166a13" name="15.3.4 Selecteren bedrijven (PF15)" documentation="Aan de hand van de deelwaarmening worden de bedrijven geselecteerd waarbij een inspecteur langs zal gaan t.b.v. de verificatie">
+  <properties key="Pre" value="Verificatie criteria en deelwaarneming bekend"/>
 </archimate:BusinessProcess>

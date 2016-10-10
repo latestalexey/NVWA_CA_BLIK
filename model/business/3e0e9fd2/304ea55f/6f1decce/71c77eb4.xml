@@ -1,9 +1,4 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="71c77eb4"
-    name="Beoordelen dossier "
-    documentation="De inspecteur en/of het team nemen de inspectieopdracht in het inspectiedossier door als voorbereiding op de uitvoering.">
-  <properties
-      key="Pre"
-      value="verzamelen gegevens is waar"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="71c77eb4" name="Beoordelen dossier " documentation="De inspecteur en/of het team nemen de inspectieopdracht in het inspectiedossier door als voorbereiding op de uitvoering.">
+  <properties key="Pre" value="verzamelen gegevens is waar"/>
 </archimate:BusinessProcess>

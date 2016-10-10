@@ -1,5 +1,2 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="20a1f2d8"
-    name="13.2.4 Opschorten behandeltermijn (PF13)"
-    documentation="Deze situatie kan ieder moment in het proces plaatsvinden. Als (vanuit NVWA) de termijnen niet gehaald dreigen te worden (bijv. wachten op beoordeling van derde land / wachten op EU besluit/ etc.), moet een bericht verstuurd worden aan de aanvrager over reden van opschorting.  Dit is niet bedoeld voor de situatie dat een aanvrager nog niet geheel aan de eisen voldoet. In dat geval kan afhankelijk van de situatie een voorwaardelijke verlening toegekend worden of moet de aanvraag afgewezen worden en opnieuw aangevraagd worden."/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="20a1f2d8" name="13.2.4 Opschorten behandeltermijn (PF13)" documentation="Deze situatie kan ieder moment in het proces plaatsvinden. Als (vanuit NVWA) de termijnen niet gehaald dreigen te worden (bijv. wachten op beoordeling van derde land / wachten op EU besluit/ etc.), moet een bericht verstuurd worden aan de aanvrager over reden van opschorting.  Dit is niet bedoeld voor de situatie dat een aanvrager nog niet geheel aan de eisen voldoet. In dat geval kan afhankelijk van de situatie een voorwaardelijke verlening toegekend worden of moet de aanvraag afgewezen worden en opnieuw aangevraagd worden."/>

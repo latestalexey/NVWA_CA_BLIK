@@ -1,6 +1,5 @@
-<archimate:AssociationRelationship
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="561e6eb9"
-    name="https"
-    source="archimate:BusinessRole ../business/9b6380e4/7196e801/9bbd0781.xml#9bbd0781"
-    target="archimate:SystemSoftware ../technology/ed011a68.xml#ed011a68"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:AssociationRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="561e6eb9" name="https">
+  <source xsi:type="archimate:BusinessRole" href="../business/9b6380e4/7196e801/9bbd0781.xml#9bbd0781"/>
+  <target xsi:type="archimate:SystemSoftware" href="../technology/ed011a68.xml#ed011a68"/>
+</archimate:AssociationRelationship>

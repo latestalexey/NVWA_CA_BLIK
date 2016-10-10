@@ -1,5 +1,2 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="ee45ca9d"
-    name="12.4.1 Vaststellen terugkoppeling melding (PF12)"
-    documentation="Toetsen op juistheid en volledigheid van de afhandeling van de melding. Bepaal of er genoeg informatie is om terugkoppeling te geven aan de melder dan wel aan het bedrijf of een betrokken instantie. &#xD;&#xA;Controleer daarnaast of de melding de juiste prioriteit had toegewezen gekregen, of hij juist was beoordeeld en toegewezen aan de inspecteur.&#xD;&#xA;&#xD;&#xA;Indien akkoord dan door met Terugkoppeling naar Melder&#xD;&#xA;Indien niet akkoord naar Controle Afgekeurde Melding.&#xD;&#xA;"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="ee45ca9d" name="12.4.1 Vaststellen terugkoppeling melding (PF12)" documentation="Toetsen op juistheid en volledigheid van de afhandeling van de melding. Bepaal of er genoeg informatie is om terugkoppeling te geven aan de melder dan wel aan het bedrijf of een betrokken instantie. &#xD;&#xA;Controleer daarnaast of de melding de juiste prioriteit had toegewezen gekregen, of hij juist was beoordeeld en toegewezen aan de inspecteur.&#xD;&#xA;&#xD;&#xA;Indien akkoord dan door met Terugkoppeling naar Melder&#xD;&#xA;Indien niet akkoord naar Controle Afgekeurde Melding.&#xD;&#xA;"/>

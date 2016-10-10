@@ -1,5 +1,5 @@
-<archimate:FlowRelationship
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="72468697"
-    source="archimate:SystemSoftware ../technology/91f3d095.xml#91f3d095"
-    target="archimate:SystemSoftware ../technology/e443d62d.xml#e443d62d"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:FlowRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="72468697" name="dagverantwoordingen" documentation="Wanneer alle dagverantwoordingen in SPIN van één medewerker in één verantwoordingsperiode door de teamleider geaccordeerd zijn, worden ze door DTV uit SPIN opgehaald om uit te betalen. Zolang ze incompleet zijn (dus niet alle te werken dagen door de teamleider zijn geaccordeerd) blijven deze dagverantwoordingen in SPIN staan. Deze koppeling is gerealiseerd via GPO (zie FO-DTV voor details).">
+  <source xsi:type="archimate:SystemSoftware" href="../technology/91f3d095.xml#91f3d095"/>
+  <target xsi:type="archimate:SystemSoftware" href="../technology/e443d62d.xml#e443d62d"/>
+</archimate:FlowRelationship>

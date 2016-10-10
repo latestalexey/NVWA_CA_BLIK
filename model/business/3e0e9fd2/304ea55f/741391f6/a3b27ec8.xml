@@ -1,9 +1,4 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="a3b27ec8"
-    name="Voorbespreken toezicht"
-    documentation="dit kan kort zijn om de procedure te vertellen wat je gaat doen. dit kan ook uitgebreider (met wie je wanneer op het bedrijf wilt spreken), afhankelijk van de soort toezicht/inspectie/audit">
-  <properties
-      key="Pre"
-      value="Inspectie op locatie"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="a3b27ec8" name="Voorbespreken toezicht" documentation="dit kan kort zijn om de procedure te vertellen wat je gaat doen. dit kan ook uitgebreider (met wie je wanneer op het bedrijf wilt spreken), afhankelijk van de soort toezicht/inspectie/audit">
+  <properties key="Pre" value="Inspectie op locatie"/>
 </archimate:BusinessProcess>

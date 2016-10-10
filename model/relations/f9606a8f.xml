@@ -1,6 +1,5 @@
-<archimate:FlowRelationship
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="f9606a8f"
-    name="Klant"
-    source="archimate:ApplicationComponent ../application/5eea8998/dab130be.xml#dab130be"
-    target="archimate:ApplicationComponent ../application/5eea8998/6bbb4007.xml#6bbb4007"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:FlowRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="f9606a8f" name="Klant">
+  <source xsi:type="archimate:ApplicationComponent" href="../application/5eea8998/dab130be.xml#dab130be"/>
+  <target xsi:type="archimate:ApplicationComponent" href="../application/5eea8998/6bbb4007.xml#6bbb4007"/>
+</archimate:FlowRelationship>

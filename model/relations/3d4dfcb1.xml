@@ -1,5 +1,5 @@
-<archimate:CompositionRelationship
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="3d4dfcb1"
-    source="archimate:BusinessProcess ../business/1200fc4d/4454537e.xml#4454537e"
-    target="archimate:BusinessInteraction ../business/118d3038/22e0e131.xml#22e0e131"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:CompositionRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="3d4dfcb1">
+  <source xsi:type="archimate:BusinessProcess" href="../business/1200fc4d/4454537e.xml#4454537e"/>
+  <target xsi:type="archimate:BusinessInteraction" href="../business/118d3038/22e0e131.xml#22e0e131"/>
+</archimate:CompositionRelationship>

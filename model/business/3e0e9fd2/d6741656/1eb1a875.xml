@@ -1,9 +1,4 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="1eb1a875"
-    name="15.3.2 Selecteren bedrijven a.d.h.v. risico's (PF15)"
-    documentation="Op basis van de risico indeling worden er aangesloten bedrijven per sub sector geselecteerd voor de verificatie met de risico indeling hoog">
-  <properties
-      key="Pre"
-      value="selectiecriteria bepaald"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="1eb1a875" name="15.3.2 Selecteren bedrijven a.d.h.v. risico's (PF15)" documentation="Op basis van de risico indeling worden er aangesloten bedrijven per sub sector geselecteerd voor de verificatie met de risico indeling hoog">
+  <properties key="Pre" value="selectiecriteria bepaald"/>
 </archimate:BusinessProcess>
