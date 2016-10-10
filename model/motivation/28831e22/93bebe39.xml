@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:Principle xmlns:archimate="http://www.archimatetool.com/archimate" id="93bebe39" name="BP.05 - De NVWA meet en verbetert" documentation="Om producten van de juiste kwaliteit tegen acceptabele inspanning te verkrijgen is het noodzakelijk om inzicht te hebben in het verloop van de verschillende werkprocessen binnen de NVWA.">
-  <properties key="principe soort" value="Bedrijfsprincipe"/>
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="93bebe39"
+    name="BP.05 - De NVWA meet en verbetert"
+    documentation="Om producten van de juiste kwaliteit tegen acceptabele inspanning te verkrijgen is het noodzakelijk om inzicht te hebben in het verloop van de verschillende werkprocessen binnen de NVWA.">
+  <properties
+      key="principe soort"
+      value="Bedrijfsprincipe"/>
 </archimate:Principle>

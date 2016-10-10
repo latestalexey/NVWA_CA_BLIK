@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:FlowRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="596722b4">
-  <properties key="_Info" value="Gereed"/>
-  <source xsi:type="archimate:ApplicationComponent" href="../application/5eea8998/74c757b0.xml#74c757b0"/>
-  <target xsi:type="archimate:ApplicationComponent" href="../application/5eea8998/6c83cb6a.xml#6c83cb6a"/>
+<archimate:FlowRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="596722b4"
+    source="archimate:ApplicationComponent ../application/5eea8998/74c757b0.xml#74c757b0"
+    target="archimate:ApplicationComponent ../application/5eea8998/6c83cb6a.xml#6c83cb6a">
+  <properties
+      key="_Info"
+      value="Gereed"/>
 </archimate:FlowRelationship>

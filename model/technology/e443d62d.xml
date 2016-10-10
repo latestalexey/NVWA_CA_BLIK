@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:SystemSoftware xmlns:archimate="http://www.archimatetool.com/archimate" id="e443d62d" name="DTV" documentation="Deze applicatie administreert urentegoeden en toelagen. Zie FO-DTV voor details."/>
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="e443d62d"
+    name="DTV"
+    documentation="Deze applicatie administreert urentegoeden en toelagen. Zie FO-DTV voor details."/>

@@ -1,6 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="000ff7b7" name="15.1.4 Vaststellen publicatie (PF15)" documentation="De schemaeigenaar wordt gevraagd of de publicatie op ketenborging.nl en website NVWA op prijs stelt zodra het schema het proces accepteren KS ingaat">
-  <properties key="Pre" value="Aanvraag getoetst "/>
-  <properties key="Pre" value="Gegevens verwerkt"/>
-  <properties key="Pre" value="De schemabeheerder geïnformeerd over de in behandeling name"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="000ff7b7"
+    name="15.1.4 Vaststellen publicatie (PF15)"
+    documentation="De schemaeigenaar wordt gevraagd of de publicatie op ketenborging.nl en website NVWA op prijs stelt zodra het schema het proces accepteren KS ingaat">
+  <properties
+      key="Pre"
+      value="Aanvraag getoetst "/>
+  <properties
+      key="Pre"
+      value="Gegevens verwerkt"/>
+  <properties
+      key="Pre"
+      value="De schemabeheerder geïnformeerd over de in behandeling name"/>
 </archimate:BusinessProcess>

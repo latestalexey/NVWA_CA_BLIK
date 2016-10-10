@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="2ff4656b" name="Aanzeggen strafrechtelijke interventie" documentation="Indien op locatie wordt mondeling aangegeven dat sprake is van strafrechtelijke interventie. Er zal dan een (verkort) proces verbaal  worden opgemaakt waarna afhandeling wordt overgedragen aan het CJIB (bij een bestuurlijke strafbeschikking (schikkingsvoorstel)) of Openbaar Ministerie (bij strafrechtelijke vervolging). ">
-  <properties key="Pre" value="Vormen oordeel = completed"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="2ff4656b"
+    name="Aanzeggen strafrechtelijke interventie"
+    documentation="Indien op locatie wordt mondeling aangegeven dat sprake is van strafrechtelijke interventie. Er zal dan een (verkort) proces verbaal  worden opgemaakt waarna afhandeling wordt overgedragen aan het CJIB (bij een bestuurlijke strafbeschikking (schikkingsvoorstel)) of Openbaar Ministerie (bij strafrechtelijke vervolging). ">
+  <properties
+      key="Pre"
+      value="Vormen oordeel = completed"/>
 </archimate:BusinessProcess>

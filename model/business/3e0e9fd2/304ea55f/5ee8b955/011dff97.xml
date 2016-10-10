@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="011dff97" name="Bepalen datum voorbereiding" documentation="het kiezen van een moment om een specifieke inspectie voor te bereiden. De inspecteur maakt deze keus afhankelijk van het geroosterde tijdstip van de inspectie en is alleen zichtbaar voor de inspecteur zelf Alleen cat2 activiteiten&#xD;&#xA;">
-  <properties key="Pre" value="bepalen datum uitvoering = completed"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="011dff97"
+    name="Bepalen datum voorbereiding"
+    documentation="het kiezen van een moment om een specifieke inspectie voor te bereiden. De inspecteur maakt deze keus afhankelijk van het geroosterde tijdstip van de inspectie en is alleen zichtbaar voor de inspecteur zelf Alleen cat2 activiteiten&#xD;&#xA;">
+  <properties
+      key="Pre"
+      value="bepalen datum uitvoering = completed"/>
 </archimate:BusinessProcess>

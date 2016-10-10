@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="6a47afc8" name="15.1.1 Vaststellen beschikbaarheid inhoudelijke deskundigen (PF15)" documentation="De trekker bepaalt welke inhoudelijke deskundige(n) de aanvraag gaan behandelen en stelt vast of er capaciteit beschikbaar is bij de inhoudelijk deskundige(n)">
-  <properties key="Pre" value="trekker is toegewezen"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="6a47afc8"
+    name="15.1.1 Vaststellen beschikbaarheid inhoudelijke deskundigen (PF15)"
+    documentation="De trekker bepaalt welke inhoudelijke deskundige(n) de aanvraag gaan behandelen en stelt vast of er capaciteit beschikbaar is bij de inhoudelijk deskundige(n)">
+  <properties
+      key="Pre"
+      value="trekker is toegewezen"/>
 </archimate:BusinessProcess>

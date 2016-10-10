@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:FlowRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="aa08e94f">
-  <source xsi:type="archimate:InfrastructureInterface" href="../technology/72c3c4b8.xml#72c3c4b8"/>
-  <target xsi:type="archimate:SystemSoftware" href="../technology/08285ddc.xml#08285ddc"/>
-</archimate:FlowRelationship>
+<archimate:FlowRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="aa08e94f"
+    source="archimate:InfrastructureInterface ../technology/72c3c4b8.xml#72c3c4b8"
+    target="archimate:SystemSoftware ../technology/08285ddc.xml#08285ddc"/>

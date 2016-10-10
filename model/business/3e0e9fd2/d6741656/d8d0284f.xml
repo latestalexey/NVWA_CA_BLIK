@@ -1,5 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="d8d0284f" name="15.4.3 Besluiten acceptatie KS (PF15)" documentation="De IG besluit op basis van het advies over de acceptatie van het KS of het KS wordt geaccepteerd of niet. Bij het vastleggen van dit besluit wordt de schemabheerder hier door het systeem automatisch over geinformeerd">
-  <properties key="Post" value="schemabeheerder geinformeerd"/>
-  <properties key="Pre" value="Advies acceptatie KS beschikbaar"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="d8d0284f"
+    name="15.4.3 Besluiten acceptatie KS (PF15)"
+    documentation="De IG besluit op basis van het advies over de acceptatie van het KS of het KS wordt geaccepteerd of niet. Bij het vastleggen van dit besluit wordt de schemabheerder hier door het systeem automatisch over geinformeerd">
+  <properties
+      key="Post"
+      value="schemabeheerder geinformeerd"/>
+  <properties
+      key="Pre"
+      value="Advies acceptatie KS beschikbaar"/>
 </archimate:BusinessProcess>

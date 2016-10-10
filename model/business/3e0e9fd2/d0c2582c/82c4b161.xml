@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="82c4b161" name="Bepalen capaciteit (PF20)" documentation="Op basis van de activiteiten die uitgevoerd moeten worden wordt de benodigde resourcecapaciteit vastgesteld.&#xD;&#xA;Het systeem kan afhankelijk van de situatie, automatisch een voorstel genereren maar moet handmatig beoordeeld worden door de functionaris.&#xD;&#xA;"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="82c4b161"
+    name="Bepalen capaciteit (PF20)"
+    documentation="Op basis van de activiteiten die uitgevoerd moeten worden wordt de benodigde resourcecapaciteit vastgesteld.&#xD;&#xA;Het systeem kan afhankelijk van de situatie, automatisch een voorstel genereren maar moet handmatig beoordeeld worden door de functionaris.&#xD;&#xA;"/>

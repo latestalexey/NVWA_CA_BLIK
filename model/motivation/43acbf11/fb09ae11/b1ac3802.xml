@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:Goal xmlns:archimate="http://www.archimatetool.com/archimate" id="b1ac3802" name="Omvang bedrijvenselectie" documentation="De omvang van de bedrijvenselectie op basis van definitieve aanvragen moet voldoen aan de voorwaarden gesteld in de wet- en regelgeving"/>
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="b1ac3802"
+    name="Omvang bedrijvenselectie"
+    documentation="De omvang van de bedrijvenselectie op basis van definitieve aanvragen moet voldoen aan de voorwaarden gesteld in de wet- en regelgeving"/>

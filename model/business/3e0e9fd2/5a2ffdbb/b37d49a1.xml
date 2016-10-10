@@ -1,5 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="b37d49a1" name="17.1.1 Vaststellen aanwezigheid monster (PF17)" documentation="Als uit proces ‘meldingen’ een melding is binnengekomen over een product (bijvoorbeeld een klacht), dan wordt gekeken of er een monster is van het product waar de melding over gaat (het meldingmonster).">
-  <properties key="Pre" value="Gerelateerde zaak is van type melding"/>
-  <properties key="Pre" value="Contra expertise monster bewaard door ge-inspecteerde (???)"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="b37d49a1"
+    name="17.1.1 Vaststellen aanwezigheid monster (PF17)"
+    documentation="Als uit proces ‘meldingen’ een melding is binnengekomen over een product (bijvoorbeeld een klacht), dan wordt gekeken of er een monster is van het product waar de melding over gaat (het meldingmonster).">
+  <properties
+      key="Pre"
+      value="Gerelateerde zaak is van type melding"/>
+  <properties
+      key="Pre"
+      value="Contra expertise monster bewaard door ge-inspecteerde (???)"/>
 </archimate:BusinessProcess>

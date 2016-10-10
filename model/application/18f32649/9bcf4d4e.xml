@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:ApplicationInteraction xmlns:archimate="http://www.archimatetool.com/archimate" id="9bcf4d4e" name="CJIB koppeling">
-  <properties key="Gereed op" value="1 september 2016"/>
+<archimate:ApplicationInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="9bcf4d4e"
+    name="CJIB koppeling">
+  <properties
+      key="Gereed op"
+      value="1 september 2016"/>
 </archimate:ApplicationInteraction>

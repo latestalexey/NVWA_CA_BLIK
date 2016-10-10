@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="41db8647" name="Informeren interne betrokkenen (PF20)" documentation="Afhankelijk van de aard en de situatie van de melding (incident of crisis) zal een aantal intern betrokkenen al in een vroeg stadium geïnformeerd worden over de mogelijkheid dat er zich een incident of crisis gaat voordoen. Deze personen moeten stand-by blijven voor het geval er echt iets aan de hand blijkt te zijn.">
-  <properties key="Pre" value="Er is een incident EN er is een crisis"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="41db8647"
+    name="Informeren interne betrokkenen (PF20)"
+    documentation="Afhankelijk van de aard en de situatie van de melding (incident of crisis) zal een aantal intern betrokkenen al in een vroeg stadium geïnformeerd worden over de mogelijkheid dat er zich een incident of crisis gaat voordoen. Deze personen moeten stand-by blijven voor het geval er echt iets aan de hand blijkt te zijn.">
+  <properties
+      key="Pre"
+      value="Er is een incident EN er is een crisis"/>
 </archimate:BusinessProcess>

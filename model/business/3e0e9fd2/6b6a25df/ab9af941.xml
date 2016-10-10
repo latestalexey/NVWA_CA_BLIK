@@ -1,5 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="ab9af941" name="Verzamelen project gegevens (PF06)" documentation="Verzamel vanuit de uitgevoerde inspecties en afdoeningsgegevens harde data met betrekking tot de projectopdracht.&#xD;&#xA;&#xD;&#xA;Stel aan de hand van de verzamelde gegevens diverse tabellen en grafieken op en voeg deze in het sjabloon voor de Project Opdracht Rapportage&#xD;&#xA;&#xD;&#xA;Harde data die verzameld wordt zijn:&#xD;&#xA;- Aantal controles&#xD;&#xA;- Gebruikte uren&#xD;&#xA;- Gebruikt budget&#xD;&#xA;- Aantal maatregelen, afdoeningen, etc. (en het rresultaat van ingestelde vervolgingen)&#xD;&#xA;- Resultaat per bedrijf in relatie tot de projectopdracht&#xD;&#xA;- Extrapolatie van het resultaat op de gehele doelgroep&#xD;&#xA;&#xD;&#xA;Verzamel vanuit de sector- en bedrijfsgegevens en inspectiedossiers overige data die het behaalde resultaat helpen verklaren en aanleiding geven voor het doen van aanbevelingen. &#xD;&#xA;&#xD;&#xA;Overige data kunnen zijn:&#xD;&#xA;- Signalen (zoals meldingen)&#xD;&#xA;- Trends&#xD;&#xA;- Beleidssignalen&#xD;&#xA;- Opmerkingen inspecteurs in bedrijfsdossiers&#xD;&#xA;&#xD;&#xA;">
-  <properties key="Post" value="Projectuitvoering is afgerond (verzamelen kan tijdens project, stap is klaar als project is afgerond en alle data is verzameld)"/>
-  <properties key="Pre" value="Projectplan is in uitvoering genomen"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="ab9af941"
+    name="Verzamelen project gegevens (PF06)"
+    documentation="Verzamel vanuit de uitgevoerde inspecties en afdoeningsgegevens harde data met betrekking tot de projectopdracht.&#xD;&#xA;&#xD;&#xA;Stel aan de hand van de verzamelde gegevens diverse tabellen en grafieken op en voeg deze in het sjabloon voor de Project Opdracht Rapportage&#xD;&#xA;&#xD;&#xA;Harde data die verzameld wordt zijn:&#xD;&#xA;- Aantal controles&#xD;&#xA;- Gebruikte uren&#xD;&#xA;- Gebruikt budget&#xD;&#xA;- Aantal maatregelen, afdoeningen, etc. (en het rresultaat van ingestelde vervolgingen)&#xD;&#xA;- Resultaat per bedrijf in relatie tot de projectopdracht&#xD;&#xA;- Extrapolatie van het resultaat op de gehele doelgroep&#xD;&#xA;&#xD;&#xA;Verzamel vanuit de sector- en bedrijfsgegevens en inspectiedossiers overige data die het behaalde resultaat helpen verklaren en aanleiding geven voor het doen van aanbevelingen. &#xD;&#xA;&#xD;&#xA;Overige data kunnen zijn:&#xD;&#xA;- Signalen (zoals meldingen)&#xD;&#xA;- Trends&#xD;&#xA;- Beleidssignalen&#xD;&#xA;- Opmerkingen inspecteurs in bedrijfsdossiers&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Post"
+      value="Projectuitvoering is afgerond (verzamelen kan tijdens project, stap is klaar als project is afgerond en alle data is verzameld)"/>
+  <properties
+      key="Pre"
+      value="Projectplan is in uitvoering genomen"/>
 </archimate:BusinessProcess>

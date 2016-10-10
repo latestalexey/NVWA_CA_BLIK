@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:ApplicationInteraction xmlns:archimate="http://www.archimatetool.com/archimate" id="3e75c7ad" name="SPIN koppeling">
-  <properties key="Gereed op" value="1 januari 2017"/>
+<archimate:ApplicationInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="3e75c7ad"
+    name="SPIN koppeling">
+  <properties
+      key="Gereed op"
+      value="1 januari 2017"/>
 </archimate:ApplicationInteraction>

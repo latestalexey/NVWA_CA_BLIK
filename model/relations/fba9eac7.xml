@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:FlowRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="fba9eac7" name="ETL">
-  <source xsi:type="archimate:SystemSoftware" href="../technology/53a4d77a.xml#53a4d77a"/>
-  <target xsi:type="archimate:SystemSoftware" href="../technology/e25100fb.xml#e25100fb"/>
-</archimate:FlowRelationship>
+<archimate:FlowRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="fba9eac7"
+    name="ETL"
+    source="archimate:SystemSoftware ../technology/53a4d77a.xml#53a4d77a"
+    target="archimate:SystemSoftware ../technology/e25100fb.xml#e25100fb"/>

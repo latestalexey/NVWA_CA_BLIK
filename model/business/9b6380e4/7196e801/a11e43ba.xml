@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessRole xmlns:archimate="http://www.archimatetool.com/archimate" id="a11e43ba" name="Zaak verant-woordelijke" documentation="- voert taken uit binnen toegewezen zaak&#xD;&#xA;- wijst taken toe aan anderen binnen toegewezen zaak"/>
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="a11e43ba"
+    name="Zaak verant-woordelijke"
+    documentation="- voert taken uit binnen toegewezen zaak&#xD;&#xA;- wijst taken toe aan anderen binnen toegewezen zaak"/>

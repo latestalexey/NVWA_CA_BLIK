@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:ApplicationComponent xmlns:archimate="http://www.archimatetool.com/archimate" id="b3b8070f" name="EPPO" documentation="EU"/>
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="b3b8070f"
+    name="EPPO"
+    documentation="EU"/>

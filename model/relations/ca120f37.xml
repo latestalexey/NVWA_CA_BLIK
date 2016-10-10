@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:AssociationRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="ca120f37">
-  <source xsi:type="archimate:SystemSoftware" href="../technology/db22fc58.xml#db22fc58"/>
-  <target xsi:type="archimate:CommunicationPath" href="../technology/4023afb4.xml#4023afb4"/>
-</archimate:AssociationRelationship>
+<archimate:AssociationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="ca120f37"
+    source="archimate:SystemSoftware ../technology/db22fc58.xml#db22fc58"
+    target="archimate:CommunicationPath ../technology/4023afb4.xml#4023afb4"/>

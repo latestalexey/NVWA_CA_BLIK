@@ -1,6 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:FlowRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="2b10af42" name="Tijdbesteding">
-  <properties key="_Info" value="Gereed"/>
-  <source xsi:type="archimate:ApplicationComponent" href="../application/5eea8998/6bbb4007.xml#6bbb4007"/>
-  <target xsi:type="archimate:ApplicationComponent" href="../application/5eea8998/f6ea7551.xml#f6ea7551"/>
+<archimate:FlowRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="2b10af42"
+    name="Tijdbesteding"
+    source="archimate:ApplicationComponent ../application/5eea8998/6bbb4007.xml#6bbb4007"
+    target="archimate:ApplicationComponent ../application/5eea8998/f6ea7551.xml#f6ea7551">
+  <properties
+      key="_Info"
+      value="Gereed"/>
 </archimate:FlowRelationship>

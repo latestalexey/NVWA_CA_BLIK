@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="d7fc1bbd" name="Geven waarschuwing" documentation="Indien op locatie wordt mondeling aangegeven dat een schriftelijke waarschuwing zal volgen (interventie). Als binnen een toezichtshandeling een overtreding (klasse C) is geconstateerd wordt normaliter een schriftelijke waarschuwing gegeven. In deze waarschuwing geeft de&#xD;&#xA;inspecteur aan wat hij tijdens zijn controle heeft geconstateerd en draagt hij de gecontroleerde op de overtreding op te heffen.&#xD;&#xA;Bij een waarschuwing wordt altijd een herinspectie aangekondigd en gepland/gestart">
-  <properties key="Pre" value="Vormen oordeel = completed"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="d7fc1bbd"
+    name="Geven waarschuwing"
+    documentation="Indien op locatie wordt mondeling aangegeven dat een schriftelijke waarschuwing zal volgen (interventie). Als binnen een toezichtshandeling een overtreding (klasse C) is geconstateerd wordt normaliter een schriftelijke waarschuwing gegeven. In deze waarschuwing geeft de&#xD;&#xA;inspecteur aan wat hij tijdens zijn controle heeft geconstateerd en draagt hij de gecontroleerde op de overtreding op te heffen.&#xD;&#xA;Bij een waarschuwing wordt altijd een herinspectie aangekondigd en gepland/gestart">
+  <properties
+      key="Pre"
+      value="Vormen oordeel = completed"/>
 </archimate:BusinessProcess>

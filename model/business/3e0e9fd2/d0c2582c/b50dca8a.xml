@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="b50dca8a" name="Vaststellen mogelijk incident of crisis (PF20)" documentation="Het kan zijn dat de situatie al zo ernstig is dat dit mogelijk een crisissituatie is. De beoordelaar informeert dan het hoofd TO en al dan niet in overleg met hoofd TO de HI over de mogelijke crisis.&#xD;&#xA;Indien het geen crisis is doet zich de vraag voor of het dan een potentieel incident is. Indien het mogelijk een incident is dan wordt er een alerteringsoverleg georganiseerd. Wanneer het geen incident/crisis is dan wordt de melding afgehandeld in het reguliere meldingenproces.&#xD;&#xA;">
-  <properties key="Post" value="Er is sprake van mogelijke crisis OF er is sprake van mogelijk incident OF er is geen sprake van incident of crisis"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="b50dca8a"
+    name="Vaststellen mogelijk incident of crisis (PF20)"
+    documentation="Het kan zijn dat de situatie al zo ernstig is dat dit mogelijk een crisissituatie is. De beoordelaar informeert dan het hoofd TO en al dan niet in overleg met hoofd TO de HI over de mogelijke crisis.&#xD;&#xA;Indien het geen crisis is doet zich de vraag voor of het dan een potentieel incident is. Indien het mogelijk een incident is dan wordt er een alerteringsoverleg georganiseerd. Wanneer het geen incident/crisis is dan wordt de melding afgehandeld in het reguliere meldingenproces.&#xD;&#xA;">
+  <properties
+      key="Post"
+      value="Er is sprake van mogelijke crisis OF er is sprake van mogelijk incident OF er is geen sprake van incident of crisis"/>
 </archimate:BusinessProcess>

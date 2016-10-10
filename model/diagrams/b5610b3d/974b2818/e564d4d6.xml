@@ -1,11 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:ArchimateDiagramModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="e564d4d6" name="PF13 Verleningen (publiceren)">
-  <children xsi:type="archimate:DiagramModelArchimateObject" id="cd066f7b" textAlignment="2" fillColor="#ffff00">
-    <bounds x="48" y="48" width="205" height="335"/>
-    <children xsi:type="archimate:DiagramModelArchimateObject" id="fe5a2560" textAlignment="2">
-      <bounds x="24" y="132" width="144" height="61"/>
-      <archimateElement xsi:type="archimate:BusinessProcess" href="../../../business/3e0e9fd2/28f15cd0/6f362859.xml#6f362859"/>
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="e564d4d6"
+    name="PF13 Verleningen (publiceren)">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="cd066f7b"
+      textAlignment="2"
+      fillColor="#ffff00"
+      archimateElement="archimate:BusinessFunction ../../../business/97eb5f35/b0746f54/f0cbd97b.xml#f0cbd97b">
+    <bounds
+        x="48"
+        y="48"
+        width="205"
+        height="335"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="fe5a2560"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/28f15cd0/6f362859.xml#6f362859">
+      <bounds
+          x="24"
+          y="132"
+          width="144"
+          height="61"/>
     </children>
-    <archimateElement xsi:type="archimate:BusinessFunction" href="../../../business/97eb5f35/b0746f54/f0cbd97b.xml#f0cbd97b"/>
   </children>
 </archimate:ArchimateDiagramModel>

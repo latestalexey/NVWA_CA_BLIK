@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:InfluenceRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="a429a8b7">
-  <source xsi:type="archimate:Assessment" href="../motivation/43acbf11/e48c30f9/4bc29d1e.xml#4bc29d1e"/>
-  <target xsi:type="archimate:Goal" href="../motivation/43acbf11/e48c30f9/8c7d6a87.xml#8c7d6a87"/>
-</archimate:InfluenceRelationship>
+<archimate:InfluenceRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="a429a8b7"
+    source="archimate:Assessment ../motivation/43acbf11/e48c30f9/4bc29d1e.xml#4bc29d1e"
+    target="archimate:Goal ../motivation/43acbf11/e48c30f9/8c7d6a87.xml#8c7d6a87"/>

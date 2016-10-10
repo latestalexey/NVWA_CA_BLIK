@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="07f517d1" name="Deelnemen DBT overleg  (PF20)" documentation="Het departement organiseert het DBT-overleg. Voor de NVWA neemt hier de HI of een door hem afgevaardigde zitting. In dit overleg wordt de regie over de crisis gevoerd. Stukken worden ter besluitvorming hier voorgelegd (sitraps, uitwerking van de maatregelen, aanpassen van de maatregelen, vervolgstappen etc.)">
-  <properties key="Pre" value="Er is een DBT overleg gepland (extern)"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="07f517d1"
+    name="Deelnemen DBT overleg  (PF20)"
+    documentation="Het departement organiseert het DBT-overleg. Voor de NVWA neemt hier de HI of een door hem afgevaardigde zitting. In dit overleg wordt de regie over de crisis gevoerd. Stukken worden ter besluitvorming hier voorgelegd (sitraps, uitwerking van de maatregelen, aanpassen van de maatregelen, vervolgstappen etc.)">
+  <properties
+      key="Pre"
+      value="Er is een DBT overleg gepland (extern)"/>
 </archimate:BusinessProcess>

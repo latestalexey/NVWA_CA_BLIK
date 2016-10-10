@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:Principle xmlns:archimate="http://www.archimatetool.com/archimate" id="3c64d809" name="BP.14 - De NVWA houdt zich aan (rijks)brede bepalingen en afspraken" documentation="Binnen de rijksoverheid zijn tal van regels en afspraken vastgelegd om de kwaliteit van haar dienstverlening te verbeteren, kosten te doen verlagen en verantwoording te kunnen afleggen.">
-  <properties key="principe soort" value="Bedrijfsprincipe"/>
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="3c64d809"
+    name="BP.14 - De NVWA houdt zich aan (rijks)brede bepalingen en afspraken"
+    documentation="Binnen de rijksoverheid zijn tal van regels en afspraken vastgelegd om de kwaliteit van haar dienstverlening te verbeteren, kosten te doen verlagen en verantwoording te kunnen afleggen.">
+  <properties
+      key="principe soort"
+      value="Bedrijfsprincipe"/>
 </archimate:Principle>

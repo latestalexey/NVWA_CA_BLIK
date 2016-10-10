@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:Goal xmlns:archimate="http://www.archimatetool.com/archimate" id="6e3ff685" name="(minimaliseren van aantal) Afgekeurde monsters" documentation="Percentage afgekeurde monsters op laboratorium"/>
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="6e3ff685"
+    name="(minimaliseren van aantal) Afgekeurde monsters"
+    documentation="Percentage afgekeurde monsters op laboratorium"/>

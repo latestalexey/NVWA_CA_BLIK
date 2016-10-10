@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="00eb5e05" name="Inrichten incident overleg (PF20)" documentation="Tijdens het alerteringsoverleg is een incident-/incidentmanager aangesteld en deze heeft de rol van voorzitter bij het NVWA incidentenoverleg. In dit overleg zitten de betrokken leden van de DIRA en inhoudelijk deskundige. Doel van het overleg is het uitvoering geven aan de uitvoeringstaken van de NVWA.">
-  <properties key="Pre" value="Er is een incident EN er is geen crisis"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="00eb5e05"
+    name="Inrichten incident overleg (PF20)"
+    documentation="Tijdens het alerteringsoverleg is een incident-/incidentmanager aangesteld en deze heeft de rol van voorzitter bij het NVWA incidentenoverleg. In dit overleg zitten de betrokken leden van de DIRA en inhoudelijk deskundige. Doel van het overleg is het uitvoering geven aan de uitvoeringstaken van de NVWA.">
+  <properties
+      key="Pre"
+      value="Er is een incident EN er is geen crisis"/>
   <properties/>
 </archimate:BusinessProcess>

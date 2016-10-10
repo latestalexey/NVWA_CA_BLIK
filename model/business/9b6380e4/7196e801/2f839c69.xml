@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessRole xmlns:archimate="http://www.archimatetool.com/archimate" id="2f839c69" name="Zaken coordinator" documentation="- bewaakt voortgang van zaken binnen team&#xD;&#xA;- wijst zaken of taken (uit werkvoorraad) toe aan anderen"/>
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="2f839c69"
+    name="Zaken coordinator"
+    documentation="- bewaakt voortgang van zaken binnen team&#xD;&#xA;- wijst zaken of taken (uit werkvoorraad) toe aan anderen"/>

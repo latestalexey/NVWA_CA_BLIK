@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessProcess xmlns:archimate="http://www.archimatetool.com/archimate" id="ad10f06c" name="Beantwoorden vragensteller (PF16)">
-  <properties key="Pre" value="Antwoord is aanwezig"/>
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="ad10f06c"
+    name="Beantwoorden vragensteller (PF16)">
+  <properties
+      key="Pre"
+      value="Antwoord is aanwezig"/>
   <properties/>
 </archimate:BusinessProcess>

@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<archimate:BusinessFunction xmlns:archimate="http://www.archimatetool.com/archimate" id="76bea38a" name="Risico bewaking" documentation="Het bepalen en bewaken van de risico's waaraan de NVWA wordt blootgesteld. (GEMMA)"/>
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="76bea38a"
+    name="Risico bewaking"
+    documentation="Het bepalen en bewaken van de risico's waaraan de NVWA wordt blootgesteld. (GEMMA)"/>
