@@ -1,0 +1,7 @@
+<archimate:FlowRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="4857f37e"
+    name="P-Direkt berichten"
+    documentation="De zgn. &quot;Sylvia-koppeling&quot; brengt de betalingsopdrachten uit DTV gemiddeld eens per 4 weken in het door P-Direkt gewenste XML-formaat via e-mail naar P-Direkt."
+    source="archimate:SystemSoftware ../technology/e443d62d.xml#e443d62d"
+    target="archimate:SystemSoftware ../technology/952cad22.xml#952cad22"/>
