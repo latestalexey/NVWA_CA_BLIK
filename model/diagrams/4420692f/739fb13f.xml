@@ -184,6 +184,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="6d9376cf"
           textAlignment="2"
+          fillColor="#ffff00"
           archimateElement="archimate:BusinessFunction ../../business/97eb5f35/bdeb0c06/fce76879.xml#fce76879">
         <bounds
             x="24"
@@ -304,6 +305,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="54b69074"
         textAlignment="2"
+        fillColor="#ffff00"
         archimateElement="archimate:BusinessFunction ../../business/97eb5f35/bdeb0c06/1c41a26f.xml#1c41a26f">
       <bounds
           x="558"
