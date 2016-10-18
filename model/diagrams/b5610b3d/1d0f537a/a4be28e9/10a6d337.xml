@@ -867,5 +867,23 @@
         source="#a0e84d3a"
         target="#12a04f84"
         relationship="archimate:UsedByRelationship ../../../../relations/56a20d59.xml#56a20d59"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="e859473c"
+        source="#a0e84d3a"
+        target="#76074c7f"
+        relationship="archimate:UsedByRelationship ../../../../relations/014e3692.xml#014e3692"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="76074c7f"
+      textAlignment="2"
+      targetConnections="#e859473c"
+      archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/aad98e42/1ce60d7f.xml#1ce60d7f">
+    <bounds
+        x="1199"
+        y="132"
+        width="120"
+        height="55"/>
   </children>
 </archimate:ArchimateDiagramModel>
