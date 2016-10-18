@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="49bdfa74"
+    name="Bepalen aanpak "
+    documentation="Het kiezen van een aanpak om de gevraagde informatie te verkrijgen (naleefmeting uit te voeren, enquente, onderzoek oid). Hiermee wordt een product gekozen dat moet worden geleverd en dit bepaalt welk proces (zaaktype) wordt gevolgd.">
+  <properties
+      key="pre"
+      value="opstellen handhavingsprogramma is voltooid"/>
+</archimate:BusinessProcess>

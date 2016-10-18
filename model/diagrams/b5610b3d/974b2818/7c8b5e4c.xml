@@ -56,10 +56,10 @@
           height="133"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="c8adfefd"
+          id="30bd5134"
           source="#b1db3c25"
-          target="#83fa1ab3"
-          relationship="archimate:TriggeringRelationship ../../../relations/d392cf18.xml#d392cf18"/>
+          target="#a1346906"
+          relationship="archimate:TriggeringRelationship ../../../relations/9dba1609.xml#9dba1609"/>
     </children>
   </children>
   <children
@@ -73,23 +73,29 @@
         y="37"
         width="253"
         height="228"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="f04904b1"
+        source="#febf73ce"
+        target="#a1346906"
+        relationship="archimate:AggregationRelationship ../../../relations/f0643f0a.xml#f0643f0a"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="83fa1ab3"
+        id="a1346906"
         textAlignment="2"
-        targetConnections="#c8adfefd"
-        archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/aad98e42/1e20cd98.xml#1e20cd98">
+        targetConnections="#30bd5134 #f04904b1"
+        archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/aad98e42/1ce60d7f.xml#1ce60d7f">
       <bounds
           x="36"
-          y="60"
+          y="48"
           width="193"
           height="133"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="344b1226"
-          source="#83fa1ab3"
+          id="88210431"
+          source="#a1346906"
           target="#d2a5fea3"
-          relationship="archimate:TriggeringRelationship ../../../relations/f47ecccb.xml#f47ecccb"/>
+          relationship="archimate:TriggeringRelationship ../../../relations/2089f6df.xml#2089f6df"/>
     </children>
   </children>
   <children
@@ -137,7 +143,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="d2a5fea3"
         textAlignment="2"
-        targetConnections="#344b1226"
+        targetConnections="#88210431"
         archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/28f15cd0/2dba3401.xml#2dba3401">
       <bounds
           x="24"

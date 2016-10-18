@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="4c2bafa3"
     source="archimate:BusinessProcess ../business/3e0e9fd2/6b6a25df/abf41729.xml#abf41729"
-    target="archimate:BusinessProcess ../business/3e0e9fd2/6b6a25df/3d663706.xml#3d663706"/>
+    target="archimate:OrJunction ../connectors/52cfc5ff.xml#52cfc5ff"/>
