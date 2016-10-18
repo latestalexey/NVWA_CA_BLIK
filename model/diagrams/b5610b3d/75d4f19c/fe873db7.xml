@@ -56,30 +56,6 @@
         y="24"
         width="4992"
         height="55"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="b165231d"
-        source="#12b73d24"
-        target="#0a4f1c14"
-        relationship="archimate:AggregationRelationship ../../../relations/fc17c61f.xml#fc17c61f"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="75110a19"
-        source="#12b73d24"
-        target="#8a0257ac"
-        relationship="archimate:AggregationRelationship ../../../relations/ce611b55.xml#ce611b55"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="80b051a8"
-        source="#12b73d24"
-        target="#bd236fc0"
-        relationship="archimate:AggregationRelationship ../../../relations/14c1a16f.xml#14c1a16f">
-      <bendpoints
-          startX="1987"
-          startY="70"
-          endX="-48"
-          endY="-264"/>
-    </sourceConnections>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -108,7 +84,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="bd236fc0"
         textAlignment="2"
-        targetConnections="#80b051a8"
         archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/5a2ffdbb/9109e4ab.xml#9109e4ab">
       <bounds
           x="72"
@@ -302,7 +277,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="0a4f1c14"
         textAlignment="2"
-        targetConnections="#b165231d"
         archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/5a2ffdbb/8390bfb3.xml#8390bfb3">
       <bounds
           x="2496"
@@ -429,7 +403,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="8a0257ac"
         textAlignment="2"
-        targetConnections="#75110a19"
         archimateElement="archimate:BusinessProcess ../../../business/3e0e9fd2/5a2ffdbb/4cf3879c.xml#4cf3879c">
       <bounds
           x="36"
