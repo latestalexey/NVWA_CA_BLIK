@@ -893,11 +893,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="305714b1"
       textAlignment="2"
+      targetConnections="#8c24ce7e #df3c2d3a #b87f3466 #93c5fd26 #231d911c #b51d81a6 #f82109d1 #dc879dbf"
       archimateElement="archimate:BusinessInteraction ../business/118d3038/f76c887f.xml#f76c887f">
     <bounds
         x="97"
         y="1344"
-        width="1067"
+        width="1426"
         height="55"/>
   </children>
   <children
@@ -933,5 +934,141 @@
         source="#60e5e8fc"
         target="#f7e5b9aa"
         relationship="archimate:UsedByRelationship ../relations/1195f51d.xml#1195f51d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a5dc6bbf"
+      textAlignment="2"
+      archimateElement="archimate:BusinessProcess ../business/3e0e9fd2/9aa220e0/e24f7c6d.xml#e24f7c6d">
+    <bounds
+        x="97"
+        y="1441"
+        width="156"
+        height="84"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="8c24ce7e"
+        source="#a5dc6bbf"
+        target="#305714b1"
+        relationship="archimate:UsedByRelationship ../relations/df582f56.xml#df582f56"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="8e1d06bb"
+      textAlignment="2"
+      archimateElement="archimate:BusinessProcess ../business/3e0e9fd2/9aa220e0/edb98720.xml#edb98720">
+    <bounds
+        x="277"
+        y="1441"
+        width="156"
+        height="84"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="df3c2d3a"
+        source="#8e1d06bb"
+        target="#305714b1"
+        relationship="archimate:UsedByRelationship ../relations/f3333c25.xml#f3333c25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="880e5bd9"
+      textAlignment="2"
+      archimateElement="archimate:BusinessProcess ../business/3e0e9fd2/9aa220e0/9e355cb0.xml#9e355cb0">
+    <bounds
+        x="461"
+        y="1441"
+        width="156"
+        height="84"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="b87f3466"
+        source="#880e5bd9"
+        target="#305714b1"
+        relationship="archimate:UsedByRelationship ../relations/fad94350.xml#fad94350"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f6c5d6be"
+      textAlignment="2"
+      archimateElement="archimate:BusinessProcess ../business/3e0e9fd2/9aa220e0/4e9fc221.xml#4e9fc221">
+    <bounds
+        x="646"
+        y="1441"
+        width="156"
+        height="84"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="93c5fd26"
+        source="#f6c5d6be"
+        target="#305714b1"
+        relationship="archimate:UsedByRelationship ../relations/e86bbb69.xml#e86bbb69"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="81463b0e"
+      textAlignment="2"
+      archimateElement="archimate:BusinessProcess ../business/3e0e9fd2/9aa220e0/ac9a2cc9.xml#ac9a2cc9">
+    <bounds
+        x="833"
+        y="1441"
+        width="156"
+        height="84"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="231d911c"
+        source="#81463b0e"
+        target="#305714b1"
+        relationship="archimate:UsedByRelationship ../relations/f1138be0.xml#f1138be0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6b101bca"
+      textAlignment="2"
+      archimateElement="archimate:BusinessProcess ../business/3e0e9fd2/9aa220e0/38e44f7b.xml#38e44f7b">
+    <bounds
+        x="1013"
+        y="1441"
+        width="156"
+        height="84"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="b51d81a6"
+        source="#6b101bca"
+        target="#305714b1"
+        relationship="archimate:UsedByRelationship ../relations/bb91e1c0.xml#bb91e1c0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3f9e600c"
+      textAlignment="2"
+      archimateElement="archimate:BusinessProcess ../business/3e0e9fd2/9aa220e0/f4dc8bdf.xml#f4dc8bdf">
+    <bounds
+        x="1188"
+        y="1441"
+        width="156"
+        height="84"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="f82109d1"
+        source="#3f9e600c"
+        target="#305714b1"
+        relationship="archimate:UsedByRelationship ../relations/d5fc6963.xml#d5fc6963"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3da796a7"
+      textAlignment="2"
+      archimateElement="archimate:Product ../business/9243f7be/49b8748a.xml#49b8748a">
+    <bounds
+        x="1368"
+        y="1441"
+        width="156"
+        height="84"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="dc879dbf"
+        source="#3da796a7"
+        target="#305714b1"
+        relationship="archimate:UsedByRelationship ../relations/aad0b318.xml#aad0b318"/>
   </children>
 </archimate:ArchimateDiagramModel>
