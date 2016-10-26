@@ -145,8 +145,8 @@
       targetConnections="#3a76dca8"
       archimateElement="archimate:ApplicationService ../../application/2da6e951/47e371c2/2f7a5654.xml#2f7a5654">
     <bounds
-        x="1104"
-        y="99"
+        x="840"
+        y="93"
         width="157"
         height="55"/>
   </children>
@@ -157,8 +157,8 @@
       targetConnections="#14d79ea8"
       archimateElement="archimate:ApplicationService ../../application/2da6e951/47e371c2/c572b5ca.xml#c572b5ca">
     <bounds
-        x="1104"
-        y="168"
+        x="840"
+        y="162"
         width="157"
         height="55"/>
   </children>
@@ -169,8 +169,8 @@
       targetConnections="#60b388cb"
       archimateElement="archimate:ApplicationService ../../application/2da6e951/47e371c2/395f2290.xml#395f2290">
     <bounds
-        x="1104"
-        y="231"
+        x="840"
+        y="225"
         width="157"
         height="55"/>
   </children>
@@ -181,8 +181,8 @@
       targetConnections="#34f1ccbb"
       archimateElement="archimate:ApplicationService ../../application/2da6e951/47e371c2/91a6b7e6.xml#91a6b7e6">
     <bounds
-        x="1104"
-        y="297"
+        x="840"
+        y="291"
         width="157"
         height="55"/>
   </children>
@@ -193,8 +193,8 @@
       targetConnections="#52a18a32"
       archimateElement="archimate:ApplicationService ../../application/2da6e951/47e371c2/7cfb4ad0.xml#7cfb4ad0">
     <bounds
-        x="1104"
-        y="363"
+        x="840"
+        y="357"
         width="157"
         height="55"/>
   </children>
@@ -205,8 +205,8 @@
       targetConnections="#dad68e38"
       archimateElement="archimate:ApplicationService ../../application/2da6e951/47e371c2/f031f33d.xml#f031f33d">
     <bounds
-        x="1104"
-        y="495"
+        x="840"
+        y="489"
         width="157"
         height="55"/>
   </children>
@@ -217,8 +217,8 @@
       targetConnections="#fab37c4a"
       archimateElement="archimate:ApplicationService ../../application/2da6e951/47e371c2/356fb1e4.xml#356fb1e4">
     <bounds
-        x="1104"
-        y="429"
+        x="840"
+        y="423"
         width="157"
         height="55"/>
   </children>
@@ -228,8 +228,8 @@
       textAlignment="2"
       archimateElement="archimate:ApplicationComponent ../../application/2da6e951/47e371c2/b65f2a46.xml#b65f2a46">
     <bounds
-        x="864"
-        y="210"
+        x="600"
+        y="204"
         width="170"
         height="154"/>
     <children
