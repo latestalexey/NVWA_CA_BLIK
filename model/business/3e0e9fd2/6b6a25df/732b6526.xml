@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="732b6526"
+    name="Uitvoeren analyse"
+    documentation="Om te bepalen welke type instrument moet worden ontwikkeld moet eerst informatie worden geanalyseerd over de doelgroep, gedrag, trends in handhaving (beinvloeding), mogelijke instrumenten etc. ">
+  <properties
+      key="pre"
+      value="opstellen handhavingsprogramma is voltooid"/>
+</archimate:BusinessProcess>

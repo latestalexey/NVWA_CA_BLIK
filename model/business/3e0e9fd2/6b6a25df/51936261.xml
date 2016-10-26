@@ -1,9 +1,9 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="51936261"
-    name="Bepalen # vestigingen / inspecties (PF06)"
-    documentation="Bereken op basis van de doelgroep grootte wat de statistische aantal bedrijven is wat minimaal gecontroleerd moet worden om een statistisch onderbouwde afspiegeling te kunnen geven van de doelgroep en derhalve te kunnen vertalen naar de resultaatgerichte opdracht.&#xD;&#xA;Alleen bij 100% projectopdracht wordt de totale doelgroep opgenomen als minimaal benodigde bedrijven voor effect&#xD;&#xA;&#xD;&#xA;">
+    name="Bepalen # controles (PF06)"
+    documentation="Bereken op basis van de doelgroep grootte wat statistisch het aantal controles is wat minimaal uitgevoerd moet worden om een statistisch onderbouwde conclusie te kunnen trekken over het behalen van de opdracht/effect en een afspiegeling te kunnen geven van de doelgroep.&#xD;&#xA;Alleen bij een 100% controle projectopdracht wordt de totale doelgroep opgenomen als minimaal benodigde aantal bedrijven voor effect&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Pre"
-      value="projectopdracht 100% is waar"/>
+      value="projectopdracht 100% is onwaar"/>
 </archimate:BusinessProcess>

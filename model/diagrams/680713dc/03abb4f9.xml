@@ -2,11 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="03abb4f9"
-    name="CA Producten">
+    name="CA Producttypen">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="3987ea68"
-      name="Signalen">
+      name="&quot;Signalen&quot;">
     <bounds
         x="27"
         y="39"
@@ -73,7 +73,7 @@
         <bounds
             x="12"
             y="48"
-            width="120"
+            width="133"
             height="55"/>
       </children>
       <children
@@ -84,7 +84,7 @@
         <bounds
             x="12"
             y="108"
-            width="120"
+            width="133"
             height="55"/>
       </children>
     </children>
@@ -106,7 +106,7 @@
         <bounds
             x="13"
             y="48"
-            width="120"
+            width="133"
             height="55"/>
       </children>
       <children
@@ -117,7 +117,7 @@
         <bounds
             x="13"
             y="108"
-            width="120"
+            width="133"
             height="55"/>
       </children>
     </children>
@@ -139,8 +139,8 @@
       textAlignment="2"
       archimateElement="archimate:Product ../../business/9243f7be/93eb302b.xml#93eb302b">
     <bounds
-        x="282"
-        y="360"
+        x="324"
+        y="-74"
         width="127"
         height="73"/>
   </children>
@@ -150,7 +150,7 @@
       textAlignment="2"
       archimateElement="archimate:Product ../../business/9243f7be/a078ca03.xml#a078ca03">
     <bounds
-        x="624"
+        x="660"
         y="-72"
         width="120"
         height="55"/>
@@ -172,7 +172,7 @@
       textAlignment="2"
       archimateElement="archimate:Product ../../business/9243f7be/395ffb26.xml#395ffb26">
     <bounds
-        x="408"
+        x="504"
         y="-72"
         width="127"
         height="55"/>
@@ -305,5 +305,27 @@
           width="120"
           height="55"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="d457d6bf"
+        textAlignment="2"
+        archimateElement="archimate:Product ../../business/9243f7be/025113d6.xml#025113d6">
+      <bounds
+          x="23"
+          y="108"
+          width="120"
+          height="55"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="1f845f0f"
+      textAlignment="2"
+      archimateElement="archimate:Product ../../business/9243f7be/49b8748a.xml#49b8748a">
+    <bounds
+        x="34"
+        y="-156"
+        width="120"
+        height="55"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="ec8d861d"
+    name="14.6.1 Verantwoorden tijd"
+    documentation="Registreren van de gewerkte tijd aan de opdracht/taak">
+  <properties
+      key="Pre"
+      value="Keuring is afgerond"/>
+  <properties
+      key="Post"
+      value="Tijd is geregistreerd"/>
+</archimate:BusinessProcess>
