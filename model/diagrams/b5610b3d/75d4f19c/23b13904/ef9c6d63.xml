@@ -8,7 +8,7 @@
       id="08073e6a"
       textAlignment="2"
       targetConnections="#1b0654ab #27451c2e #052c8ecb"
-      archimateElement="archimate:BusinessProcess ../../../../business/1200fc4d/3826ce1b.xml#3826ce1b">
+      archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/dec2c0ec/3826ce1b.xml#3826ce1b">
     <bounds
         x="192"
         y="505"
@@ -19,8 +19,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="133ecd11"
       textAlignment="2"
-      targetConnections="#2cb4e55a #7212717d"
-      archimateElement="archimate:BusinessProcess ../../../../business/1200fc4d/cab3b7fd.xml#cab3b7fd">
+      targetConnections="#7212717d #2a80ec7a"
+      archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/dec2c0ec/cab3b7fd.xml#cab3b7fd">
     <bounds
         x="378"
         y="157"
@@ -50,16 +50,16 @@
           height="73"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="aaeafa6f"
+          id="e3798369"
           source="#90b4b544"
           target="#1af64438"
-          relationship="archimate:TriggeringRelationship ../../../../relations/af98a757.xml#af98a757"/>
+          relationship="archimate:TriggeringRelationship ../../../../relations/6cdb113b.xml#6cdb113b"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="1af64438"
         textAlignment="2"
-        targetConnections="#aaeafa6f #1f4a794b"
+        targetConnections="#1f4a794b #e3798369"
         fillColor="#ffff80"
         archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/5a2ffdbb/d9f11462.xml#d9f11462">
       <bounds
@@ -69,22 +69,22 @@
           height="73"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="1c32cdfa"
-          source="#1af64438"
-          target="#36daac33"
-          relationship="archimate:TriggeringRelationship ../../../../relations/a3f734cc.xml#a3f734cc"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="27451c2e"
           source="#1af64438"
           target="#08073e6a"
           relationship="archimate:TriggeringRelationship ../../../../relations/91f8c8e8.xml#91f8c8e8"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="615e6dde"
+          source="#1af64438"
+          target="#36daac33"
+          relationship="archimate:TriggeringRelationship ../../../../relations/0de0bf56.xml#0de0bf56"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="36daac33"
         textAlignment="2"
-        targetConnections="#1c32cdfa #fd79353f #527b5d96"
+        targetConnections="#fd79353f #527b5d96 #615e6dde"
         fillColor="#ffff80"
         archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/5a2ffdbb/00110562.xml#00110562">
       <bounds
@@ -100,22 +100,22 @@
           relationship="archimate:TriggeringRelationship ../../../../relations/3f8e56f6.xml#3f8e56f6"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="d78760d7"
-          source="#36daac33"
-          target="#b549e086"
-          relationship="archimate:TriggeringRelationship ../../../../relations/b184ca10.xml#b184ca10"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="2cb4e55a"
+          id="2a80ec7a"
           source="#36daac33"
           target="#133ecd11"
-          relationship="archimate:TriggeringRelationship ../../../../relations/b18b6853.xml#b18b6853"/>
+          relationship="archimate:TriggeringRelationship ../../../../relations/64044186.xml#64044186"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="da6b7ae3"
+          source="#36daac33"
+          target="#b549e086"
+          relationship="archimate:TriggeringRelationship ../../../../relations/2fca7c5e.xml#2fca7c5e"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="b549e086"
         textAlignment="2"
-        targetConnections="#d78760d7"
+        targetConnections="#da6b7ae3"
         fillColor="#ff8080"
         archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/5a2ffdbb/b2f465dd.xml#b2f465dd">
       <bounds
@@ -200,27 +200,26 @@
           height="73"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="79b0b848"
-          source="#406617c3"
-          target="#d56b1372"
-          relationship="archimate:TriggeringRelationship ../../../../relations/e622243a.xml#e622243a">
-        <bendpoints
-            startY="78"
-            endX="-180"
-            endY="-3"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="08320e89"
           source="#406617c3"
           target="#540415de"
           relationship="archimate:TriggeringRelationship ../../../../relations/95041748.xml#95041748"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="2c9b225f"
+          source="#406617c3"
+          target="#d56b1372"
+          relationship="archimate:TriggeringRelationship ../../../../relations/e4a954fb.xml#e4a954fb">
+        <bendpoints
+            startY="84"
+            endX="-180"/>
+      </sourceConnections>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="d56b1372"
         textAlignment="2"
-        targetConnections="#79b0b848"
+        targetConnections="#2c9b225f"
         fillColor="#ff8080"
         archimateElement="archimate:BusinessProcess ../../../../business/3e0e9fd2/5a2ffdbb/efbd5ccc.xml#efbd5ccc">
       <bounds
