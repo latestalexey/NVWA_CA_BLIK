@@ -449,7 +449,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="58965548"
         textAlignment="2"
-        archimateElement="archimate:BusinessFunction ../../business/8be06a92.xml#8be06a92">
+        archimateElement="archimate:BusinessFunction ../../business/97eb5f35/b0746f54/8be06a92.xml#8be06a92">
       <bounds
           x="420"
           y="97"
@@ -466,7 +466,7 @@
           id="57bf5252"
           textAlignment="2"
           fillColor="#ffff00"
-          archimateElement="archimate:BusinessFunction ../../business/017af931.xml#017af931">
+          archimateElement="archimate:BusinessFunction ../../business/97eb5f35/b0746f54/017af931.xml#017af931">
         <bounds
             x="12"
             y="36"
@@ -478,7 +478,7 @@
           id="35b93a7b"
           textAlignment="2"
           targetConnections="#f803f94b"
-          archimateElement="archimate:BusinessFunction ../../business/386a74f3.xml#386a74f3">
+          archimateElement="archimate:BusinessFunction ../../business/97eb5f35/b0746f54/386a74f3.xml#386a74f3">
         <bounds
             x="12"
             y="84"

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="9b055b03"
+    name="Roosteren activiteit (periodiek) &lt;&lt;werkproces>>"
+    documentation="Periodiek toewijzen van 1 of meer medewerkers en middelen aan een specifieke inspectieopdracht. Het betreft hier vooralsnog alleen Cat1 en Cat2. Het idee is dat het ICT systeem een voorstel doet voor dag en tijdstip van de uitvoering van de inspectie. De inspecteur accepteert het voorstel of wijzigt hierin binnen afgesproken roosterkaders (naar ander tijdstip of ruil met collega). De teamleider kan overrulen en wordt ingeschakeld als benodigde en beschikbare capaciteit niet passen (door bv ziekte of normtijden die niet gehaald worden). Bij meer dan 1 benodigde inspecteur is dit vervat in de kenmerken van de inspectieopdracht en worden meerdere personen toegewezen.&#xD;&#xA;Dit proces kan periodiek worden doorlopen als sprake is van een verdeling van opdrachten per periode (week, maand, kwartaal).">
+  <properties
+      key="Pre"
+      value="Roosterkader (werktijden, reistijdenregelingen, overwerk etc) = available"/>
+</archimate:BusinessProcess>
