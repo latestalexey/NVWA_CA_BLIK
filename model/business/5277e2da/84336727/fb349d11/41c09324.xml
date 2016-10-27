@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="41c09324"
-    name="14.2.1 Controleren aanvraag"
-    documentation="Een aangevraagde keuring wordt beoordeeld of deze realiseerbaar is. Daarbij wordt gekeken of de aangevraagde tijd en de bijbehorende aantallen voor het desbetreffende slachthuis redelijkerwijs overeenkomen. Dit wordt gedaan a.d.h.v. historische data.">
-  <properties
-      key="Pre"
-      value="Aanvraag is ingediend door een geautoriseerde aanvrager"/>
-</archimate:BusinessProcess>

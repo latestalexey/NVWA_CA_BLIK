@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="6251026a"
+    name="Beoordelen AM bevindingen"
+    documentation="Op basis van de DOM-controle, worden de dieren in de roodvleesketen gecategoriseerd (Cat 1 t/m 4).&#xD;&#xA;Bij pluimvee bestaan geen categorieën. Hier wordt het besluit genomen of de dieren toegelaten worden tot het slachtproces.">
+  <properties
+      key="Pre"
+      value="DOM-controles zijn uitgevoerd"/>
+  <properties
+      key="Post"
+      value="Tot slacht toegelaten"/>
+  <properties
+      key="Post"
+      value="Geweigerd materieel"/>
+</archimate:BusinessProcess>

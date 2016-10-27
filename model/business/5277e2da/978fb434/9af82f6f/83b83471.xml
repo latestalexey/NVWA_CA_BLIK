@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="83b83471"
+    name="Totaaloverzicht PM versturen"
+    documentation="Tijd gedreven activiteit die dagelijks een overzicht van de aangevraagde keuringen naar de planafdeling van KDS verstuurt.&#xD;&#xA;Versturen van een totaaloverzicht van aangevraagde en (door de NVWA) ingeroosterde keuringen naar KDS zodat die hun planning ook op orde kunnen maken voor het uitvoeren van de postmortemkeuringen.">
+  <properties
+      key="Pre"
+      value="Alle aanvragen voor dag 0+1 zijn ingeroosterd door de NVWA"/>
+  <properties
+      key="Post"
+      value="Totaaloverzicht is verstuurd naar KDS"/>
+</archimate:BusinessProcess>

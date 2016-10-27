@@ -1,0 +1,18 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="ce6adf62"
+    name="AM Keuring &lt;&lt;werkprocess>>"
+    documentation="Uitvoeren van een antemortem (AM) keuring op het toezichtsobject">
+  <properties
+      key="Pre"
+      value="Dieren worden aangevoerd op het slachthuis"/>
+  <properties
+      key="Post"
+      value="Dier is toegelaten tot de slacht"/>
+  <properties
+      key="Post"
+      value="Dier is onder voorwaarden toegelaten tot de slacht"/>
+  <properties
+      key="Post"
+      value="Dier is niet toegelaten tot de slacht"/>
+</archimate:BusinessProcess>

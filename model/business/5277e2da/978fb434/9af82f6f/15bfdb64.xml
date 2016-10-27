@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="15bfdb64"
+    name="Roosteren aanvraag"
+    documentation="Het daadwerkelijk inroosteren van de medewerker(s) op de aanvraag.">
+  <properties
+      key="Pre"
+      value="Aanvraag keuring is geaccordeerd"/>
+</archimate:BusinessProcess>
