@@ -1,7 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="b7120227"
-    name="13.1.2 Verwerken aanvraag formulier (PF13)"
+    name="Verwerken aanvraag formulier verlening"
     documentation="De ingevoerde gegevens worden automatisch door het systeem gecontroleerd op administratieve volledigheid. Indien het bedrijf of de ondernemer gevlagd staat door JZ, FEZ of IOD worden aanvragen voor verleningen zonder inspectie voorafgaand aan automatische afgifte eerst nog bekeken om de aanpak te bepalen.&#xD;&#xA;&#xD;&#xA;Bij het ontbreken van informatie kan de aanvrager de aanvraag niet insturen. De aanvrager krijgt een foutmelding over de ontbrekende informatie en moet de aanvraag volledig invullen.">
   <properties
       key="Post"
