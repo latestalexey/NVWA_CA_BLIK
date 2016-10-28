@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="9b8fcef4"
+    name="Opstellen conclusie bureaustudie PKS"
+    documentation="Aan de hand van de vastgelegde bevindingen wordt de conclusie van de bureaustudie opgesteld. ">
+  <properties
+      key="Pre"
+      value="bevindingen vastgelegd"/>
+</archimate:BusinessProcess>

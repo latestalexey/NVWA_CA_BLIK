@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="a639607c"
+    name="Bepalen informatie behoefte voor inspecteur"
+    documentation="Naast de standaard verificatielijst wordt hier aan de hand van de bevindingen uit de bureaustudie een aantal extra aandachtspunten bepaald waarop de inspecteur moet letten tijdens de verificatie.">
+  <properties
+      key="Pre"
+      value="Bevindingen bureaustudie"/>
+</archimate:BusinessProcess>
