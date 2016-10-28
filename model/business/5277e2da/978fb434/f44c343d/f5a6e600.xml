@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="f5a6e600"
+    name="Fotograferen monster "
+    documentation="Het genomen monster wordt gefotografeerd. De foto’s kunnen bij registratie worden gekoppeld aan het monster. ">
+  <properties
+      key="Pre"
+      value="Monster aanwezig"/>
+</archimate:BusinessProcess>

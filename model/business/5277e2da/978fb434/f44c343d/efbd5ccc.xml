@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="efbd5ccc"
+    name="Overdracht monster contra-expertise"
+    documentation="Indien het contra-expertise monster wordt bewaard door de geinspecteerde, dan wordt het monster overgedragen.">
+  <properties
+      key="Pre"
+      value="Monster is contra expertise EN monster niet door NVWA onderzocht"/>
+  <properties
+      key="Post"
+      value="Afsluiten monsterzaak?"/>
+</archimate:BusinessProcess>
