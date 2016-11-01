@@ -241,7 +241,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="73c4b968"
         textAlignment="2"
-        archimateElement="archimate:ApplicationComponent ../../../../application/06ff27eb/176a9892/6095ecc4.xml#6095ecc4">
+        archimateElement="archimate:ApplicationComponent ../../../../application/2da6e951/176a9892/6095ecc4.xml#6095ecc4">
       <bounds
           x="1380"
           y="423"
@@ -259,7 +259,7 @@
         id="66f82657"
         textAlignment="2"
         targetConnections="#e39ce538"
-        archimateElement="archimate:ApplicationService ../../../../application/06ff27eb/176a9892/354d7b7c.xml#354d7b7c">
+        archimateElement="archimate:ApplicationService ../../../../application/2da6e951/176a9892/354d7b7c.xml#354d7b7c">
       <bounds
           x="1380"
           y="336"

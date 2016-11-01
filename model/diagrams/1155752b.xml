@@ -1251,4 +1251,14 @@
         width="120"
         height="55"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="b185ebd7"
+      name="Group">
+    <bounds
+        x="1776"
+        y="60"
+        width="276"
+        height="60"/>
+  </children>
 </archimate:ArchimateDiagramModel>
