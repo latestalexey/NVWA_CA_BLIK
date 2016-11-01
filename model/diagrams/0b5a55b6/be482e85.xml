@@ -5,40 +5,6 @@
     name="Authorisatie en Authenticatie">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="8c35a94e"
-      textAlignment="2"
-      targetConnections="#3dfe1293"
-      archimateElement="archimate:ApplicationComponent ../../application/2da6e951/ccbe3322/3ac7ac71.xml#3ac7ac71">
-    <bounds
-        x="864"
-        y="204"
-        width="157"
-        height="156"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="fa34d569"
-        textAlignment="2"
-        archimateElement="archimate:ApplicationService ../../application/2da6e951/ccbe3322/eb2a1a42.xml#eb2a1a42">
-      <bounds
-          x="24"
-          y="24"
-          width="120"
-          height="55"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="94b38bdb"
-        textAlignment="2"
-        archimateElement="archimate:ApplicationService ../../application/2da6e951/ccbe3322/830d5a5f.xml#830d5a5f">
-      <bounds
-          x="24"
-          y="84"
-          width="120"
-          height="55"/>
-    </children>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="ef6ba3f7"
       textAlignment="2"
       archimateElement="archimate:ApplicationComponent ../../application/2da6e951/ccbe3322/7d86069f.xml#7d86069f">
@@ -297,18 +263,13 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3194652b"
       textAlignment="2"
+      targetConnections="#70c59f0a"
       archimateElement="archimate:BusinessRole ../../business/ec04bb39.xml#ec04bb39">
     <bounds
         x="1068"
         y="254"
         width="120"
         height="55"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="3dfe1293"
-        source="#3194652b"
-        target="#8c35a94e"
-        relationship="archimate:AssociationRelationship ../../relations/2c30b72d.xml#2c30b72d"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -344,5 +305,45 @@
         y="108"
         width="120"
         height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="284afea7"
+      textAlignment="2"
+      archimateElement="archimate:ApplicationComponent ../../application/5eea8998/75579a29.xml#75579a29"
+      type="1">
+    <bounds
+        x="864"
+        y="216"
+        width="145"
+        height="157"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="70c59f0a"
+        source="#284afea7"
+        target="#3194652b"
+        relationship="archimate:AssociationRelationship ../../relations/4b19868e.xml#4b19868e"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="94b38bdb"
+        textAlignment="2"
+        archimateElement="archimate:ApplicationService ../../application/2da6e951/ccbe3322/830d5a5f.xml#830d5a5f">
+      <bounds
+          x="12"
+          y="84"
+          width="120"
+          height="55"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="fa34d569"
+        textAlignment="2"
+        archimateElement="archimate:ApplicationService ../../application/2da6e951/ccbe3322/eb2a1a42.xml#eb2a1a42">
+      <bounds
+          x="12"
+          y="24"
+          width="120"
+          height="55"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>
