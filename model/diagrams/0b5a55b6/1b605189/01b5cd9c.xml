@@ -700,17 +700,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="6647286b"
-      textAlignment="2"
-      archimateElement="archimate:Device ../../../technology/1a0032f7/840626ff.xml#840626ff">
-    <bounds
-        x="1608"
-        y="240"
-        width="120"
-        height="108"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="0fd2e781"
       textAlignment="2"
       archimateElement="archimate:ApplicationComponent ../../../application/2da6e951/a045781d/b3949f98.xml#b3949f98">
@@ -770,7 +759,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="856b0c86"
         textAlignment="2"
-        archimateElement="archimate:DataObject ../../../application/06ff27eb/6c6794ab/f779fced.xml#f779fced">
+        archimateElement="archimate:DataObject ../../../application/2da6e951/6c6794ab/f779fced.xml#f779fced">
       <bounds
           x="240"
           y="516"
@@ -781,7 +770,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="5f7e0cb2"
         textAlignment="2"
-        archimateElement="archimate:ApplicationFunction ../../../application/06ff27eb/4bc93dc4/1e2be8e4.xml#1e2be8e4">
+        archimateElement="archimate:ApplicationFunction ../../../application/2da6e951/4bc93dc4/1e2be8e4.xml#1e2be8e4">
       <bounds
           x="36"
           y="636"
@@ -851,7 +840,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="e16a2160"
         textAlignment="2"
-        archimateElement="archimate:ApplicationFunction ../../../application/06ff27eb/6c6794ab/684117dd.xml#684117dd">
+        archimateElement="archimate:ApplicationFunction ../../../application/2da6e951/6c6794ab/684117dd.xml#684117dd">
       <bounds
           x="60"
           y="180"
@@ -968,7 +957,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="df7afddf"
         textAlignment="2"
-        archimateElement="archimate:DataObject ../../../application/06ff27eb/6c6794ab/f23251a9.xml#f23251a9">
+        archimateElement="archimate:DataObject ../../../application/2da6e951/6c6794ab/f23251a9.xml#f23251a9">
       <bounds
           x="240"
           y="612"

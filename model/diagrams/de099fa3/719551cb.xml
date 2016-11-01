@@ -366,15 +366,15 @@
           height="104"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="acd6d8a0"
+          id="472e0504"
           textAlignment="2"
-          archimateElement="archimate:ApplicationComponent ../../application/5eea8998/da23bd04.xml#da23bd04"
+          archimateElement="archimate:ApplicationComponent ../../application/5eea8998/f0621a6a.xml#f0621a6a"
           type="1">
         <bounds
-            x="36"
-            y="36"
+            x="43"
+            y="42"
             width="120"
-            height="43"/>
+            height="55"/>
       </children>
     </children>
     <children
@@ -567,7 +567,7 @@
               xsi:type="archimate:DiagramModelArchimateObject"
               id="b8486329"
               textAlignment="2"
-              archimateElement="archimate:ApplicationComponent ../../application/06ff27eb/2745d3d5/e3984808.xml#e3984808"
+              archimateElement="archimate:ApplicationComponent ../../application/2da6e951/2745d3d5/e3984808.xml#e3984808"
               type="1">
             <bounds
                 x="48"
