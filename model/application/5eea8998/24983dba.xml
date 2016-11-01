@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="24983dba"
-    name="FAFAK"/>
+    name="FAFAK"
+    documentation="Fafak verzorgt de facturering van de in Fatijdec vastgelegde basisgegevens. Tevens vindt in dit systeem het beheer plaats van de diensten en tarieven die aan de facturering ten grondslag liggen."/>

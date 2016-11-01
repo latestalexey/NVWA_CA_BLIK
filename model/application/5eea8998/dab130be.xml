@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="dab130be"
-    name="DKB"/>
+    name="DKB"
+    documentation="Dynamisch klanten bestand. Register van basisgegevens uit de basisregistraties als bron voor klantgegevens in Blueriq"/>

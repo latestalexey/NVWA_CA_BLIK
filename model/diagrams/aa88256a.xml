@@ -149,7 +149,7 @@
             x="240"
             y="24"
             width="156"
-            height="48"/>
+            height="61"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="25eefd57"
@@ -191,8 +191,8 @@
           fillColor="#8080ff"
           archimateElement="archimate:BusinessInteraction ../business/118d3038/986c8e83.xml#986c8e83">
         <bounds
-            x="216"
-            y="91"
+            x="228"
+            y="109"
             width="156"
             height="60"/>
       </children>
@@ -202,8 +202,8 @@
           targetConnections="#25eefd57"
           archimateElement="archimate:OrJunction ../connectors/f7ce2a34.xml#f7ce2a34">
         <bounds
-            x="401"
-            y="84"
+            x="408"
+            y="91"
             width="15"
             height="15"/>
         <sourceConnections
