@@ -269,7 +269,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0bc1130a"
       textAlignment="2"
-      targetConnections="#41f688a5 #08e76ecd #1950dc02 #7c87f58b #18693bbd #6c1ca07c"
+      targetConnections="#41f688a5 #08e76ecd #1950dc02 #18693bbd #6c1ca07c"
       archimateElement="archimate:ApplicationComponent ../../application/5eea8998/dab130be.xml#dab130be"
       type="1">
     <bounds
@@ -325,7 +325,7 @@
       id="eb4ef84c"
       textAlignment="2"
       targetConnections="#bafcaddb"
-      archimateElement="archimate:ApplicationComponent ../../application/5eea8998/58f96e29.xml#58f96e29"
+      archimateElement="archimate:ApplicationComponent ../../application/3ea07118/58f96e29.xml#58f96e29"
       type="1">
     <bounds
         x="618"
@@ -401,19 +401,13 @@
       id="bfb7f436"
       textAlignment="2"
       targetConnections="#ad4dc843"
-      archimateElement="archimate:ApplicationComponent ../../application/5eea8998/6a3a6326.xml#6a3a6326"
+      archimateElement="archimate:ApplicationComponent ../../application/3ea07118/6a3a6326.xml#6a3a6326"
       type="1">
     <bounds
         x="792"
         y="12"
         width="70"
         height="36"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="7c87f58b"
-        source="#bfb7f436"
-        target="#0bc1130a"
-        relationship="archimate:FlowRelationship ../../relations/3d655a12.xml#3d655a12"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

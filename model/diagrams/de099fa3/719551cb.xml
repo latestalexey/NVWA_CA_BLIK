@@ -81,18 +81,6 @@
           height="104"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="093ab543"
-          textAlignment="2"
-          archimateElement="archimate:ApplicationComponent ../../application/5eea8998/3fffc7b9.xml#3fffc7b9"
-          type="1">
-        <bounds
-            x="144"
-            y="48"
-            width="120"
-            height="43"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
           id="a61fa37e"
           textAlignment="2"
           archimateElement="archimate:ApplicationComponent ../../application/5eea8998/88cf8f83.xml#88cf8f83"
