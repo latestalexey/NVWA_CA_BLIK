@@ -1,7 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="03ed0a74"
-    name="Bepalen product (PF06)"
+    name="Bepalen productype (PF06)"
     documentation="Bepaal aan de hand van de projectbeschrijving, de doelgroep en de resultaatgerichte opdracht welke producttype (en dus zaaktype) gebruikt gaan worden om de resultaatgerichte opdracht te realiseren.&#xD;&#xA;&#xD;&#xA;Voorbeelden van zaaktypen zijn:&#xD;&#xA;- Administratieve controle uitvoeren&#xD;&#xA;- Bedrijfsinspectie uitvoeren&#xD;&#xA;- Monstername bewaken (bemonsteringsproject)&#xD;&#xA;- Vervoerscontrole uitvoeren&#xD;&#xA;- Handhavingscommunicatie uitvoeren&#xD;&#xA;">
   <properties
       key="pre"

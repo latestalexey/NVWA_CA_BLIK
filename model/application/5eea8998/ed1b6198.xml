@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="ed1b6198"
-    name="SPIN Controle inspectie"/>
+    name="SPIN.Controle Inspectie"
+    documentation="Opslaan van controleresultaten en aansturen controles via controlerooster, typering van controles en bijbehorende werkinstruktie.&#xD;&#xA;"/>

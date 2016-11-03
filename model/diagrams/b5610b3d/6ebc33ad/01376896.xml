@@ -282,7 +282,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a21e73e3"
       textAlignment="2"
-      targetConnections="#f8cc6fd2 #d907aec3 #4b6627cc #f9d39d91"
+      targetConnections="#f8cc6fd2 #d907aec3 #f9d39d91 #0139a9e5"
       archimateElement="archimate:BusinessProcess ../../../business/5277e2da/84336727/6b6a25df/2a528b94.xml#2a528b94">
     <bounds
         x="-984"
@@ -868,23 +868,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="207318c8"
-      textAlignment="2"
-      archimateElement="archimate:Product ../../../business/9243f7be/21681291.xml#21681291">
-    <bounds
-        x="-396"
-        y="210"
-        width="120"
-        height="55"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="4b6627cc"
-        source="#207318c8"
-        target="#a21e73e3"
-        relationship="archimate:AssociationRelationship ../../../relations/46025a3a.xml#46025a3a"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="af1ca123"
       textAlignment="2"
       targetConnections="#c8a66caa"
@@ -1007,7 +990,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="8483a8af"
       textAlignment="1"
-      content="1 domein heeft 1 handhavingsprogramma. 1 HH programma heeft meerdere HH doelstellingen.&#xD;&#xA;1 HH doelstelling heeft 1 HH mix. 1 HH mix heeft meerdere projectplannen  (1 plan per instrument).&#xD;&#xA;Het zaaktype handhavingsprogramma bewaken bewaakt alle HH doelstellingen en dus alle HH mix per doelstelling. Keuze is om ook een zaaktype HHmix bewaken te maken of onder een HH programma zaak direct alle projectplannen te hangen zonder tussen zaak en dus het effect van de mix evalueren als onderdeel van de HH programma zaak">
+      content="1 domein heeft 1 handhavingsprogramma. 1 HH programma heeft meerdere HH doelstellingen.&#xD;&#xA;1 HH doelstelling is uitgewerkt in 1 HHplan en leidt tot 1 of meer projecten  (1  per traject).&#xD;&#xA;Het zaaktype handhavingsplan bewaakt 1 HH doelstelling en dus alle projecten per doelstelling. ">
     <bounds
         x="-852"
         y="58"
@@ -1023,7 +1006,7 @@
       id="304bec36"
       textAlignment="2"
       targetConnections="#99cddd83"
-      archimateElement="archimate:Product ../../../business/9243f7be/3e477028.xml#3e477028">
+      archimateElement="archimate:Product ../../../business/f7386aee/3e477028.xml#3e477028">
     <bounds
         x="2358"
         y="106"
@@ -1035,7 +1018,7 @@
       id="5416ac64"
       textAlignment="2"
       targetConnections="#916894ec"
-      archimateElement="archimate:Product ../../../business/9243f7be/aa68e819.xml#aa68e819">
+      archimateElement="archimate:Product ../../../business/f7386aee/aa68e819.xml#aa68e819">
     <bounds
         x="2832"
         y="72"
@@ -1069,6 +1052,23 @@
         source="#8c689302"
         target="#d4f8cc33"
         relationship="archimate:AssociationRelationship ../../../relations/0aafb06f.xml#0aafb06f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="5d651479"
+      textAlignment="2"
+      archimateElement="archimate:Product ../../../business/9243f7be/d7ff8c61.xml#d7ff8c61">
+    <bounds
+        x="-372"
+        y="210"
+        width="120"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="0139a9e5"
+        source="#5d651479"
+        target="#a21e73e3"
+        relationship="archimate:AssociationRelationship ../../../relations/1fdbc192.xml#1fdbc192"/>
   </children>
   <properties
       key="Pre"/>
