@@ -134,30 +134,23 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="20d0b3d0"
+      id="4d910408"
       textAlignment="2"
-      archimateElement="archimate:ApplicationComponent ../../application/2da6e951/04930b86/a8829c3b.xml#a8829c3b"
+      archimateElement="archimate:ApplicationComponent ../../application/2da6e951/04930b86/9daed25c.xml#9daed25c"
       type="1">
     <bounds
-        x="-12"
-        y="60"
-        width="211"
-        height="91"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="2d62eb97"
-        source="#20d0b3d0"
-        target="#787d1e2e"
-        relationship="archimate:AssignmentRelationship ../../relations/a5338355.xml#a5338355"/>
+        x="12"
+        y="59"
+        width="185"
+        height="81"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="787d1e2e"
         textAlignment="2"
-        targetConnections="#2d62eb97"
         archimateElement="archimate:ApplicationFunction ../../application/2da6e951/04930b86/241a1954.xml#241a1954">
       <bounds
-          x="36"
-          y="36"
+          x="12"
+          y="24"
           width="145"
           height="37"/>
       <sourceConnections
