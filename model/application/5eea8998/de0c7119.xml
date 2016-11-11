@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="de0c7119"
-    name="IBP inspectie"/>
+    name="IBP.inspectie"
+    documentation="IBP - Inspectie BeheersProgramma&#xD;&#xA;Inspectiesysteem: beheren basisgegevens (objecten), registreren van inspectiegegevens, plannen van inspecties en aanmaken factuurregels, maken van jaarrapportages Multi Annual National Control Plan (MANCP) en Fytosanitaire signalering, maken van risicoanalyses van handelsstromen (PRA's)&#xD;&#xA;"/>

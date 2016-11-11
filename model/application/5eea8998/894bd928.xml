@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="894bd928"
-    name="SPIN RAG"/>
+    name="SPIN.RAG"
+    documentation="interface tussen SAS-output en SPIN/Controle die m.b.v. datamining (SAS) geselecteerde controle objecten (op basis van gegevens uit het DMW datawarehouse) overdraagt naar SPIN&#xD;&#xA;"/>

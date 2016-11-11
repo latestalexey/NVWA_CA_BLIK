@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="40b77a12"
-    name="Prisma inspectie"
-    documentation="PD FYTO inspecties"/>
+    name="Prisma.inspectie"
+    documentation="Programma voor Registratie Inspecties en Maatregelen. Diagnose van monsters en ondersteuning Lab-proces. Registratie van vondsten (op welk perceel(gedeelte) komt schadelijk organisme voor). Op basis daarvan worden maatregelen vastgelegd. Omvat Register Organismen (basis voor PD-applicaties). Import van NAK-monstergegevens aardappel. Sub-omgeving voor Aardappelmoeheid (AM) en Reguliere Grond Ontsmetting (RGO). Aanmaken factuurregels. &#xD;&#xA;"/>

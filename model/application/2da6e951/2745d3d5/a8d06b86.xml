@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="a8d06b86"
-    name="Beheer NVWA beleid"/>
+    name="Beheer NVWA beleidsregel"
+    documentation="het samenvoegen van bedrijfsregels tot een regeling (interventiebeleid of instructie)"/>

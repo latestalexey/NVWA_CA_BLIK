@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="017af931"
-    name="Monsterneming"/>
+    name="Monsterneming"
+    documentation="Het gecontroleerd en herleidbaar nemen van een monster, dit geconditioneerd vervoeren naar een laboratorium en het beoordelen van de analyse."/>
