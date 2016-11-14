@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="c120cec9"
+    name="Bepalen relevantie"
+    documentation="Zodra de NVWA op de hoogte is van een aangekondigde wijziging in wet- en regelgeving wordt een snelle check uitgevoerd op de relevantie van deze wijziging voor de NVWA. Indien de wijziging niet van toepassing is voor de NVWA wordt deze niet geregistreerd en eindigt het proces van regelbeheersing direct. Indien relevant wordt een zaak van het type ‘regelwijziging’ aangemaakt. &#xD;&#xA;&#xD;&#xA;Er is geen automatiseringsverwachting. Het binnenkomen van wijzigingen en het hierop uitvoeren van een relevantiecheck is (vooralsnog) een handmatige actie. Er zijn wel bronnen zoals wetten.nl die met notificaties voor wijzigingen werken. ">
+  <properties
+      key="post"
+      value="De regelwijziging is relevant bevonden en een nieuwe zaak van het type “Regelwijziging” is aangemaakt"/>
+  <properties
+      key="post"
+      value="De regelwijziging is niet relevant bevonden en geen nieuwe zaak is aangemaakt. "/>
+</archimate:BusinessProcess>

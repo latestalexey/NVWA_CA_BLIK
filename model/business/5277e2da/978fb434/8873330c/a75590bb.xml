@@ -1,0 +1,21 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="a75590bb"
+    name="Accorderen wijziging"
+    documentation="Het formaliseren van de wijziging en klaarzetten van de wijziging voor in productiename (wanneer komt het in de voorziening) en in uitvoeringsname (wanneer gebruiken we de regels in de voorziening).&#xD;&#xA;In INSPECT krijgt een medewerker een taak toegewezen om de wijziging te accorderen.&#xD;&#xA;">
+  <properties
+      key="pre"
+      value="Juridische toets = akkoord "/>
+  <properties
+      key="pre"
+      value="Uitvoerbaarheidstoets = akkoord (indien uitgevoerd) "/>
+  <properties
+      key="pre"
+      value="PAT = akkoord"/>
+  <properties
+      key="post"
+      value="Akkoord=ja en akkoord is vastgelegd "/>
+  <properties
+      key="post"
+      value="Akkoord=nee"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,242 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="4c245455"
+    name="PF23 KPI's">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a81bb3b0"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/a6966b9b.xml#a6966b9b">
+    <bounds
+        x="96"
+        y="228"
+        width="169"
+        height="76"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="fbe95c2e"
+        source="#a81bb3b0"
+        target="#75f4e688"
+        relationship="archimate:AssociationRelationship ../../relations/c3da3cde.xml#c3da3cde"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="75f4e688"
+      textAlignment="2"
+      targetConnections="#fbe95c2e #ebdfd022 #31556a21 #5f7b6b46 #faaeab6e #69d840ab #b4e82009 #f791a711 #94c587f6 #f7357222 #2f43fa74 #9a6e2fc6 #3e21f1ee"
+      archimateElement="archimate:BusinessProcess ../../business/5277e2da/3e0e9fd2/c3f832fb.xml#c3f832fb">
+    <bounds
+        x="96"
+        y="420"
+        width="1321"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f54293b0"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/0f55cfce.xml#0f55cfce">
+    <bounds
+        x="192"
+        y="318"
+        width="169"
+        height="76"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="5f7b6b46"
+        source="#f54293b0"
+        target="#75f4e688"
+        relationship="archimate:AssociationRelationship ../../relations/de62d72f.xml#de62d72f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="26e043c2"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/39e8d54e.xml#39e8d54e">
+    <bounds
+        x="288"
+        y="228"
+        width="169"
+        height="76"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="ebdfd022"
+        source="#26e043c2"
+        target="#75f4e688"
+        relationship="archimate:AssociationRelationship ../../relations/ae0d9fb6.xml#ae0d9fb6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e0658469"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/6b0e7d59.xml#6b0e7d59">
+    <bounds
+        x="384"
+        y="318"
+        width="169"
+        height="76"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="faaeab6e"
+        source="#e0658469"
+        target="#75f4e688"
+        relationship="archimate:AssociationRelationship ../../relations/e0650267.xml#e0650267"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="9fa55f98"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/df2fbbb5.xml#df2fbbb5">
+    <bounds
+        x="480"
+        y="228"
+        width="169"
+        height="76"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="31556a21"
+        source="#9fa55f98"
+        target="#75f4e688"
+        relationship="archimate:AssociationRelationship ../../relations/95fd2d71.xml#95fd2d71"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6813525b"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/6bcd80b6.xml#6bcd80b6">
+    <bounds
+        x="576"
+        y="318"
+        width="169"
+        height="76"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="b4e82009"
+        source="#6813525b"
+        target="#75f4e688"
+        relationship="archimate:AssociationRelationship ../../relations/d25f075b.xml#d25f075b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="5cf3e653"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/85cc8c96.xml#85cc8c96">
+    <bounds
+        x="672"
+        y="228"
+        width="169"
+        height="76"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="69d840ab"
+        source="#5cf3e653"
+        target="#75f4e688"
+        relationship="archimate:AssociationRelationship ../../relations/13e1c4cd.xml#13e1c4cd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="027b8888"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/8b943331.xml#8b943331">
+    <bounds
+        x="768"
+        y="318"
+        width="169"
+        height="76"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="94c587f6"
+        source="#027b8888"
+        target="#75f4e688"
+        relationship="archimate:AssociationRelationship ../../relations/ccb3b871.xml#ccb3b871"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="40866c70"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/6fb03ea1.xml#6fb03ea1">
+    <bounds
+        x="864"
+        y="228"
+        width="169"
+        height="76"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="f791a711"
+        source="#40866c70"
+        target="#75f4e688"
+        relationship="archimate:AssociationRelationship ../../relations/f531370d.xml#f531370d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="622cbb13"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/6e3bcabb.xml#6e3bcabb">
+    <bounds
+        x="960"
+        y="318"
+        width="169"
+        height="76"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="3e21f1ee"
+        source="#622cbb13"
+        target="#75f4e688"
+        relationship="archimate:AssociationRelationship ../../relations/38321a8b.xml#38321a8b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="0e1fdc3d"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/ecef2260.xml#ecef2260">
+    <bounds
+        x="1056"
+        y="228"
+        width="169"
+        height="76"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="f7357222"
+        source="#0e1fdc3d"
+        target="#75f4e688"
+        relationship="archimate:AssociationRelationship ../../relations/c387b3b0.xml#c387b3b0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="56a8d38d"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/1c22da4a.xml#1c22da4a">
+    <bounds
+        x="1152"
+        y="318"
+        width="169"
+        height="76"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="9a6e2fc6"
+        source="#56a8d38d"
+        target="#75f4e688"
+        relationship="archimate:AssociationRelationship ../../relations/8bc1d1ce.xml#8bc1d1ce"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="832605d5"
+      textAlignment="2"
+      archimateElement="archimate:Assessment ../../motivation/e767b23a.xml#e767b23a">
+    <bounds
+        x="1248"
+        y="228"
+        width="169"
+        height="76"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="2f43fa74"
+        source="#832605d5"
+        target="#75f4e688"
+        relationship="archimate:AssociationRelationship ../../relations/4efb2c2c.xml#4efb2c2c"/>
+  </children>
+  <properties
+      key="_Project"
+      value="PF20"/>
+</archimate:ArchimateDiagramModel>

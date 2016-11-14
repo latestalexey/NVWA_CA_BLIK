@@ -893,7 +893,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="305714b1"
       textAlignment="2"
-      targetConnections="#8c24ce7e #df3c2d3a #b87f3466 #93c5fd26 #231d911c #b51d81a6 #f82109d1 #dc879dbf"
+      targetConnections="#8c24ce7e #df3c2d3a #b87f3466 #231d911c #b51d81a6 #f82109d1 #dc879dbf #93c5fd26"
       archimateElement="archimate:BusinessInteraction ../business/118d3038/f76c887f.xml#f76c887f">
     <bounds
         x="97"

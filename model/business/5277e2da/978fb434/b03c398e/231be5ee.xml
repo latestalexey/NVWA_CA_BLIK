@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="231be5ee"
+    name="Registreren regelwijziging"
+    documentation="Het aanvragen van een product ‘regelwijziging’ en vastleggen van de inputgegevens (zie automatiseringsverwachting voor een verdere detaillering.)&#xD;&#xA;&#xD;&#xA;Automatiseringsverwachting&#xD;&#xA;Aanvragen van een product.&#xD;&#xA;Aanmaken van een zaak.&#xD;&#xA;&#xD;&#xA;Vanuit de PDC kan een zaak ‘regelwijziging’ worden opgestart. Eerste taak binnen de zaak is ‘registreren wijziging’ hierbij worden de volgende gegevens vastgelegd:&#xD;&#xA;- scope van de wijziging (welke wet- en regelgeving betreft het?)&#xD;&#xA;- open tekstveld om vast te leggen met wie de regelwijziging is besproken en ook om een toelichting te geven van de wijziging. &#xD;&#xA;- domein (waar is de wet- en regelgeving van toepassing?) – meerdere keuzes mogelijk&#xD;&#xA;- datum wanneer wijziging van toepassing is (van kracht is) - optioneel&#xD;&#xA;- datum wanneer analyse moet zijn uitgevoerd&#xD;&#xA;- mogelijkheid om de zaak toe te wijzen (generiek) aan een team&#xD;&#xA;- mogelijkheid om documenten toe te voegen (generiek)&#xD;&#xA;&#xD;&#xA;Op basis van de datum waarop de analyse klaar moet zijn en de toewijzing wordt een signaal gegeven aan de zaakbehandelaar. Daarnaast ook termijnbewaking, waarbij de zaakbehandelaar een signaal krijgt indien de termijn dreigt te worden overschreden (parameter kunnen instellen)&#xD;&#xA;">
+  <properties
+      key="pre"
+      value="De regelwijziging is relevant bevonden."/>
+  <properties
+      key="post"
+      value="Er is een zaakbehandelaar aan wie de regelwijziging is toegewezen."/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="624414c4"
+    name="Opstellen inspectielijst"
+    documentation="Het voor een product uit de PDC van de NVWA samenstellen van controle-elementen uit de bedrijfsregels tot een inspectielijst inclusief het eventueel toevoegen van losse vragen (t.b.v. informatievergaring).&#xD;&#xA;Op basis van de aan het product gerelateerde wet- en regelgeving worden de controle-elementen voorgeselecteerd. De zaakbehandelaar kan los hiervan nog vragen t.b.v. informatievergaring opstellen. Met de selectie en de extra vragen stelt de zaakbehandelaar de inspectielijst samen.  &#xD;&#xA;">
+  <properties
+      key="pre"
+      value="De relevante wet- en regelgeving is geannoteerd beschikbaar in INSPECT, zodat de opsteller geen regelingen hoeft op te zoeken."/>
+</archimate:BusinessProcess>

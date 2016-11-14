@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="fcb987c3"
+    name="opstellen bedrijfsregels"
+    documentation="Bepalingen die uit het analyseren/annoteren van de wet- en regelgeving naar voren komen als overtreding benoemen. En het formuleren van de bijbehorende bedrijfsregels. O.a. het opstellen van de controle-elementen om na te kunnen gaan of de wet correct wordt gehandhaafd. &#xD;&#xA;Vragen worden idealiter afgeleid uit de annotatie via labels inclusief antwoordmogelijkheden. Daarnaast wordt de conditionaliteit tussen vragen automatisch afgeleid. &#xD;&#xA;">
+  <properties
+      key="pre"
+      value="De relevante wet- en regelgeving is geannoteerd beschikbaar in INSPECT, zodat de opsteller geen regelingen hoeft op te zoeken."/>
+  <properties
+      key="post"
+      value="Alle bepalingen met tenminste 1 annotatie kennen minimaal 1 bedrijfsregel;"/>
+  <properties
+      key="post"
+      value="Controle-elementen zijn compleet."/>
+</archimate:BusinessProcess>
