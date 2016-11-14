@@ -385,12 +385,6 @@
           height="121"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="670241b1"
-          source="#66b48e20"
-          target="#d17c9db1"
-          relationship="archimate:AggregationRelationship ../relations/b3fc71a3.xml#b3fc71a3"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="67ce7842"
           source="#66b48e20"
           target="#33948d59"
@@ -466,7 +460,6 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="d17c9db1"
           textAlignment="2"
-          targetConnections="#670241b1"
           archimateElement="archimate:BusinessProcess ../business/5277e2da/84336727/888bb224.xml#888bb224">
         <bounds
             x="940"
