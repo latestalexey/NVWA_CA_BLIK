@@ -49,6 +49,22 @@
           source="#bd333a65"
           target="#8952da24"
           relationship="archimate:TriggeringRelationship ../../../relations/52eabd75.xml#52eabd75"/>
+      <sourceConnections
+          id="6c81791b"
+          source="#bd333a65"
+          target="#26b448b2"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="26b448b2"
+        textAlignment="1"
+        targetConnections="#6c81791b"
+        content="Is dit niet meer dan een beslissing en daarmee niet een apart werkproces?">
+      <bounds
+          x="12"
+          y="228"
+          width="120"
+          height="80"/>
     </children>
   </children>
   <children
@@ -125,6 +141,22 @@
           source="#7bb51f49"
           target="#bd333a65"
           relationship="archimate:TriggeringRelationship ../../../relations/cf3bf21b.xml#cf3bf21b"/>
+      <sourceConnections
+          id="9db26617"
+          source="#7bb51f49"
+          target="#5ec4f3f0"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="5ec4f3f0"
+        textAlignment="1"
+        targetConnections="#9db26617"
+        content="is dit de enige processtap? In feite is dit toch het werkprocess wat nu in de maakplaats voor een groot deel gebeurt? Sowieso splitsen in modelleren en realiseren?">
+      <bounds
+          x="12"
+          y="240"
+          width="120"
+          height="193"/>
     </children>
   </children>
   <children
@@ -481,6 +513,10 @@
         source="#3caed90c"
         target="#52469bb2"
         relationship="archimate:TriggeringRelationship ../../../relations/2dd79e1d.xml#2dd79e1d"/>
+    <sourceConnections
+        id="3067d1c7"
+        source="#3caed90c"
+        target="#228e77a3"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -493,6 +529,10 @@
         y="420"
         width="120"
         height="55"/>
+    <sourceConnections
+        id="4550ba1e"
+        source="#c9c57a7c"
+        target="#64e0d4f6"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -517,6 +557,10 @@
         y="312"
         width="120"
         height="55"/>
+    <sourceConnections
+        id="50574db0"
+        source="#7ab56c1c"
+        target="#64e0d4f6"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -529,6 +573,10 @@
         y="604"
         width="120"
         height="55"/>
+    <sourceConnections
+        id="472f6aff"
+        source="#50516b35"
+        target="#64e0d4f6"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -541,5 +589,33 @@
         y="538"
         width="120"
         height="55"/>
+    <sourceConnections
+        id="9b280317"
+        source="#bf92d5d3"
+        target="#64e0d4f6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="64e0d4f6"
+      textAlignment="1"
+      targetConnections="#50574db0 #4550ba1e #9b280317 #472f6aff"
+      content="Volgens mij zijn dit bedrijfsobjecten en geen producten (die in de PDC komen">
+    <bounds
+        x="1560"
+        y="444"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="228e77a3"
+      textAlignment="1"
+      targetConnections="#3067d1c7"
+      content="Is idt een werkproces of een beslissing die onderdeel is van een een werkproces?">
+    <bounds
+        x="348"
+        y="444"
+        width="145"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
