@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="f73d2f14"
+    name="Bepalen afhandeling melding"
+    documentation="- Vaststellen of melding zelf moet worden afgehandeld of&#xD;&#xA;- Vaststellen of melding via een vervolgzaak (inspectie) moet worden afgehandeld en/of&#xD;&#xA;- Vaststellen of de melding ook moet leiden tot een RASFF / RAPEX bericht."/>
