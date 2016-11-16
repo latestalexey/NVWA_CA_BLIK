@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="0329fdd7"
+    name="Modellen/realiseren wijziging"
+    documentation="De modelleur gaat aan de gang om de regels in Blueriq te verwerken. Onder het modelleren vallen ook de verschillende standaardtesten, zoals de FAT, GAT en PAT.&#xD;&#xA;(Om te voorkomen dat alle handelingen van software-release hier worden uitgeschreven verstaan we onder deze handeling de normale procedure van software-releases volgens de NVWA richtlijnen vanuit functioneel beheer.)&#xD;&#xA;&#xD;&#xA;Idealiter zijn de wijzingen getoetst en akkoord bevonden door JZ en TU. Idealiter ook in een systeem ingevoerd gekoppeld aan Blueriq, zodanig dat de modelleur minimaal manueel werk hoeft te verrichten om de regels te implementeren.&#xD;&#xA;De regels worden ingebouwd in Blueriq en worden vervolgens indien van toepassing automatisch toegepast. &#xD;&#xA;">
+  <properties
+      key="pre"
+      value="Alle processtappen uit Specificeren wijziging zijn voltooid."/>
+  <properties
+      key="post"
+      value="PAT is akkoord"/>
+</archimate:BusinessProcess>
