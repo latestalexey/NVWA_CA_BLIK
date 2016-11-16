@@ -7,7 +7,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="55c4761c"
       textAlignment="2"
-      targetConnections="#cb596934 #e6b8b052 #737438c1 #8d8809f6 #ea275584 #f7eb0f9d #bd601a29 #c3067786 #b52969d1 #1ddbf0db #3a16ea03 #1e586569 #50953a50 #6a717193"
+      targetConnections="#cb596934 #e6b8b052 #737438c1 #8d8809f6 #ea275584 #f7eb0f9d #bd601a29 #c3067786 #1ddbf0db #3a16ea03 #1e586569 #50953a50 #6a717193"
       fillColor="#80ff80"
       archimateElement="archimate:ApplicationComponent ../../application/5eea8998/6bbb4007.xml#6bbb4007"
       type="1">
@@ -16,6 +16,13 @@
         y="169"
         width="1307"
         height="144"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="fb23b0fc"
+        lineColor="#80ff80"
+        source="#55c4761c"
+        target="#baa20916"
+        relationship="archimate:UsedByRelationship ../../relations/88d4456e.xml#88d4456e"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -118,7 +125,7 @@
       type="1">
     <bounds
         x="96"
-        y="433"
+        y="444"
         width="120"
         height="55"/>
     <sourceConnections
@@ -199,7 +206,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="87cb5dd0"
-        lineColor="#80ff80"
+        lineColor="#400040"
         source="#d4ac94c1"
         target="#223a2fd8"
         relationship="archimate:FlowRelationship ../../relations/7bea327d.xml#7bea327d"/>
@@ -336,7 +343,7 @@
       type="1">
     <bounds
         x="276"
-        y="433"
+        y="444"
         width="97"
         height="55"/>
     <sourceConnections
@@ -355,7 +362,7 @@
       type="1">
     <bounds
         x="444"
-        y="433"
+        y="444"
         width="97"
         height="55"/>
     <sourceConnections
@@ -374,7 +381,7 @@
       type="1">
     <bounds
         x="612"
-        y="433"
+        y="444"
         width="97"
         height="55"/>
     <sourceConnections
@@ -393,7 +400,7 @@
       type="1">
     <bounds
         x="780"
-        y="433"
+        y="444"
         width="97"
         height="55"/>
   </children>
@@ -406,7 +413,7 @@
       type="1">
     <bounds
         x="900"
-        y="433"
+        y="444"
         width="97"
         height="55"/>
   </children>
@@ -587,6 +594,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="baa20916"
       textAlignment="2"
+      targetConnections="#fb23b0fc"
       fillColor="#80ff80"
       archimateElement="archimate:ApplicationInteraction ../../application/18f32649/08aca4cd.xml#08aca4cd">
     <bounds
@@ -601,13 +609,6 @@
         source="#baa20916"
         target="#9515b7b5"
         relationship="archimate:UsedByRelationship ../../relations/487e1ca9.xml#487e1ca9"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="b52969d1"
-        lineColor="#80ff80"
-        source="#baa20916"
-        target="#55c4761c"
-        relationship="archimate:UsedByRelationship ../../relations/ac80754b.xml#ac80754b"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -840,9 +841,33 @@
       type="1">
     <bounds
         x="1032"
-        y="433"
+        y="444"
         width="116"
         height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="c2699324"
+      textAlignment="2"
+      fillColor="#ff0000"
+      archimateElement="archimate:ApplicationComponent ../../application/63c41458.xml#63c41458"
+      type="1">
+    <bounds
+        x="1308"
+        y="444"
+        width="120"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="143fdc9d"
+      textAlignment="1"
+      content="Applicatielandschap 2018&#xD;&#xA;&#xD;&#xA;Blauw &#x9;= Bestaande applicatie&#xD;&#xA;Groen &#x9;= Nieuwe applicatie/koppelvlak&#xD;&#xA;Rood&#x9;= Vervallen applicatie&#xD;&#xA;">
+    <bounds
+        x="1186"
+        y="-168"
+        width="253"
+        height="86"/>
   </children>
   <properties
       key="_Project"
