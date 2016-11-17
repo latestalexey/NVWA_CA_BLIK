@@ -1,0 +1,6 @@
+<archimate:FlowRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="03e957cf"
+    name="Tijdbesteding"
+    source="archimate:ApplicationComponent ../application/5eea8998/6bbb4007.xml#6bbb4007"
+    target="archimate:ApplicationComponent ../application/5eea8998/d742873f.xml#d742873f"/>
