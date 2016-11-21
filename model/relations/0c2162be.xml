@@ -1,0 +1,6 @@
+<archimate:FlowRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="0c2162be"
+    name="Zelfverklaring"
+    source="archimate:ApplicationComponent ../application/5eea8998/c710c4b9.xml#c710c4b9"
+    target="archimate:ApplicationComponent ../application/5eea8998/2e242e9e.xml#2e242e9e"/>
