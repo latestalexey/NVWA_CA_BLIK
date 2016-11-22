@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="72b27c00"
-    name="Rechts-regel"/>
+    name="Bepaling"
+    documentation="(Zie &quot;Proces Regelbeheersing (PF23) v0 9.docx&quot;)&#xD;&#xA;Elke regel, die onder het Nederlands recht door een rechter als geldend kan worden beschouwd wordt &quot;bepaling&quot; genoemd. Juridisch gezien is het een voorschrift van een wet, besluit of regeling of Europese regelgeving. &#xD;&#xA;Indien een artikel uit meerdere bepalingen bestaat, zijn deze volgens de Nederlandse conventies als lid weergegeven.&#xD;&#xA;Voor het refereren aan bepalingen worden de zogenaamde &quot;duurzame URL's&quot; gebruikt. Juriconnect 1.3 heeft daarbij een lichte voorkeur, maar elke op wetten.nl interpreteerbare  duurzame URL is toegestaan. "/>

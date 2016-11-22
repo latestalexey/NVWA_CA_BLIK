@@ -1,0 +1,7 @@
+<archimate:AssociationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="c387b3b0"
+    name="meting"
+    documentation="Het proces, dat via `meting` gekoppeld is aan een performance-indicator, beschikt over een voorziening om de geassocieerde performance-indicator te meten."
+    source="archimate:Assessment ../motivation/ecef2260.xml#ecef2260"
+    target="archimate:BusinessProcess ../business/5277e2da/3e0e9fd2/c3f832fb.xml#c3f832fb"/>

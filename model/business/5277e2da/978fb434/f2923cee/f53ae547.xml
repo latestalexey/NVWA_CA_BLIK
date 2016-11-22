@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="f53ae547"
+    name="Bepalen interventie &amp; follow-up"
+    documentation="Bepalen interventie en follow-up adhv het (specifiek) interventiebeleid van de NVWA. Bij een bepaalde overtredingsklasse hoort een bepaalde interventie en follow-up. Deze wordt in deze handeling bepaald. &#xD;&#xA;Interventies worden vastgelegd in het systeem. De follow-up volgt automatisch vanuit de bedrijfsregels uit het (specifiek) interventiebeleid.&#xD;&#xA;">
+  <properties
+      key="pre"
+      value="Overtredingen met overtredingsklasse zijn vastgelegd."/>
+</archimate:BusinessProcess>

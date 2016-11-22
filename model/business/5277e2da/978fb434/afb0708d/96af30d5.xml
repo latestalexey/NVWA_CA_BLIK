@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="96af30d5"
+    name="maken impact analyse"
+    documentation="Per wijziging aangeven hoeveel impact deze heeft op de reeds bestaande regels. De impactanalyse omvat:&#xD;&#xA;- Eventueel samenstellen van team om analyse uit te voeren&#xD;&#xA;- urgentie&#xD;&#xA;- grootte van de wijziging (alleen documentatie aanpassen of ook regels)&#xD;&#xA;- inventariseren van geraakte regelgeving&#xD;&#xA;- inlichten uitvoering en juridische zaken&#xD;&#xA;- inschatten of de wijziging met de voorgestelde aanpassingen ook werkbaar is. Zo nee, dan terug naar opdrachtgever, zo ja dan door.&#xD;&#xA;&#xD;&#xA;Van de automatisering wordt verwacht:&#xD;&#xA; - inzage in de bestaande bedrijfsregels die voor deze wet- en regelgeving van toepassing zijn, en&#xD;&#xA; - de mogelijkheid om nieuwe bedrijfsregels aan te maken en bestaande te wijzigen (met ingangsdatum)&#xD;&#xA;"/>

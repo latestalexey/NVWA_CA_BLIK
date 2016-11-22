@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="241a2c7e"
+    name="Bepalen overtredingsklasse / ernst"
+    documentation="Bepalen van de verschillende overtredingsklassen adhv de overtreding. Wanneer de mogelijke overtredingen zijn bepaald kunnen de sancties worden vastgesteld.  Het kan voorkomen dat voor een bepaling meerdere overtredingsklassen benoemd worden (dus meerdere bedrijfsregels specificeren)&#xD;&#xA;Vastleggen van de overtredingsklasse en ernst per bepaling.&#xD;&#xA;">
+  <properties
+      key="pre"
+      value="De relevante wet- en regelgeving is geannoteerd beschikbaar in INSPECT, zodat de opsteller geen regelingen hoeft op te zoeken."/>
+  <properties
+      key="post"
+      value="Voor elke overtreding bestaat 1 overtredingsklasse."/>
+</archimate:BusinessProcess>

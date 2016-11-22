@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="ee835269"
+    name="Releasen in voorziening (productiename)"
+    documentation="Het installeren en in productienemen van de gewijzigde regels in de basisvoorziening.&#xD;&#xA;Reguliere release werkzaamheden  zijn buiten scope.&#xD;&#xA;">
+  <properties
+      key="pre"
+      value="Managementtoets = akkoord"/>
+</archimate:BusinessProcess>

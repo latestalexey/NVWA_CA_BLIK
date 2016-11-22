@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="9064d37e"
+    name="toetsen uitvoerbaarheid regels"
+    documentation="Door TU wordt er getoetst op uitvoerbaarheid van de opgestelde bedrijfsregels. Dit kan door in het systeem te kijken of door middel van een (papieren) uitdraai of simulatie.&#xD;&#xA;De medewerker krijgt een taak toegewezen in de basisvoorziening om de wijziging te accorderen en dit vast te leggen. &#xD;&#xA;">
+  <properties
+      key="pre"
+      value="Alle processtappen uit Specificeren wijziging zijn voltooid."/>
+  <properties
+      key="post"
+      value="Akkoord=ja en akkoord is vastgelegd "/>
+  <properties
+      key="post"
+      value="Akkoord=nee en terug naar specificeren"/>
+</archimate:BusinessProcess>
