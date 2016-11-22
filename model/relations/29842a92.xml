@@ -1,0 +1,6 @@
+<archimate:FlowRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="29842a92"
+    name="Fysieke inspectie opdrachten"
+    source="archimate:ApplicationComponent ../application/5eea8998/b11cbcb2.xml#b11cbcb2"
+    target="archimate:ApplicationComponent ../application/5eea8998/dfe68039.xml#dfe68039"/>

@@ -1,0 +1,6 @@
+<archimate:FlowRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="2bb07e42"
+    name="Medewerker gegevens"
+    source="archimate:ApplicationComponent ../application/5eea8998/1c3ffe68.xml#1c3ffe68"
+    target="archimate:ApplicationComponent ../application/5eea8998/b5cc7a41.xml#b5cc7a41"/>

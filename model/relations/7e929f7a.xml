@@ -1,0 +1,6 @@
+<archimate:AssociationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="7e929f7a"
+    name="Inspectie werkzaamheden VIS"
+    source="archimate:ApplicationComponent ../application/5eea8998/1c3ffe68.xml#1c3ffe68"
+    target="archimate:BusinessActor ../business/b41962e1.xml#b41962e1"/>
