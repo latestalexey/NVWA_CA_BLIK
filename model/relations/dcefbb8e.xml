@@ -1,0 +1,7 @@
+<archimate:AssociationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="dcefbb8e"
+    name="draagt bij tot"
+    documentation="Zie &quot;Proces Regelbeheersing (PF23) v0 9.docx&quot;"
+    source="archimate:BusinessProcess ../business/5277e2da/3e0e9fd2/c3f832fb.xml#c3f832fb"
+    target="archimate:Principle ../motivation/07842be0/9c697791.xml#9c697791"/>

@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="f4dc8bdf"
-    name="Publiceren wijziging (regelgeving) &lt;&lt;werkproces>>"/>
+    name="Publiceren wijziging (regelgeving) &lt;&lt;werkproces>>"
+    documentation="Alle activiteiten die nodig zijn voor het beschikbaar stellen van de gewijzigde regels voor zowel de buitenwereld (publiceren) als de interne organisatie (instructies, etc.)&#xD;&#xA;Vanuit de regelbeheertooling is het mogelijk om direct de betreffende publicaties voor te bereiden, zonder dat de gegevens overgetypt hoeven te worden. Vervolgens kan de verantwoordelijk medewerker de begeleidende tekst invoeren en tot publicatie overgaan.&#xD;&#xA;"/>

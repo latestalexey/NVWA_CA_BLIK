@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="32a7da3b"
+    name="uitvoeren juridische toets"
+    documentation="Vanuit Juridische zaken wordt er getoetst of de gespecificeerde regelwijziging juridisch gezien correct is. &#xD;&#xA;De JZ-medewerker krijgt een taak toegewezen in de basisvoorziening om de wijziging te toetsen op juridische gronden. &#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="pre"
+      value="Alle processtappen uit Specificeren wijziging zijn voltooid."/>
+  <properties
+      key="post"
+      value="Akkoord=ja en akkoord is vastgelegd "/>
+  <properties
+      key="post"
+      value="Akkoord=nee en terug naar specificeren"/>
+</archimate:BusinessProcess>

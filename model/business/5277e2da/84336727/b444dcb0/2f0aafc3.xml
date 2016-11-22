@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="2f0aafc3"
-    name="Controleren wet en regelgeving (PF11) vervallen"
-    documentation="Nagaan of tussen het accorderen van de regelingsafspraak en het van start gaan van de regeling er wijzigingen in de relevante wet- en regelgeving hebben plaatsgevonden.&#xD;&#xA;Deze stap vervalt aangezien een wijziging in regelgeving het proces regelbeheersing moet triggeren en dit moet leiden tot een aangepaste controlelijst (productwijziging in de regelingsafspraak)"/>
+    name="Controleren wet en regelgeving (PF11)"
+    documentation="RVO gaat na of tussen het accorderen van de regelingsafspraak en het van start gaan van de regeling er wijzigingen in de relevante wet- en regelgeving hebben plaatsgevonden.&#xD;&#xA;Deze wijziging moet het proces regelbeheersing triggeren en dit moet leiden tot een aangepaste controle lijst (productspecificatie van regelingsafspraak)."/>

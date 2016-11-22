@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="7b3f75dd"
-    name="Controle element"/>
+    name="Controle-element"
+    documentation="Een controle-element is een tekst, die ten behoeve van het uitvoeren van een controle door een medewerker van de NVWA, in een software-applicatie wordt opgeslagen. Dit omvat zowel de vraag, hulptekst, invultekst voor Redenen van Wetenschap en overtredingsteksten. Controle-elementen maken deel uit van een bedrijfsregel."/>

@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="db823519"
+    name="aanpassen/opstellen instructies"
+    documentation="Instructies moeten worden aangepast naar aanleiding van de doorgevoerde wijziging. &#xD;&#xA;Hangt af van het soort documentatie: indien projectprotocollen moeten worden gewijzigd zal dit via de projectzaken in de basisvoorziening worden geregeld. Gewijzigde instructies bij bestaande regels lopen via de annotatietool/ regelbeheersingstool. Extra documentatie (via werkwijzer) worden op de huidige manier, via MS Word aangepast. &#xD;&#xA;">
+  <properties
+      key="pre"
+      value="De relevante wet- en regelgeving is geannoteerd beschikbaar in INSPECT, zodat de opsteller geen regelingen hoeft op te zoeken."/>
+  <properties
+      key="post"
+      value="De instructies bestaan."/>
+</archimate:BusinessProcess>
