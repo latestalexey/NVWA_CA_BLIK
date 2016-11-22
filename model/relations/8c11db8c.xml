@@ -1,0 +1,5 @@
+<archimate:AggregationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="8c11db8c"
+    source="archimate:BusinessFunction ../business/97eb5f35/bdeb0c06/fce76879.xml#fce76879"
+    target="archimate:BusinessProcess ../business/5277e2da/84336727/6b6a25df/28e4c158.xml#28e4c158"/>
