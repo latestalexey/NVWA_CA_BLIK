@@ -2,5 +2,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="832767a1"
     name="Te verzenden factuur"
+    documentation="Eenmaal per twee weken wordt een bestand aangeleverd aan Rotaform."
     source="archimate:ApplicationComponent ../application/5eea8998/24983dba.xml#24983dba"
-    target="archimate:BusinessActor ../business/ff8cf1ce.xml#ff8cf1ce"/>
+    target="archimate:BusinessActor ../business/d79adb61/ff8cf1ce.xml#ff8cf1ce"/>
