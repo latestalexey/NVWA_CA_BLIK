@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="7aebde14"
-    name="Versturen/vastleggen inspectiebericht"/>
+    name="Versturen/vastleggen inspectiebericht"
+    documentation="zolang er nog niet alle domeinen over zijn op INSPECT wordt voor die domeinen waarvan inspecties in een ander systeem worden geregistreerd een inspectiebericht gegenereerd. Dit is een bericht voor de 'inspectie uitvoerende partij'.  Ten behoeve van de termijn bewaking wordt dit bericht vastgelegd. "/>

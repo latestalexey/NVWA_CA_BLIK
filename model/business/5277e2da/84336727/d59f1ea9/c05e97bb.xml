@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="c05e97bb"
-    name="Invoeren terugkoppeling inspectieresultaat"/>
+    name="Invoeren terugkoppeling inspectieresultaat"
+    documentation="Het inspectieresultaat wordt voorzover van belang voor het afhandelen van de melding (automatisch) ingevoerd. Als het resultaat onvoldoende is voor het afhandelen van de melding, dan wordt contact opgenomen met de zaakverantwoordelijke van de inspectiezaak. "/>
