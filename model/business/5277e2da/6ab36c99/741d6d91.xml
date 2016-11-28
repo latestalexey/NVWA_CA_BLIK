@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="741d6d91"
+    name="Controleren aantal dagen voor vertrek"
+    documentation="Alleen indien sprake van transshipment:&#xD;&#xA;Indien er partijen aangeleverd worden voor transhipment, wordt gecontroleerd in hoeveel dagen de partij weer vertrekt.&#xD;&#xA;Vertrekt de partij binnen 7 dagen (haven) of 12 uur (vliegveld) dan door naar handeling 60&#xD;&#xA;Indien de partij tussen de 7 dagen &amp; 20 dagen of meer dan 20 dagen (haven) / 12 uur &amp; 48 uur of meer dan 48 uur (vliegveld) vertrekt dan wordt er een D-controle uitgevoerd en gaat de partij het normale traject in.&#xD;&#xA;"/>

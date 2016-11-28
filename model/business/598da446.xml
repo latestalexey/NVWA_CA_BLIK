@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="598da446"
+    name="Bepalen controle route"
+    documentation="Bepaal welke zendingen voor welke controle in aanmerking komen: enkel zegelcontrole, I-,M-controle (inclusief / exclusief organoleptisch en monster-onderzoek). &#xD;&#xA;Partijen die niet  geselecteerd zijn om gecontroleerd te worden zullen de status ‘geen controle’ krijgen waarna deze partij doorgaat naar afhandeling.&#xD;&#xA;"/>

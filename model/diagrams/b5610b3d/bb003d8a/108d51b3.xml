@@ -1,4 +1,365 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="108d51b3"
-    name="PF14.3 Importcontroles"/>
+    name="PF14.3 Importcontroles">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="149c5468"
+      textAlignment="2"
+      archimateElement="archimate:BusinessProcess ../../../business/5277e2da/7fed377f.xml#7fed377f">
+    <bounds
+        x="12"
+        y="216"
+        width="853"
+        height="157"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="eb91be6b"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/155db342/e04a3a53.xml#e04a3a53">
+      <bounds
+          x="24"
+          y="45"
+          width="141"
+          height="76"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="e952a007"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/155db342/9c3764b1.xml#9c3764b1">
+      <bounds
+          x="360"
+          y="45"
+          width="141"
+          height="76"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="87f8f249"
+        textAlignment="1"
+        content="naar analogie van export hier stap toevoegen over het verwerken van de aanvraag tot een zaak?">
+      <bounds
+          x="192"
+          y="45"
+          width="141"
+          height="76"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="61d9c624"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/155db342/7c47d884.xml#7c47d884">
+      <bounds
+          x="696"
+          y="45"
+          width="141"
+          height="76"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="1e887151"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/155db342/47be7bb1.xml#47be7bb1">
+      <bounds
+          x="528"
+          y="45"
+          width="141"
+          height="76"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="bd1dabd9"
+      textAlignment="1"
+      content="&quot;Aanpassen aanvraag&quot; is generieke functionaliteit die onderdeel moet zijn van het portaal.">
+    <bounds
+        x="372"
+        y="443"
+        width="133"
+        height="85"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="51ff13a5"
+      textAlignment="1"
+      content="versturen bericht is generieke functionaliteit die daar waar nodig kan worden aangeroepen bij een processtap">
+    <bounds
+        x="540"
+        y="381"
+        width="143"
+        height="86"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="09149187"
+      textAlignment="2"
+      archimateElement="archimate:BusinessProcess ../../../business/5277e2da/2de97965.xml#2de97965">
+    <bounds
+        x="900"
+        y="216"
+        width="853"
+        height="157"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="bbb3edf1"
+        source="#09149187"
+        target="#1dbdd633"
+        relationship="archimate:AggregationRelationship ../../../relations/cae7931c.xml#cae7931c"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="7bdc28df"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/6ab36c99/8ee3dd72.xml#8ee3dd72">
+      <bounds
+          x="360"
+          y="48"
+          width="141"
+          height="76"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="1dbdd633"
+        textAlignment="2"
+        targetConnections="#bbb3edf1"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/6ab36c99/741d6d91.xml#741d6d91">
+      <bounds
+          x="24"
+          y="48"
+          width="141"
+          height="76"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="20990034"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/6ab36c99/7bdc3368.xml#7bdc3368">
+      <bounds
+          x="192"
+          y="48"
+          width="141"
+          height="76"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="e4322d2d"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/6ab36c99/f24c817a.xml#f24c817a">
+      <bounds
+          x="528"
+          y="48"
+          width="141"
+          height="76"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="3d2b5246"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/6ab36c99/8b1e1e69.xml#8b1e1e69">
+      <bounds
+          x="696"
+          y="48"
+          width="141"
+          height="76"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="5f2435fb"
+      textAlignment="1"
+      content="Lijkt erg sterk op een business rule (rekenregel) die op basis van aangeven vertrekdatum bepaalt wanneer zending aankomt.&#xD;&#xA;">
+    <bounds
+        x="924"
+        y="384"
+        width="145"
+        height="97"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="874b61c4"
+      textAlignment="1"
+      content="Inloggen is een systeem functionaliteit die in het portaal wordt aangeboden aan bedrijven en burgers die een aanvraag willen doen bij de NVWA">
+    <bounds
+        x="36"
+        y="432"
+        width="145"
+        height="108"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="1e90e0ea"
+      textAlignment="1"
+      content="Uploaden van documenten is generieke functionaliteit die daar waar nodig toegepast wordt.">
+    <bounds
+        x="36"
+        y="557"
+        width="145"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="a7ae4405"
+      textAlignment="1"
+      content="Beheren importprofiel / risico eisen: onderdeel van productontwikkeling?&#xD;&#xA;">
+    <bounds
+        x="36"
+        y="384"
+        width="481"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="709cecd8"
+      textAlignment="2"
+      archimateElement="archimate:BusinessProcess ../../../business/5277e2da/778960d2.xml#778960d2">
+    <bounds
+        x="1788"
+        y="216"
+        width="361"
+        height="157"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="0f8b5b9a"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/0092d08a.xml#0092d08a">
+      <bounds
+          x="24"
+          y="48"
+          width="141"
+          height="76"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="ede92724"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/598da446.xml#598da446">
+      <bounds
+          x="192"
+          y="48"
+          width="141"
+          height="76"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="b5ef8254"
+      textAlignment="1"
+      content="Retributie proces is een ander (werk)proces. Hier vooral informatie bepalen dat input is voor dat proces.">
+    <bounds
+        x="711"
+        y="386"
+        width="142"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="1435b304"
+      textAlignment="1"
+      content="versturen bericht is generieke functionaliteit die daar waar nodig kan worden aangeroepen bij een processtap">
+    <bounds
+        x="1980"
+        y="390"
+        width="143"
+        height="86"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="c9cfb317"
+      textAlignment="2"
+      archimateElement="archimate:BusinessProcess ../../../business/2bfffc22.xml#2bfffc22">
+    <bounds
+        x="2172"
+        y="216"
+        width="985"
+        height="157"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="499467bb"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/2b992c0a.xml#2b992c0a">
+      <bounds
+          x="348"
+          y="48"
+          width="141"
+          height="76"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="4520f2fb"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/8a36c93c.xml#8a36c93c">
+      <bounds
+          x="504"
+          y="48"
+          width="141"
+          height="76"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="004415aa"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/6d2a0a4b.xml#6d2a0a4b">
+      <bounds
+          x="666"
+          y="48"
+          width="141"
+          height="76"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="5ada42f7"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/c9c9d31d.xml#c9c9d31d">
+      <bounds
+          x="12"
+          y="48"
+          width="141"
+          height="76"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="b762c7d9"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/6e5614bd.xml#6e5614bd">
+      <bounds
+          x="180"
+          y="48"
+          width="141"
+          height="76"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="d079c934"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/6859a510.xml#6859a510">
+      <bounds
+          x="828"
+          y="48"
+          width="141"
+          height="76"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="601df3be"
+      textAlignment="2"
+      archimateElement="archimate:BusinessProcess ../../../business/8cd7ba3b.xml#8cd7ba3b">
+    <bounds
+        x="3192"
+        y="216"
+        width="361"
+        height="157"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="3f25460d"
+      textAlignment="1"
+      content="In hoeverre is dit niet onderdeel van roosteren complex?">
+    <bounds
+        x="2180"
+        y="391"
+        width="809"
+        height="80"/>
+  </children>
+</archimate:ArchimateDiagramModel>
