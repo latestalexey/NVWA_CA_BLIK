@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="3ea036ca"
+    name="UItvoeren M-controle"
+    documentation="Voer de fysieke controle uit conform de procedures. Bepaal of er een moet plaatsvinden en/of er een monster genomen moet worden voor labonderzoek.&#xD;&#xA;&#xD;&#xA;Indien nodig/mogelijk DIP Stiks en/of snuffelhonden gebruiken. Daarnaast zou de voorkeur uitgaan naar meer mogelijkheden tot monsteronderzoek kits ter plaatse zodat monsters niet naar het laboratorium hoeven&#xD;&#xA;">
+  <properties
+      key="Post"
+      value="Indien sprake van monsterneming dan opstarten monsterneming zaak"/>
+</archimate:BusinessProcess>

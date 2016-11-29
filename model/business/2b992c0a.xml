@@ -1,4 +1,9 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="2b992c0a"
-    name="Vastleggen gekozen controle locatie"/>
+    name="Vastleggen gekozen controle locatie"
+    documentation="Wanneer een zending in aanmerking komt voor een O-controle en/of een M-controle kan de aanvrager kiezen naar welk controlepunt de partij gaat om gecontroleerd te worden. De NVWA geeft aan welke controlepunten beschikbaar zijn en legt de keuze vast.&#xD;&#xA;&#xD;&#xA;Beheerders van controlepunten bepalen wanneer het controlepunt open is om een partij te controleren en eventuele andere belangrijke informatie ten behoeve van het bepalen van beschikbare slots voor controle">
+  <properties
+      key="Pre"
+      value="I- / F-controle"/>
+</archimate:BusinessProcess>

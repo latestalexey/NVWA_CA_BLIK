@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="693736ae"
+    name="D-controle inslag"
+    documentation="Voer de D-controle uit conform de procedures en aan de hand van de opgegeven lijst uit. Bepaal of de D-controle akkoord is of niet.">
+  <properties
+      key="Post"
+      value="Indien akkoord dan naar &quot;I-controle inslag&quot;"/>
+  <properties
+      key="Post"
+      value="Indien niet akkoord met aanpassen/herstel mogelijk dan naar &quot;aanhouden partij&quot;"/>
+  <properties
+      key="Post"
+      value="Indien niet akkoord en partij wordt geweigerd dan naar werkproces Weigeren"/>
+</archimate:BusinessProcess>
