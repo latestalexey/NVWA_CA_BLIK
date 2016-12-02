@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="88976c4e"
+    name="Beoordelen resultaten controle"
+    documentation="Beoordeel de resultaten van de controle op basis van een controleformulier. Op basis hiervan beoordeelt de controleur of de partij door mag.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Post"
+      value="Indien resultaat akkoord dan door naar werkproces Afhandelen"/>
+  <properties
+      key="Post"
+      value="Indien resultaat niet akkoord dan door naar &quot;ontvangen verklaring omtrent herstel&quot;"/>
+</archimate:BusinessProcess>

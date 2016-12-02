@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="c8f844f4"
-    name="VGC Client Import"
-    documentation="koppeling met TRADES en Client&#xD;&#xA;Registreert gegevens van partijen die aangeboden worden voor veterinaire controle in een Buitengrens Inspectiepost, de resultaten van de uitgevoerde controles, de partijbeslissing en verzorgt de communicatie tussen alle betrokken partijen.&#xD;&#xA;"/>
+    name="VGC"
+    documentation="Veterinaire Grens Controle systeem.&#xD;&#xA;Koppeling met TRADES en Client&#xD;&#xA;Registreert gegevens van partijen die aangeboden worden voor veterinaire controle in een Buitengrens Inspectiepost, de resultaten van de uitgevoerde controles, de partijbeslissing en verzorgt de communicatie tussen alle betrokken partijen.&#xD;&#xA;"/>

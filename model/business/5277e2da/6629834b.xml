@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="6629834b"
+    name="Opstellen bericht voornemen tot weigeren"
+    documentation="Geef een voornemen tot weigeren af als de beoordeling niet akkoord is&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Post"
+      value="Indien aanvullende controle dan terug naar werkproces Inplannen controle om opnieuw in te plannen"/>
+</archimate:BusinessProcess>

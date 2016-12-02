@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="bce276f1"
+    name="Beoordelen verklaring 3e land / ketenbeding"
+    documentation="Beoordeel de verklaring voor acceptatie 3e land volgens de eisen van de NVWA. Indien dit niet oké is kan er door de aanbieder/aanvrager een zienswijze op deze beoordeling worden aangeleverd&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Post"
+      value="Indien niet akkoord dan aanvrager verzoeken om nieuwe zienswijze (&quot;ontvangen zienwswijze&quot;)"/>
+</archimate:BusinessProcess>

@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="7488f56b"
-    name="Factuur"
+    name="Factuurregel"
     documentation="Er is een geautomatiseerde koppeling."
     source="archimate:ApplicationComponent ../application/5eea8998/2a8f712b.xml#2a8f712b"
     target="archimate:ApplicationComponent ../application/5eea8998/1c3ffe68.xml#1c3ffe68"/>

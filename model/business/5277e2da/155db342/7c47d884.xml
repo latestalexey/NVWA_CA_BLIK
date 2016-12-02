@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="7c47d884"
+    name="Bepalen retributie"
+    documentation="Aan de hand van de aanmelding en het importprofiel / risico eisen worden de retributie-eisen opgesteld.&#xD;&#xA;Voor iedere partij wordt, afhankelijk van het type import en het product, een basis tarief gehanteerd, onafhankelijk of er ook een controle plaatsvindt.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Tenzij Doorvoer met extra eisen of certificaat ouder dan 3 dagen waarbij een Nederlands Exportcertificaat nodig is dan door naar Proces Exportcertificering&#xD;&#xA;">
+  <properties
+      key="Post"
+      value="Indien Transhipment dan door naar &quot;controleren aantal dagen voor vertrek&quot;"/>
+  <properties
+      key="Post"
+      value="Indien Doorvoer met extra eisen of certificaat ouder dan 3 dagen waarbij een Nederlands Exportcertificaat nodig is dan door naar Proces Exportcertificering"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="6e5614bd"
+    name="Bepalen terminal"
+    documentation="Wanneer een partij in aanmerking komt voor een zegelcontrole of specifiek benoemde goederen valt, dan wordt op basis van de beschikbare gegevens vanuit de aanmelding bepaald op welke terminal de partij aankomt zodat daar de beschikbaarheid van controleur (op afstand) bepaald kan worden">
+  <properties
+      key="_Info"
+      value="Speciefiek benoemde goederen / zegelcontrole"/>
+</archimate:BusinessProcess>
