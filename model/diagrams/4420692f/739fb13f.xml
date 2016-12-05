@@ -331,12 +331,6 @@
         source="#2bd2f319"
         target="#1a10255a"
         relationship="archimate:CompositionRelationship ../../relations/87e186d2.xml#87e186d2"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="bae0cc0e"
-        source="#2bd2f319"
-        target="#7dcf3ac2"
-        relationship="archimate:CompositionRelationship ../../relations/13ee6bb8.xml#13ee6bb8"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="37ce72c1"
@@ -377,7 +371,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="7dcf3ac2"
         textAlignment="2"
-        targetConnections="#bae0cc0e"
         fillColor="#ffff00"
         archimateElement="archimate:BusinessFunction ../../business/97eb5f35/b0746f54/2584aad7.xml#2584aad7">
       <bounds
