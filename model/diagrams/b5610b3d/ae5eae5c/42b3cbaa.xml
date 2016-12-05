@@ -2,7 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="42b3cbaa"
-    name="PF14 Keuren Slachtproces"
+    name="PF14_1 Keuren Slachtproces"
     connectionRouterType="1">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -676,4 +676,7 @@
       </children>
     </children>
   </children>
+  <properties
+      key="_Project"
+      value="PF14_1"/>
 </archimate:ArchimateDiagramModel>
