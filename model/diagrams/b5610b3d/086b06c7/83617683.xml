@@ -7,12 +7,12 @@
       xsi:type="archimate:DiagramModelNote"
       id="1ce88060"
       textAlignment="1"
-      content="Registreren Bezwaar gelijktrekken met klantinteractie voor andere aanvraag gestuurde processen???&#xD;&#xA;">
+      content="Registreren Bezwaar gelijktrekken met klantinteractie voor andere vraag gestuurde processen???&#xD;&#xA;">
     <bounds
-        x="24"
-        y="204"
-        width="209"
-        height="113"/>
+        x="-744"
+        y="108"
+        width="1021"
+        height="53"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -293,10 +293,10 @@
       xsi:type="archimate:DiagramModelNote"
       id="750841e7"
       textAlignment="1"
-      content="Wat is relatie met PF van Vraag tot Antwoord???&#xD;&#xA;">
+      content="Wat is relatie met PF van Vraag tot Antwoord?&#xD;&#xA;">
     <bounds
-        x="2642"
-        y="373"
+        x="2640"
+        y="377"
         width="143"
         height="80"/>
   </children>
@@ -304,11 +304,99 @@
       xsi:type="archimate:DiagramModelNote"
       id="d45e54ee"
       textAlignment="1"
-      content="Gaat het hier vooral om statusoverdracht naar gerelateerde zaken???&#xD;&#xA;">
+      content="Gaat het hier vooral om statusoverdracht naar gerelateerde zaken?&#xD;&#xA;">
     <bounds
         x="2808"
         y="377"
         width="145"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="882c1394"
+      textAlignment="2"
+      archimateElement="archimate:BusinessProcess ../../../business/5277e2da/84336727/4bfd02e7.xml#4bfd02e7">
+    <bounds
+        x="-744"
+        y="168"
+        width="1021"
+        height="193"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="cbf7b39f"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/da9a8963/7e707c1b.xml#7e707c1b">
+      <bounds
+          x="24"
+          y="60"
+          width="141"
+          height="76"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="8c163d58"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/da9a8963/b2224eed.xml#b2224eed">
+      <bounds
+          x="192"
+          y="60"
+          width="141"
+          height="76"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="2e2965f6"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/da9a8963/881efc43.xml#881efc43">
+      <bounds
+          x="864"
+          y="60"
+          width="141"
+          height="76"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="2e5bc50d"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/da9a8963/c25689fa.xml#c25689fa">
+      <bounds
+          x="360"
+          y="60"
+          width="141"
+          height="76"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="097fe065"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/da9a8963/715a1fb3.xml#715a1fb3">
+      <bounds
+          x="528"
+          y="60"
+          width="141"
+          height="76"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="4222c286"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/da9a8963/0fafcb0f.xml#0fafcb0f">
+      <bounds
+          x="698"
+          y="60"
+          width="141"
+          height="76"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="9199c4d2"
+      textAlignment="1"
+      content="De vraag is in hoeverre deze stap feitelijk overeenkomt met 'bellen bezwaarde' ">
+    <bounds
+        x="-37"
+        y="385"
+        width="134"
         height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>

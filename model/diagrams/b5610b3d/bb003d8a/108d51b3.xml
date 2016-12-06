@@ -568,30 +568,12 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="42a33f93"
-        textAlignment="2"
-        targetConnections="#2a5f7c61"
-        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/ed1c32fc/2159153f.xml#2159153f">
-      <bounds
-          x="1212"
-          y="252"
-          width="141"
-          height="76"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="6ac7ef7b"
-          source="#42a33f93"
-          target="#d141d5b5"
-          relationship="archimate:TriggeringRelationship ../../../relations/fd1d4f5d.xml#fd1d4f5d"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="d141d5b5"
         textAlignment="2"
-        targetConnections="#6ac7ef7b"
+        targetConnections="#ac75e24c"
         archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/ed1c32fc/e37729bd.xml#e37729bd">
       <bounds
-          x="1380"
+          x="1212"
           y="252"
           width="141"
           height="76"/>
@@ -609,7 +591,7 @@
         targetConnections="#c4038e70"
         archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/ed1c32fc/222b2426.xml#222b2426">
       <bounds
-          x="1543"
+          x="1375"
           y="252"
           width="141"
           height="76"/>
@@ -759,10 +741,10 @@
           height="76"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="2a5f7c61"
+          id="ac75e24c"
           source="#43226e51"
-          target="#42a33f93"
-          relationship="archimate:TriggeringRelationship ../../../relations/f9d6e536.xml#f9d6e536"/>
+          target="#d141d5b5"
+          relationship="archimate:TriggeringRelationship ../../../relations/7a8ae2d5.xml#7a8ae2d5"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -946,39 +928,6 @@
         relationship="archimate:TriggeringRelationship ../../../relations/ff236736.xml#ff236736"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="452c95d2"
-      textAlignment="1"
-      content="In Word doc O-controle; in Visio schema I-controle???">
-    <bounds
-        x="3726"
-        y="575"
-        width="293"
-        height="52"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="c0edea5f"
-      textAlignment="1"
-      content="In Word doc F-controle; in Visio schema M-controle???">
-    <bounds
-        x="4053"
-        y="575"
-        width="145"
-        height="64"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="3dc5d626"
-      textAlignment="1"
-      content="In Word doc F-controle; in Visio schema M-controle???">
-    <bounds
-        x="4737"
-        y="576"
-        width="145"
-        height="64"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e655afea"
       textAlignment="2"
@@ -1001,21 +950,10 @@
       textAlignment="1"
       content="link met GH is voor mij onduidelijk.">
     <bounds
-        x="4576"
+        x="4408"
         y="579"
         width="141"
         height="60"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="6eb2f6d8"
-      textAlignment="1"
-      content="Beschrijving ontbreekt in PPI document&#xD;&#xA;">
-    <bounds
-        x="4409"
-        y="580"
-        width="141"
-        height="61"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -1336,17 +1274,6 @@
         source="#c2285cd2"
         target="#eda072e5"
         relationship="archimate:TriggeringRelationship ../../../relations/14348cb2.xml#14348cb2"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="57dfb45c"
-      textAlignment="1"
-      content="In visio (1.1) I-controle maar in Word O-controle">
-    <bounds
-        x="4236"
-        y="132"
-        width="133"
-        height="64"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
