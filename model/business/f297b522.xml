@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="f297b522"
-    name="Beantwoorden vraag"/>
+    name="Beantwoorden vraag"
+    documentation="Indien een  antwoord op de vraag is gevonden, wordt het antwoord gekoppeld aan de vraag. D.w.z., wordt geregistreerd dat het gevonden standaard antwoord gebruikt zal worden om de vraag te beantwoorden. Het antwoord wordt verstuurd naar de vraagsteller."/>

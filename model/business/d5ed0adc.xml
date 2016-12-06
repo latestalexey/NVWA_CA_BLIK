@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="d5ed0adc"
-    name="Behandelen vraag"/>
+    name="Behandelen vraag"
+    documentation="De inhoudelijk deskundige  haalt de vraag zelf uit de groepsbak en wijst zichzelf toe als behandelaar. Inhoudelijke deskundige behandelt de vraag, formuleert het antwoord en legt het vast in de antwoorden database. Eenmaal geformuleerd voor de eerste keer, is een antwoord voor de volgende keer standaard. "/>
