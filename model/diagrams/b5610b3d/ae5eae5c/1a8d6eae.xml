@@ -307,29 +307,17 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c23e09ec"
         textAlignment="2"
-        targetConnections="#e1e1f5c4"
         archimateElement="archimate:BusinessProcess ../../../business/5277e2da/84336727/f97adfee.xml#f97adfee">
       <bounds
           x="12"
           y="36"
           width="433"
           height="109"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="6b83e5e9"
-          source="#c23e09ec"
-          target="#01ed724f"
-          relationship="archimate:TriggeringRelationship ../../../relations/8cf70443.xml#8cf70443">
-        <bendpoints
-            startX="-12"
-            startY="78"
-            endX="-642"
-            endY="20"/>
-      </sourceConnections>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="788053d0"
           textAlignment="2"
+          targetConnections="#e1e1f5c4"
           archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/72c5e612/ec28e8fd.xml#ec28e8fd">
         <bounds
             x="12"
@@ -506,6 +494,18 @@
               startY="429"
               endX="-456"
               endY="-15"/>
+        </sourceConnections>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="6b83e5e9"
+            source="#830afc42"
+            target="#01ed724f"
+            relationship="archimate:TriggeringRelationship ../../../relations/8cf70443.xml#8cf70443">
+          <bendpoints
+              startX="-12"
+              startY="78"
+              endX="-642"
+              endY="20"/>
         </sourceConnections>
       </children>
     </children>
@@ -777,28 +777,6 @@
             relationship="archimate:TriggeringRelationship ../../../relations/c0f5ef49.xml#c0f5ef49"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
-            id="e1e1f5c4"
-            source="#4b1ca724"
-            target="#c23e09ec"
-            relationship="archimate:TriggeringRelationship ../../../relations/df176465.xml#df176465">
-          <bendpoints
-              startX="-30"
-              startY="102"
-              endX="1488"
-              endY="186"/>
-          <bendpoints
-              startX="-1758"
-              startY="102"
-              endX="-240"
-              endY="186"/>
-          <bendpoints
-              startX="-1758"
-              startY="-66"
-              endX="-240"
-              endY="18"/>
-        </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
             id="29267dc3"
             source="#4b1ca724"
             target="#8ad4db6b"
@@ -890,6 +868,28 @@
               startY="463"
               endX="108"
               endY="-14"/>
+        </sourceConnections>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="e1e1f5c4"
+            source="#4b1ca724"
+            target="#788053d0"
+            relationship="archimate:TriggeringRelationship ../../../relations/df176465.xml#df176465">
+          <bendpoints
+              startX="-30"
+              startY="102"
+              endX="1488"
+              endY="186"/>
+          <bendpoints
+              startX="-1758"
+              startY="102"
+              endX="-240"
+              endY="186"/>
+          <bendpoints
+              startX="-1758"
+              startY="-66"
+              endX="-240"
+              endY="18"/>
         </sourceConnections>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"

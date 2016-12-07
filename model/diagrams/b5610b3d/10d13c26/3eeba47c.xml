@@ -222,6 +222,12 @@
             y="50"
             width="156"
             height="72"/>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="cb4ae217"
+            source="#900ea826"
+            target="#53a2a912"
+            relationship="archimate:TriggeringRelationship ../../../relations/703756e9.xml#703756e9"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -274,6 +280,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="53a2a912"
           textAlignment="2"
+          targetConnections="#cb4ae217"
           archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/49f9572b/c3f3cb20.xml#c3f3cb20">
         <bounds
             x="12"
