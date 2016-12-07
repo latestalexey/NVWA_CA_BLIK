@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="efe0fae2"
+    name="Besluiten en afhandelen"
+    documentation="Hieronder vallen de stappen die te maken hebben met beslissen, opstellen en verstrekken van het gevraagde product.&#xD;&#xA;&#xD;&#xA;Het verstrekken kan meervoudig zijn:&#xD;&#xA;- aan de aanvrager&#xD;&#xA;- naar een register&#xD;&#xA;- naar een publicatie (openbaarmaking)">
+  <properties
+      key="Status"
+      value="Geleverd"/>
+</archimate:BusinessProcess>
