@@ -664,12 +664,6 @@
         relationship="archimate:CompositionRelationship ../../relations/87e186d2.xml#87e186d2"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="93726669"
-        source="#2978c797"
-        target="#8402acdc"
-        relationship="archimate:CompositionRelationship ../../relations/13ee6bb8.xml#13ee6bb8"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="5cd03dfc"
         source="#2978c797"
         target="#2509a762"
@@ -808,7 +802,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="8402acdc"
         textAlignment="2"
-        targetConnections="#93726669"
         archimateElement="archimate:BusinessFunction ../../business/97eb5f35/b0746f54/2584aad7.xml#2584aad7">
       <bounds
           x="600"

@@ -1,5 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="e3f989f3"
-    name="Aanhouden partij"
-    documentation="Houdt de partij aan, als dat nog niet gedaan is.&#xD;&#xA;Partij wordt opgeslagen bij het SIP en er wordt een bericht verstuurd naar de Siphouder dat hij de partij moet aanhouden/opslaan&#xD;&#xA;"/>
