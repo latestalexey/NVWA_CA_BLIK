@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="e7e701b0"
+    name="Ontvangen zienswijze"
+    documentation="De aanvrager kan indien gewenst een zienswijze aanleveren op het voornemen tot weigeren. De zienswijze moet binnen 24 uur zijn aangeleverd&#xD;&#xA;">
+  <properties
+      key="Pre"
+      value="ontvangst binnen 24 uur na versturen bericht voornemen tot weigeren (???)"/>
+</archimate:BusinessProcess>
