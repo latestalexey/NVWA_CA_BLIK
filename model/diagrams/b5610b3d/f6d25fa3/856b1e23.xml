@@ -557,6 +557,17 @@
         width="3816"
         height="108"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="3ddf95c3"
+      textAlignment="1"
+      content="Deze stap lijkt nu dubelop te zijn met voorlaatste stap uit vorige werkproces">
+    <bounds
+        x="877"
+        y="582"
+        width="185"
+        height="80"/>
+  </children>
   <properties
       key="_Project"
       value="PF12"/>
