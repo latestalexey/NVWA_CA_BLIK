@@ -1,8 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="03ed0a74"
-    name="Selecteren productype (PF06)"
-    documentation="Selecteer aan de hand van de projectbeschrijving, de doelgroep en de resultaatgerichte opdracht welk bestaand producttype (en dus zaaktype) gebruikt gaat worden om de resultaatgerichte opdracht te realiseren.&#xD;&#xA;&#xD;&#xA;Voorbeelden van zaaktypen zijn:&#xD;&#xA;- Bedrijfsinspectie uitvoeren&#xD;&#xA;- Handhavingscommunicatie uitvoeren&#xD;&#xA;">
+    name="Selecteren productype"
+    documentation="Selecteer welk bestaand producttype (en dus zaaktype) gebruikt gaat worden om de aanpak te realiseren.&#xD;&#xA;&#xD;&#xA;Voorbeelden van zaaktypen zijn:&#xD;&#xA;- Bedrijfsinspectie uitvoeren&#xD;&#xA;- Handhavingscommunicatie uitvoeren&#xD;&#xA;- &#xD;&#xA;">
   <properties
       key="pre"
       value="opstellen handhavingsprogramma is voltooid"/>
