@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="66bde01d"
     name="Bepalen werkvoorraad"
-    documentation="Bij het selecteren ontstaat de werkvoorraad van uit te voeren controles (zaken) en wordt deze door het systeem bepaald en toegewezen aan een org eenheid."/>
+    documentation="Bij het selecteren ontstaat de werkvoorraad van uit te voeren controles (zaken) en wordt deze door het systeem bepaald en toegewezen aan een org eenheid. Binnen de werkvoorraad kan het zijn dat zaken kunnen worden gecombineerd in 1 bezoek waardoor dit efficienter is voor NVWA. Dit combineren is onderdeel van het operationeel roosteren van werk (toewijzen)"/>

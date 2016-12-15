@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="8d57e1bc"
     name="Toewijzen projectopdracht"
-    documentation="De projectleider ontvangt en accepteert de projectopdracht uit het handhavingsplan"/>
+    documentation="De projectleider ontvangt en accepteert de projectopdracht uit het handhavingsplan">
+  <properties
+      key="Pre"
+      value="proces Formuleren projectopdracht = voltooid"/>
+</archimate:BusinessProcess>
