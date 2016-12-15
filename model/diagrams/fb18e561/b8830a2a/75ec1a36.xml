@@ -15,12 +15,6 @@
         height="361"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="f0eb793b"
-        source="#9f14e96e"
-        target="#c6e7ead0"
-        relationship="archimate:CompositionRelationship ../../../relations/00c9f3b4.xml#00c9f3b4"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="b59b8c96"
         source="#9f14e96e"
         target="#65016051"
@@ -120,7 +114,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c6e7ead0"
         textAlignment="2"
-        targetConnections="#f0eb793b"
         fillColor="#ffffff"
         archimateElement="archimate:BusinessInteraction ../../../business/118d3038/3d0bd403.xml#3d0bd403">
       <bounds
