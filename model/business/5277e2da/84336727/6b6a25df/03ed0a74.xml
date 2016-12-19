@@ -1,7 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="03ed0a74"
-    name="Selecteren productype"
+    name="Selecteren producttype"
     documentation="Selecteer welk bestaand producttype (en dus zaaktype) gebruikt gaat worden om de aanpak te realiseren.&#xD;&#xA;&#xD;&#xA;Voorbeelden van zaaktypen zijn:&#xD;&#xA;- Bedrijfsinspectie uitvoeren&#xD;&#xA;- Handhavingscommunicatie uitvoeren&#xD;&#xA;- &#xD;&#xA;">
   <properties
       key="pre"
