@@ -9,8 +9,8 @@
       textAlignment="1"
       content="Roosteren complex?&#xD;&#xA;">
     <bounds
-        x="1884"
-        y="408"
+        x="1836"
+        y="420"
         width="157"
         height="73"/>
   </children>
@@ -193,18 +193,6 @@
         y="480"
         width="1405"
         height="163"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="c794fd00"
-        source="#a9fb8706"
-        target="#82f68fc1"
-        relationship="archimate:UsedByRelationship ../../../relations/da8b305c.xml#da8b305c"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="9ab23360"
-        source="#a9fb8706"
-        target="#b4dad813"
-        relationship="archimate:UsedByRelationship ../../../relations/c693f717.xml#c693f717"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="94d794f1"
@@ -627,7 +615,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="82f68fc1"
       textAlignment="2"
-      targetConnections="#2150afa6 #c794fd00 #ef8525fb #a88d2cbd"
+      targetConnections="#2150afa6 #ef8525fb #a88d2cbd"
       archimateElement="archimate:BusinessInteraction ../../../business/118d3038/968555d9.xml#968555d9">
     <bounds
         x="-888"
@@ -645,7 +633,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b4dad813"
       textAlignment="2"
-      targetConnections="#87e21e99 #8b5ded9d #36c2cd7e #9ab23360"
+      targetConnections="#87e21e99 #8b5ded9d #36c2cd7e"
       archimateElement="archimate:BusinessInteraction ../../../business/118d3038/cae86708.xml#cae86708">
     <bounds
         x="-576"
