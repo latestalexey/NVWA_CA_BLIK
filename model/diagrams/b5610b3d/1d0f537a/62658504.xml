@@ -9,9 +9,9 @@
       textAlignment="2"
       archimateElement="archimate:BusinessProcess ../../../business/5277e2da/3e0e9fd2/4b3887e6.xml#4b3887e6">
     <bounds
-        x="96"
+        x="456"
         y="24"
-        width="5950"
+        width="5590"
         height="108"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -710,7 +710,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="154efac2"
         textAlignment="2"
-        archimateElement="archimate:BusinessProcess ../../../business/314f85e7.xml#314f85e7">
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/314f85e7.xml#314f85e7">
       <bounds
           x="13"
           y="60"

@@ -256,10 +256,10 @@
         id="97ccf6b2"
         textAlignment="2"
         targetConnections="#5d49e910"
-        archimateElement="archimate:BusinessProcess ../../../business/bedaae12.xml#bedaae12">
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/bedaae12.xml#bedaae12">
       <bounds
-          x="768"
-          y="83"
+          x="756"
+          y="85"
           width="144"
           height="72"/>
     </children>

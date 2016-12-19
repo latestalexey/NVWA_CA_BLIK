@@ -181,7 +181,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="1ece2f0a"
         textAlignment="2"
-        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/49f9572b/31e896fd.xml#31e896fd">
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/60224a69/31e896fd.xml#31e896fd">
       <bounds
           x="35"
           y="46"
@@ -192,7 +192,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="a994d06d"
         textAlignment="2"
-        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/49f9572b/7208d134.xml#7208d134">
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/60224a69/7208d134.xml#7208d134">
       <bounds
           x="191"
           y="46"
@@ -203,7 +203,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="aa4085d6"
         textAlignment="2"
-        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/49f9572b/3d124294.xml#3d124294">
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/60224a69/3d124294.xml#3d124294">
       <bounds
           x="355"
           y="46"
@@ -221,7 +221,7 @@
         id="addde4f0"
         textAlignment="2"
         targetConnections="#741fb589"
-        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/49f9572b/17d725be.xml#17d725be">
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/60224a69/17d725be.xml#17d725be">
       <bounds
           x="516"
           y="48"
@@ -239,7 +239,7 @@
         id="29791a59"
         textAlignment="2"
         targetConnections="#824af03d"
-        archimateElement="archimate:BusinessProcess ../../../business/b293e764.xml#b293e764">
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/60224a69/b293e764.xml#b293e764">
       <bounds
           x="689"
           y="48"

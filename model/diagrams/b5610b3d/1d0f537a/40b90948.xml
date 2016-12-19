@@ -2,12 +2,12 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="40b90948"
-    name="PFyy Afdoening">
+    name="PF10 Afdoening">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b902e539"
       textAlignment="2"
-      archimateElement="archimate:BusinessProcess ../../../business/4b658a2a.xml#4b658a2a">
+      archimateElement="archimate:BusinessProcess ../../../business/5277e2da/84336727/4b658a2a.xml#4b658a2a">
     <bounds
         x="24"
         y="384"
@@ -23,7 +23,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="2355e205"
         textAlignment="2"
-        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/39823425/7bac72fd.xml#7bac72fd">
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/301e3a0c/7bac72fd.xml#7bac72fd">
       <bounds
           x="12"
           y="22"
@@ -34,7 +34,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="7132dbd3"
         textAlignment="2"
-        archimateElement="archimate:BusinessProcess ../../../business/fe386a12.xml#fe386a12">
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/301e3a0c/fe386a12.xml#fe386a12">
       <bounds
           x="768"
           y="22"
@@ -45,7 +45,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="cb76536f"
         textAlignment="2"
-        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/a1401c3a/f836f903.xml#f836f903">
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/b3873b5b/f836f903.xml#f836f903">
       <bounds
           x="996"
           y="12"
@@ -237,7 +237,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="8539d65b"
         textAlignment="2"
-        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/a1401c3a/f836f903.xml#f836f903">
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/b3873b5b/f836f903.xml#f836f903">
       <bounds
           x="996"
           y="24"
@@ -390,7 +390,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="a50993ab"
         textAlignment="2"
-        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/a1401c3a/f836f903.xml#f836f903">
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/b3873b5b/f836f903.xml#f836f903">
       <bounds
           x="996"
           y="24"
