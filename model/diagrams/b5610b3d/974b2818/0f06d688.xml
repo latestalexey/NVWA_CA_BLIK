@@ -610,6 +610,17 @@
         width="1284"
         height="219"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="bd99ab5c"
+      textAlignment="1"
+      content="Gaat het hier om het ontwikkelen van een nieuw product? Via werkproces in PF06?">
+    <bounds
+        x="1284"
+        y="828"
+        width="145"
+        height="80"/>
+  </children>
   <properties
       key="_Project"
       value="PF13"/>
