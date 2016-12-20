@@ -1,0 +1,88 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="1498a868"
+    name="Complex roosteren">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="73f3ba56"
+      textAlignment="2"
+      archimateElement="archimate:BusinessProcess ../../../business/5277e2da/84336727/e1253913.xml#e1253913">
+    <bounds
+        y="12"
+        width="840"
+        height="192"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="a534b916"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/60224a69/31e896fd.xml#31e896fd">
+      <bounds
+          x="35"
+          y="46"
+          width="135"
+          height="95"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="24bfc937"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/60224a69/7208d134.xml#7208d134">
+      <bounds
+          x="191"
+          y="46"
+          width="135"
+          height="95"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="13b48aae"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/60224a69/3d124294.xml#3d124294">
+      <bounds
+          x="355"
+          y="46"
+          width="135"
+          height="95"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="5ecf8b15"
+          source="#13b48aae"
+          target="#b582eca1"
+          relationship="archimate:TriggeringRelationship ../../../relations/814023ce.xml#814023ce"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="b582eca1"
+        textAlignment="2"
+        targetConnections="#5ecf8b15"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/60224a69/17d725be.xml#17d725be">
+      <bounds
+          x="516"
+          y="48"
+          width="135"
+          height="95"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="9861e396"
+          source="#b582eca1"
+          target="#84537278"
+          relationship="archimate:TriggeringRelationship ../../../relations/511107c3.xml#511107c3"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="84537278"
+        textAlignment="2"
+        targetConnections="#9861e396"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/60224a69/b293e764.xml#b293e764">
+      <bounds
+          x="689"
+          y="48"
+          width="120"
+          height="95"/>
+    </children>
+  </children>
+  <properties
+      key="_Project"
+      value="ComplexRoosteren"/>
+</archimate:ArchimateDiagramModel>
