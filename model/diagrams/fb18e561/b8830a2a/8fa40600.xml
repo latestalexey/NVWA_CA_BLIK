@@ -197,17 +197,6 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="dbf05491"
-          textAlignment="2"
-          archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/b3873b5b/f836f903.xml#f836f903">
-        <bounds
-            x="996"
-            y="24"
-            width="120"
-            height="109"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
           id="6f1cf5bd"
           textAlignment="2"
           targetConnections="#85370e7f"
@@ -275,6 +264,17 @@
             y="21"
             width="120"
             height="55"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="499e35f5"
+          textAlignment="2"
+          archimateElement="archimate:BusinessProcess ../../../business/5277e2da/bedaae12.xml#bedaae12">
+        <bounds
+            x="996"
+            y="24"
+            width="120"
+            height="109"/>
       </children>
     </children>
   </children>
