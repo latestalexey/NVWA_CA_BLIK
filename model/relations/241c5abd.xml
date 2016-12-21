@@ -1,6 +1,6 @@
 <archimate:FlowRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="241c5abd"
-    name="Factuurregel"
+    name="Retributiegegevens"
     source="archimate:ApplicationComponent ../application/5eea8998/c8f844f4.xml#c8f844f4"
     target="archimate:ApplicationComponent ../application/5eea8998/1c3ffe68.xml#1c3ffe68"/>
