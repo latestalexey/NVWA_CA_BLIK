@@ -1,6 +1,0 @@
-<archimate:TriggeringRelationship
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="9aa7de72"
-    name="Nieuwe zaak"
-    source="archimate:BusinessProcess ../business/5277e2da/978fb434/197427a0/c5419635.xml#c5419635"
-    target="archimate:BusinessProcess ../business/5277e2da/978fb434/da9a8963/7e707c1b.xml#7e707c1b"/>

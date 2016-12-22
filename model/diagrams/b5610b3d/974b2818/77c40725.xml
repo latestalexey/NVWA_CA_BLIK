@@ -53,12 +53,6 @@
             y="51"
             width="144"
             height="73"/>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="e55b89b4"
-            source="#f3a173fe"
-            target="#a44ab5ef"
-            relationship="archimate:TriggeringRelationship ../../../relations/b0cf1f26.xml#b0cf1f26"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -99,7 +93,6 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="a44ab5ef"
           textAlignment="2"
-          targetConnections="#e55b89b4"
           archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/855455ab/3562ec5e.xml#3562ec5e">
         <bounds
             x="759"

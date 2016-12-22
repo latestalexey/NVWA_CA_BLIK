@@ -336,7 +336,6 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="592dcbd8"
           textAlignment="2"
-          targetConnections="#a75746ba"
           archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/408716a8/20a1f2d8.xml#20a1f2d8">
         <bounds
             x="528"
@@ -373,12 +372,6 @@
             y="36"
             width="138"
             height="73"/>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="a75746ba"
-            source="#4dadd4f9"
-            target="#592dcbd8"
-            relationship="archimate:TriggeringRelationship ../../../relations/2d28795f.xml#2d28795f"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="c3acec57"

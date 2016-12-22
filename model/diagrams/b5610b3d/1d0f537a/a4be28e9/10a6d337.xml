@@ -14,12 +14,6 @@
         y="192"
         width="1537"
         height="552"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="9641cb7f"
-        source="#23b79861"
-        target="#315f5a71"
-        relationship="archimate:AggregationRelationship ../../../../relations/4cc94efc.xml#4cc94efc"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="6ebd25d6"
@@ -97,7 +91,7 @@
           textAlignment="2"
           targetConnections="#c44f3fea #5ba301a3"
           fillColor="#98eb94"
-          archimateElement="archimate:BusinessProcess ../../../../business/5277e2da/978fb434/a1401c3a/f836f903.xml#f836f903">
+          archimateElement="archimate:BusinessProcess ../../../../business/5277e2da/978fb434/b3873b5b/f836f903.xml#f836f903">
         <bounds
             x="852"
             y="24"
@@ -568,7 +562,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="315f5a71"
         textAlignment="2"
-        targetConnections="#9641cb7f"
         archimateElement="archimate:BusinessProcess ../../../../business/5277e2da/84336727/ce98d16a.xml#ce98d16a">
       <bounds
           x="36"
@@ -609,7 +602,7 @@
           id="9e674f2b"
           textAlignment="2"
           targetConnections="#620aa9a9"
-          archimateElement="archimate:BusinessProcess ../../../../business/5277e2da/978fb434/39823425/7bac72fd.xml#7bac72fd">
+          archimateElement="archimate:BusinessProcess ../../../../business/5277e2da/978fb434/301e3a0c/7bac72fd.xml#7bac72fd">
         <bounds
             x="204"
             y="24"
@@ -678,7 +671,7 @@
           textAlignment="2"
           targetConnections="#c6da78ce #bd9b8af3"
           fillColor="#98eb94"
-          archimateElement="archimate:BusinessProcess ../../../../business/5277e2da/978fb434/a1401c3a/f836f903.xml#f836f903">
+          archimateElement="archimate:BusinessProcess ../../../../business/5277e2da/978fb434/b3873b5b/f836f903.xml#f836f903">
         <bounds
             x="1044"
             y="36"

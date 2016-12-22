@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="53a4d77a"
-    name="ODS"/>
+    name="SAS (ODS)"
+    documentation="An operational data store (or &quot;ODS&quot;) is a database designed to integrate data from multiple sources for additional operations on the data. Unlike a master data store, the data is not passed back to operational systems. It may be passed for further operations and to the data warehouse for reporting.&#xD;&#xA;&#xD;&#xA;Because the data originate from multiple sources, the integration often involves cleaning, resolving redundancy and checking against business rules for integrity. An ODS is usually designed to contain low-level or atomic (indivisible) data (such as transactions and prices) with limited history that is captured &quot;real time&quot; or &quot;near real time&quot; as opposed to the much greater volumes of data stored in the data warehouse generally on a less-frequent basis.&#xD;&#xA;"/>

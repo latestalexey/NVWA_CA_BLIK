@@ -7,7 +7,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="721a1052"
       textAlignment="2"
-      targetConnections="#b842afa0 #12cbce61"
+      targetConnections="#12cbce61"
       archimateElement="archimate:BusinessProcess ../../../../business/5277e2da/3e0e9fd2/3826ce1b.xml#3826ce1b">
     <bounds
         x="900"
@@ -55,12 +55,6 @@
         y="372"
         width="2407"
         height="336"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="d89ef470"
-        source="#17b9ed42"
-        target="#aa2c4da7"
-        relationship="archimate:AggregationRelationship ../../../../relations/dc6f207b.xml#dc6f207b"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="0c44b562"
@@ -102,7 +96,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="aa2c4da7"
         textAlignment="2"
-        targetConnections="#d89ef470 #74805345"
         archimateElement="archimate:BusinessProcess ../../../../business/5277e2da/84336727/9f637279.xml#9f637279">
       <bounds
           x="1512"
@@ -276,12 +269,6 @@
           y="48"
           width="1441"
           height="241"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="74805345"
-          source="#1a76c0c7"
-          target="#aa2c4da7"
-          relationship="archimate:TriggeringRelationship ../../../../relations/90bb7195.xml#90bb7195"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="baee26a8"
@@ -384,12 +371,6 @@
               y="60"
               width="133"
               height="61"/>
-          <sourceConnections
-              xsi:type="archimate:DiagramModelArchimateConnection"
-              id="b842afa0"
-              source="#65e64155"
-              target="#721a1052"
-              relationship="archimate:TriggeringRelationship ../../../../relations/ed77c172.xml#ed77c172"/>
         </children>
       </children>
       <children
