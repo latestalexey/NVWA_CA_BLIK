@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="7e929f7a"
-    name="Factuurregel"
+    name="Retributiegegevens"
+    documentation="Een NVWA medewerker registreert direct in FATIJDEC de retributies voor:&#xD;&#xA;- VIS&#xD;&#xA;- Audits&#xD;&#xA;- Registraties van bedrijven"
     source="archimate:ApplicationComponent ../application/5eea8998/1c3ffe68.xml#1c3ffe68"
     target="archimate:BusinessActor ../business/b41962e1.xml#b41962e1"/>
