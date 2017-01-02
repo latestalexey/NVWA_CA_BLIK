@@ -2,8 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="47bae132"
     name="Beschrijven handhavingsmix"
-    documentation="Bepaal een effectieve mix van methoden en bijbehorende  instrumenten per risico-reductie doelstelling (naleving). De mix komt tot stand op basis van het risicobeeld (risicoanalyse uit naleefbeeld) en motieven van betrokken doelgroepen (doelgroepbeeld) en het beschikbare budget.  &#xD;&#xA;De handhavingsmix bestaat dus uit uitvoeringsprojecten die klaar zijn om te worden uitgevoerd.&#xD;&#xA;Als de mix niet kan worden beschreven omdat er eerst nog een instrument of product moet worden ontwikkeld dan moet dit als ontwikkelproject in het HHplan worden opgenomen.&#xD;&#xA;Deze processtap was eerder in de uitwerking van geprogrammeerde handhaving bij het opstellen projectprotocol benoemd als processtap &quot;bepalen inspectie aanpak&quot; en is daar hernoemd naar &quot;bepalen producttype&quot;. ">
+    documentation="Bepaal een effectieve mix van methoden en bijbehorende  instrumenten per risico-reductie doelstelling (naleving). De mix komt tot stand op basis van het risicobeeld (risicoanalyse uit naleefbeeld) en motieven van betrokken doelgroepen (doelgroepbeeld) en het beschikbare budget.  &#xD;&#xA;De handhavingsmix bestaat dus uit uitvoeringsprojecten die klaar zijn om te worden uitgevoerd.&#xD;&#xA;Als de mix niet kan worden beschreven omdat er eerst nog een instrument of product moet worden ontwikkeld dan moet dit als ontwikkelproject in het HHplan worden opgenomen.&#xD;&#xA;Deze processtap was eerder in de uitwerking van geprogrammeerde handhaving bij het opstellen projectprotocol benoemd als processtap &quot;bepalen inspectie aanpak&quot; en is daar hernoemd naar &quot;selecteren producttype&quot;. ">
   <properties
       key="Pre"
       value="proces beschrijven doelgroepbeeld = voltooid"/>
+  <properties
+      key="Pre"
+      value="proces ontwikkelen handhavingsmix = voltooid"/>
 </archimate:BusinessProcess>

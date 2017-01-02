@@ -5,8 +5,5 @@
     documentation="Een HHplan beslaat X jaar en wordt doorlopend geactualiseerd naar mate de projecten vorderen en naar aanleiding van de evaluatie van de gekozen mix en het bereikte effect.">
   <properties
       key="Pre"
-      value="proces beschrijven handhavingsmix = voltooid"/>
-  <properties
-      key="OR pre"
-      value="beschrijvingen vergen eerst ontwikkeltraject"/>
+      value="proces formuleren projectopdrachten = voltooid"/>
 </archimate:BusinessProcess>

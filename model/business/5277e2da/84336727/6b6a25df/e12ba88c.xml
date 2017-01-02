@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="e12ba88c"
     name="Formuleren projectopdrachten"
-    documentation="Per project wordt een projectopdracht gemaakt in de vorm van een beschrijving van de concreet uit te voeren activiteiten en/of op te leveren producttype. &#xD;&#xA;&#xD;&#xA;Een project kan zijn een uitvoeringsproject (bestaand product van toezicht leveren)&#xD;&#xA;Een ontwikkeltraject (als er volgens vaste methodieken nog een naleefbeeld, risicobeeld, doelgroepbeeld, handhavingsmix moet worden opgesteld)&#xD;&#xA;Een informatietraject (als er nog zoveel onbekend is dat eerst onderzoek moet worden gedaan voordat een handhavingsplan kan worden opgesteld)&#xD;&#xA;"/>
+    documentation="Per project wordt een projectopdracht gemaakt in de vorm van een beschrijving van de concreet uit te voeren activiteiten en/of op te leveren producttype. &#xD;&#xA;&#xD;&#xA;Een project kan zijn een uitvoeringsproject (bestaand product van toezicht leveren)&#xD;&#xA;Een ontwikkeltraject (als er volgens vaste methodieken nog een naleefbeeld, risicobeeld, doelgroepbeeld, handhavingsmix moet worden opgesteld)&#xD;&#xA;Een informatietraject (als er nog zoveel onbekend is dat eerst onderzoek moet worden gedaan voordat een handhavingsplan kan worden opgesteld)&#xD;&#xA;">
+  <properties
+      key="Pre"
+      value="proces beschrijven handhavingsmix = voltooid"/>
+  <properties
+      key="OR Pre"
+      value="beschrijvingen vergen eerst ontwikkeltraject"/>
+</archimate:BusinessProcess>
