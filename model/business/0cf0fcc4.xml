@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="0cf0fcc4"
+    name="Uitvoeren onderzoeksproject"
+    documentation="Als het niet mogelijk is om voor een gegeven risico-reductie doelstelling de doelgroep-wetgevingscombinatie vast te stellen moet dit eerst worden onderzocht in een onderzoeksproject. ">
+  <properties
+      key="Pre"
+      value="de doelgroep-wetgevingscombinatie is nog niet duidelijk"/>
+</archimate:BusinessProcess>

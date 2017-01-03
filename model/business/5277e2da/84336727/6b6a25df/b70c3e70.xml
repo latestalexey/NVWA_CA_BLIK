@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="b70c3e70"
     name="Toetsen combineren projectopdrachten"
-    documentation="Als het voor de uitvoering door de NVWA efficienter is (strategisch principe 10) kan overwogen worden om bij dezelfde doelgroep of bedrijfstype meerdere projectopdrachten te combineren. Let op dit is dus over handhavingsplannen en domeinen heen! Ieder plan moet hierop worden getoetst"/>
+    documentation="Als het voor de uitvoering door de NVWA efficienter is (strategisch principe 10) kan overwogen worden om bij dezelfde doelgroep of bedrijfstype meerdere projectopdrachten te combineren. Let op dit is dus over handhavingsplannen en domeinen heen! Ieder plan moet hierop worden getoetst">
+  <properties
+      key="Pre"
+      value="Bepalen uitvoeringsmoment = voltooid (voor alle projecten)"/>
+</archimate:BusinessProcess>

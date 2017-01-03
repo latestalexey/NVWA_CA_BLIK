@@ -4,6 +4,6 @@
     name="Selecteren producttype"
     documentation="Selecteer welk bestaand producttype (en dus zaaktype) gebruikt gaat worden om de aanpak te realiseren.&#xD;&#xA;&#xD;&#xA;Voorbeelden van zaaktypen zijn:&#xD;&#xA;- Bedrijfsinspectie uitvoeren&#xD;&#xA;- Handhavingscommunicatie uitvoeren&#xD;&#xA;- &#xD;&#xA;">
   <properties
-      key="pre"
-      value="opstellen handhavingsprogramma is voltooid"/>
+      key="Pre"
+      value="Producttype is beschikbaar in de PDC"/>
 </archimate:BusinessProcess>
