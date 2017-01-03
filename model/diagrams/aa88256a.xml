@@ -506,6 +506,17 @@
             width="144"
             height="75"/>
       </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="d23bf1bc"
+          textAlignment="2"
+          archimateElement="archimate:BusinessInteraction ../business/118d3038/4abd7a96.xml#4abd7a96">
+        <bounds
+            x="24"
+            y="58"
+            width="120"
+            height="55"/>
+      </children>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"

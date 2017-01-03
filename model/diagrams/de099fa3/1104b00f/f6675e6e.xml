@@ -29,9 +29,9 @@
       name="Plant">
     <bounds
         x="276"
-        y="540"
+        y="516"
         width="145"
-        height="157"/>
+        height="217"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="5ff32506"
@@ -40,7 +40,7 @@
         type="1">
       <bounds
           x="12"
-          y="96"
+          y="156"
           width="120"
           height="55"/>
       <sourceConnections
@@ -58,7 +58,7 @@
         type="1">
       <bounds
           x="12"
-          y="36"
+          y="96"
           width="120"
           height="55"/>
       <sourceConnections
@@ -67,6 +67,24 @@
           source="#35e73ec8"
           target="#1dd41309"
           relationship="archimate:FlowRelationship ../../../relations/324dc711.xml#324dc711"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="d05654eb"
+        textAlignment="2"
+        archimateElement="archimate:ApplicationComponent ../../../application/89e43fa6.xml#89e43fa6"
+        type="1">
+      <bounds
+          x="12"
+          y="36"
+          width="120"
+          height="55"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="db21a706"
+          source="#d05654eb"
+          target="#7f3696bf"
+          relationship="archimate:FlowRelationship ../../../relations/a4de9a6e.xml#a4de9a6e"/>
     </children>
   </children>
   <children
@@ -98,7 +116,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="7f3696bf"
       textAlignment="2"
-      targetConnections="#6a4048b2 #af24077f #663152b3 #6b7ac294 #54447b0f #50ec9ff3"
+      targetConnections="#6a4048b2 #af24077f #6b7ac294 #54447b0f #50ec9ff3 #db21a706"
       archimateElement="archimate:ApplicationComponent ../../../application/5eea8998/1c3ffe68.xml#1c3ffe68"
       type="1">
     <bounds
@@ -146,7 +164,7 @@
       type="1">
     <bounds
         x="647"
-        y="612"
+        y="624"
         width="278"
         height="55"/>
   </children>
@@ -285,38 +303,9 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="fb7d5e52"
-      textAlignment="2"
-      fillColor="#80ff80"
-      archimateElement="archimate:ApplicationComponent ../../../application/2da6e951/5fbd2a3b/6bbb4007.xml#6bbb4007"
-      type="1">
-    <bounds
-        x="120"
-        y="168"
-        width="120"
-        height="55"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="663152b3"
-        lineWidth="3"
-        lineColor="#80ff80"
-        source="#fb7d5e52"
-        target="#7f3696bf"
-        relationship="archimate:FlowRelationship ../../../relations/05e1271e.xml#05e1271e"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="958d9cb5"
-        lineWidth="3"
-        lineColor="#80ff80"
-        source="#fb7d5e52"
-        target="#ea96b578"
-        relationship="archimate:FlowRelationship ../../../relations/85c27194.xml#85c27194"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="ea96b578"
       textAlignment="2"
-      targetConnections="#958d9cb5 #31daf289"
+      targetConnections="#31daf289"
       archimateElement="archimate:ApplicationComponent ../../../application/5eea8998/374ddcec.xml#374ddcec"
       type="1">
     <bounds
@@ -351,17 +340,6 @@
         relationship="archimate:FlowRelationship ../../../relations/d011c297.xml#d011c297"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="b4314c12"
-      textAlignment="1"
-      content="Voor Horeca en Tabak is alleen sprake van herinspectie zonder afletteren of controleslagen op de geschreven kwartieren">
-    <bounds
-        x="-36"
-        y="228"
-        width="181"
-        height="73"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="cdf09467"
       textAlignment="2"
@@ -387,8 +365,8 @@
       archimateElement="archimate:ApplicationComponent ../../../application/5eea8998/dfe68039.xml#dfe68039"
       type="1">
     <bounds
-        x="767"
-        y="313"
+        x="768"
+        y="288"
         width="120"
         height="55"/>
     <sourceConnections
@@ -501,5 +479,16 @@
         y="636"
         width="145"
         height="61"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="4b3d0002"
+      textAlignment="1"
+      content="Leveren CLIENT Import en Prisma factuurregels of retributiegegevens aan?">
+    <bounds
+        x="444"
+        y="558"
+        width="185"
+        height="55"/>
   </children>
 </archimate:ArchimateDiagramModel>

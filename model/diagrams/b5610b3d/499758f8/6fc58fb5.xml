@@ -1,0 +1,97 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="6fc58fb5"
+    name="Opstellen Rooster (capaciteitsplan)">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7c1a2faa"
+      textAlignment="2"
+      archimateElement="archimate:BusinessProcess ../../../business/6171d791.xml#6171d791">
+    <bounds
+        x="46"
+        y="36"
+        width="507"
+        height="147"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="b03fd583"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/bde2e3da.xml#bde2e3da">
+      <bounds
+          x="24"
+          y="56"
+          width="133"
+          height="61"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="60043ca8"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/01bc6b7d.xml#01bc6b7d">
+      <bounds
+          x="192"
+          y="56"
+          width="133"
+          height="61"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="af9426b3"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/264e8787.xml#264e8787">
+      <bounds
+          x="355"
+          y="57"
+          width="133"
+          height="61"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b3c81a46"
+      textAlignment="2"
+      archimateElement="archimate:BusinessProcess ../../../business/07a5feb6.xml#07a5feb6">
+    <bounds
+        x="46"
+        y="228"
+        width="507"
+        height="147"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="7d19fa1e"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/81922e61.xml#81922e61">
+      <bounds
+          x="24"
+          y="48"
+          width="133"
+          height="61"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="c2cc6e4f"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/6478e503.xml#6478e503">
+      <bounds
+          x="192"
+          y="48"
+          width="133"
+          height="61"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="3076fd58"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/ab12705e.xml#ab12705e">
+      <bounds
+          x="360"
+          y="48"
+          width="133"
+          height="61"/>
+    </children>
+  </children>
+  <properties
+      key="_Project"
+      value="OpstellenRooster"/>
+</archimate:ArchimateDiagramModel>

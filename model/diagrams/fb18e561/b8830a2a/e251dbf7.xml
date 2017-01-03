@@ -2,7 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="e251dbf7"
-    name="PSA Processen en zaaktypen GH">
+    name="PSA GH Processen en zaaktypen">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="39f984bd"
@@ -241,7 +241,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="dc0f46a2"
           textAlignment="2"
-          archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/39823425/7bac72fd.xml#7bac72fd">
+          archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/301e3a0c/7bac72fd.xml#7bac72fd">
         <bounds
             x="24"
             y="36"
