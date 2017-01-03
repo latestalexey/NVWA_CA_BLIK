@@ -1,4 +1,5 @@
 <archimate:BusinessInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="c2f1436b"
-    name="Zaaktype Controle uitvoeren"/>
+    name="Zaaktype Controle uitvoeren"
+    documentation="Betreft de bevindingen tav naleving op handhavingsinspecten. De bevindingen worden vastgelegd in een inspectielijst.&#xD;&#xA; &#xD;&#xA;"/>

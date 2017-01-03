@@ -1,5 +1,5 @@
 <archimate:CompositionRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="92df6765"
-    source="archimate:Product ../business/bdba5a4b.xml#bdba5a4b"
-    target="archimate:Product ../business/247ab2fc.xml#247ab2fc"/>
+    source="archimate:Product ../business/f7386aee/bdba5a4b.xml#bdba5a4b"
+    target="archimate:Product ../business/f7386aee/247ab2fc.xml#247ab2fc"/>
