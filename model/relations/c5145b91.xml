@@ -1,0 +1,7 @@
+<archimate:FlowRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="c5145b91"
+    name="tijdverantwoordingen"
+    documentation="Alle tijdverantwoordingen van één medewerker in één verantwoordingsperiode gaan in één bericht als vraag naar de kennismotor. DTV voegt hier de noodzakelijke contextinformatie aan toe, zodat KODE de berekeningen van toelagen en uren kan uitvoeren. Op elke vraag levert de kennismotor één antwoord."
+    source="archimate:SystemSoftware ../technology/e443d62d.xml#e443d62d"
+    target="archimate:SystemSoftware ../technology/db22fc58.xml#db22fc58"/>

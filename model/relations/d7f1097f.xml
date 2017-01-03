@@ -1,0 +1,7 @@
+<archimate:FlowRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="d7f1097f"
+    name="SOAP/XML"
+    documentation="bidirectioneel&#xA;"
+    source="archimate:SystemSoftware ../technology/72adeeef.xml#72adeeef"
+    target="archimate:InfrastructureInterface ../technology/8a57c4cc.xml#8a57c4cc"/>

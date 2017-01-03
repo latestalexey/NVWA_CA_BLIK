@@ -1,0 +1,6 @@
+<archimate:FlowRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="e77292fe"
+    name="aanvraag en planningsgegevens"
+    source="archimate:ApplicationComponent ../application/5eea8998/0022ec2d.xml#0022ec2d"
+    target="archimate:ApplicationComponent ../application/5eea8998/b5cc7a41.xml#b5cc7a41"/>

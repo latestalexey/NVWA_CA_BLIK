@@ -1,0 +1,6 @@
+<archimate:FlowRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="d85ea979"
+    name="Uren"
+    source="archimate:ApplicationComponent ../application/5eea8998/0495ce24.xml#0495ce24"
+    target="archimate:ApplicationComponent ../application/5eea8998/b5cc7a41.xml#b5cc7a41"/>
