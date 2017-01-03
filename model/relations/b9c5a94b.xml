@@ -1,6 +1,0 @@
-<archimate:FlowRelationship
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="b9c5a94b"
-    name="login, email"
-    source="archimate:ApplicationComponent ../application/5eea8998/8ad274ff.xml#8ad274ff"
-    target="archimate:ApplicationComponent ../application/5eea8998/6c83cb6a.xml#6c83cb6a"/>
