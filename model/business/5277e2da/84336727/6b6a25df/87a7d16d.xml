@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="87a7d16d"
     name="Vaststellen handhavingsplan"
-    documentation="Het handhavingsplan moet worden vastgesteld. De opgestelde plannen vragen om een inhoudelijk en budget akkoord. Dit is wat hier gebeurd (in combinatie met de processtap verdelen budget)&#xD;&#xA; "/>
+    documentation="Het (geactualiseerde) handhavingsplan moet (periodiek) worden vastgesteld. De opgestelde plannen vragen om een inhoudelijk en budget akkoord. Dit is wat hier gebeurd (in combinatie met de processtap verdelen budget).&#xD;&#xA; ">
+  <properties
+      key="Pre"
+      value="Proces opstellen/actualiseren HH plan is afgerond"/>
+</archimate:BusinessProcess>

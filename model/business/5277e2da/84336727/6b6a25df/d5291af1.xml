@@ -2,8 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="d5291af1"
     name="Bepalen doelgroep/wetgevings combinaties"
-    documentation="Na analyse van de ontvangen opdracht moet worden bepaald welke doelgroepen voor welke wetgeving moeten worden gekozen en welke risico reductie doelstelling hierbij hoort om een plan aan te verbinden.&#xD;&#xA;Als dit nog niet duidelijk kan worden bepaald dan wordt vanuit het programma eerst een onderoeksopdracht geformuleerd om dit te kunnen vaststellen.">
+    documentation="Na analyse van de ontvangen opdracht moet worden bepaald welke doelgroepen voor welke wetgeving moeten worden gekozen en welke risico reductie doelstelling hierbij hoort om een plan aan te verbinden.&#xD;&#xA;Als dit nog niet duidelijk kan worden bepaald dan wordt vanuit het programma eerst een onderoeksopdracht geformuleerd om dit te kunnen vaststellen middels een onderzoeksproject.">
   <properties
       key="Pre"
       value="Kennis over WAAR in te grijpen is bekend."/>
+  <properties
+      key="Post"
+      value="Doelgroep wetgevingscombinatie is beschreven"/>
 </archimate:BusinessProcess>
