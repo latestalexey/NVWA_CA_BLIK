@@ -1,0 +1,90 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NVWA: CA Repository GIT"
+    id="d801043f"
+    purpose=""
+    version="3.1.1">
+  <properties
+      key="_Project"
+      value="Bedrijfsfunctie| rapportage van de bedrijfsfuncties"/>
+  <properties
+      key="_Project"
+      value="Rollen|Overzicht van rollen per procesflow"/>
+  <properties
+      key="_Project"
+      value="Informatiesystemen|Informatiesystemen landschap inclusief relevante applicaties"/>
+  <properties
+      key="_Project"
+      value="PF13 Informatieobjecten| Overzicht van gebruikte informatieobjecten per processtap"/>
+  <properties
+      key="_Project"
+      value="Bedrijfsfuncties+Informatiesystemen"/>
+  <properties
+      key="_Project"
+      value="PF10| Procesflow Geprogrammeerde Handhaving"/>
+  <properties
+      key="_Project"
+      value="PF10 rollen| Procesflow Geprogrammeerde Handhaving inclusief rollen"/>
+  <properties
+      key="_Project"
+      value="PF11| Procesflow Externe Werkopdrachten"/>
+  <properties
+      key="_Project"
+      value="PF11 rollen| Procesflow Externe Werkopdrachten inclusief rollen"/>
+  <properties
+      key="_Project"
+      value="PF12| Procesflow van Melding tot afmelding"/>
+  <properties
+      key="_Project"
+      value="PF12 rollen| Procesflow van Melding tot afmelding inclusief rollen"/>
+  <properties
+      key="_Project"
+      value="PF13| Procesflow Verleningen"/>
+  <properties
+      value="PF14_1| Procesflow Keuren Slachtproces"/>
+  <properties
+      value="PF14_2| Procesflow Exportcertificering"/>
+  <properties/>
+  <properties
+      key="_Project"
+      value="PF15| Procesflow Kwaliteitssystemen"/>
+  <properties
+      key="_Project"
+      value="PF15 rollen| Procesflow Kwaliteitssystemen inclusief rollen"/>
+  <properties
+      key="_Project"
+      value="PF06|Procesflow Programmeren van de Handhaving"/>
+  <properties
+      key="_Project"
+      value="PF17|van Monsterneming tot Resultaat"/>
+  <properties
+      key="_Project"
+      value="PF20|Incident en crisisbeheersing"/>
+  <properties
+      key="_Project"
+      value="PF20 rollen|Incident en crisisbeheersing inclusief rollen"/>
+  <properties
+      key="_Project"
+      value="PF20 overleg|Incident en crisisbeheersing overlegorganen"/>
+  <properties
+      key="_Project"
+      value="Koppelingen|Overzicht applicaties en koppelingen"/>
+  <properties
+      key="_Project"
+      value="Bedrijfsobject|Overzicht bedrijfsobjecten en bedrijfsfuncties"/>
+  <properties
+      key="_Project"
+      value="PF06 voorbeeld| Voorbeeld opstellen projectplan uit PF06"/>
+  <properties
+      key="_Project"
+      value="Informatieobjecten| CIM 1.1"/>
+  <properties
+      key="_Project"
+      value="BIT rapport| Mapping systemen op Bedrijfsfunctie|"/>
+  <properties
+      key="_Project"
+      value="ComplexRoosteren| werkproces Complex Roosteren"/>
+  <properties
+      key="_Project"
+      value="OpstellenRooster| werkproces opstellen jaarrooster en 4-weeksrooster"/>
+</archimate:ArchimateModel>

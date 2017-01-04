@@ -1,0 +1,760 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="5db0e423"
+    name="BI architectuur">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7d5f8bb0"
+      textAlignment="2"
+      archimateElement="archimate:SystemSoftware ../../../technology/a58772dd.xml#a58772dd">
+    <bounds
+        x="1055"
+        y="234"
+        width="2083"
+        height="505"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="c4a80778"
+        textAlignment="2"
+        targetConnections="#15354e20 #0f199e18 #cfd65ce1 #860d92bb"
+        archimateElement="archimate:SystemSoftware ../../../technology/c5364ea3.xml#c5364ea3">
+      <bounds
+          x="288"
+          y="108"
+          width="1741"
+          height="331"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="1ba8629d"
+          source="#c4a80778"
+          target="#f07456a1"
+          relationship="archimate:FlowRelationship ../../../relations/1315e4c9.xml#1315e4c9">
+        <bendpoints
+            startX="-785"
+            startY="261"
+            endX="528"
+            endY="156"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="820468cb"
+          source="#c4a80778"
+          target="#1326b7c6"
+          relationship="archimate:FlowRelationship ../../../relations/51d64d9e.xml#51d64d9e"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="cafbfcc4"
+          source="#c4a80778"
+          target="#4ceeaec8"
+          relationship="archimate:FlowRelationship ../../../relations/a86eec88.xml#a86eec88"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="0ff673a1"
+          source="#c4a80778"
+          target="#de5d6db7"
+          relationship="archimate:UsedByRelationship ../../../relations/2182ac71.xml#2182ac71"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="e9d25009"
+          source="#c4a80778"
+          target="#f08b21ee"
+          relationship="archimate:FlowRelationship ../../../relations/15012527.xml#15012527"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="f4cc95bb"
+          textAlignment="2"
+          archimateElement="archimate:InfrastructureService ../../../technology/e43c567e.xml#e43c567e">
+        <bounds
+            x="1068"
+            y="240"
+            width="120"
+            height="55"/>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="654912b0"
+            source="#f4cc95bb"
+            target="#e4edf721"
+            relationship="archimate:UsedByRelationship ../../../relations/22ae6a11.xml#22ae6a11"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="71632a89"
+          textAlignment="2"
+          targetConnections="#11ecb9da"
+          fillColor="#ff6666"
+          archimateElement="archimate:InfrastructureService ../../../technology/73eed175.xml#73eed175">
+        <bounds
+            x="923"
+            y="240"
+            width="120"
+            height="55"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="64f9ee3f"
+          textAlignment="2"
+          fillColor="#ff6666"
+          archimateElement="archimate:InfrastructureService ../../../technology/4f96b4a3.xml#4f96b4a3">
+        <bounds
+            x="300"
+            y="240"
+            width="120"
+            height="55"/>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="628d7ce5"
+            source="#64f9ee3f"
+            target="#10a48461"
+            relationship="archimate:UsedByRelationship ../../../relations/919a03e2.xml#919a03e2"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="a8b0d067"
+          textAlignment="2"
+          targetConnections="#5b2d0e8c"
+          fillColor="#ff6666"
+          archimateElement="archimate:InfrastructureService ../../../technology/deeb6cd7.xml#deeb6cd7">
+        <bounds
+            x="1464"
+            y="240"
+            width="120"
+            height="55"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="080f7b64"
+          textAlignment="2"
+          targetConnections="#d5fe8285"
+          fillColor="#ff6666"
+          archimateElement="archimate:InfrastructureService ../../../technology/8ec7e7b7.xml#8ec7e7b7">
+        <bounds
+            x="1608"
+            y="240"
+            width="120"
+            height="55"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="e444513e"
+          textAlignment="2"
+          archimateElement="archimate:ApplicationComponent ../../../application/2da6e951/8e30e179/9a610ee6.xml#9a610ee6"
+          type="1">
+        <bounds
+            x="648"
+            y="108"
+            width="120"
+            height="55"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="9e8b6776"
+          textAlignment="2"
+          archimateElement="archimate:ApplicationComponent ../../../application/2da6e951/5fbd2a3b/c9f64e1f.xml#c9f64e1f"
+          type="1">
+        <bounds
+            x="1224"
+            y="108"
+            width="120"
+            height="55"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="869a0235"
+          textAlignment="2"
+          archimateElement="archimate:ApplicationComponent ../../../application/2da6e951/04930b86/868f4850.xml#868f4850"
+          type="1">
+        <bounds
+            x="1068"
+            y="180"
+            width="120"
+            height="55"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="42225260"
+          textAlignment="2"
+          targetConnections="#b8aa1afa"
+          fillColor="#c0c0c0"
+          archimateElement="archimate:ApplicationService ../../../application/7c65ef92.xml#7c65ef92">
+        <bounds
+            x="804"
+            y="144"
+            width="120"
+            height="55"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelNote"
+          id="0a8c497e"
+          textAlignment="1"
+          content="Hoe gaan we om met NVWA registers?&#xD;&#xA;OBAMA alleen voeden vanuit SAS?&#xD;&#xA;Waar ligt risicoprofiel vast?&#xD;&#xA;Waar ligt bedrijfsprofiel vast?">
+        <bounds
+            x="936"
+            y="15"
+            width="277"
+            height="130"/>
+      </children>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="5f6a490e"
+        textAlignment="2"
+        targetConnections="#8b4f634f"
+        archimateElement="archimate:SystemSoftware ../../../technology/8a0838cd.xml#8a0838cd">
+      <bounds
+          x="1188"
+          y="36"
+          width="120"
+          height="55"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="cfd65ce1"
+          source="#5f6a490e"
+          target="#c4a80778"
+          relationship="archimate:FlowRelationship ../../../relations/429545c9.xml#429545c9"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="d85f0946"
+        textAlignment="2"
+        archimateElement="archimate:SystemSoftware ../../../technology/3caa2b74.xml#3caa2b74">
+      <bounds
+          x="1368"
+          y="36"
+          width="120"
+          height="55"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="8b4f634f"
+          source="#d85f0946"
+          target="#5f6a490e"
+          relationship="archimate:FlowRelationship ../../../relations/e8904bed.xml#e8904bed"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="63beafe4"
+      textAlignment="2"
+      targetConnections="#8dd2296b"
+      archimateElement="archimate:DataObject ../../../application/5eea8998/6ebc2d59.xml#6ebc2d59">
+    <bounds
+        x="1055"
+        y="66"
+        width="739"
+        height="61"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="de5d6db7"
+      textAlignment="2"
+      targetConnections="#0ff673a1"
+      archimateElement="archimate:InfrastructureService ../../../technology/9d196074.xml#9d196074">
+    <bounds
+        x="1055"
+        y="149"
+        width="739"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="8dd2296b"
+        source="#de5d6db7"
+        target="#63beafe4"
+        relationship="archimate:UsedByRelationship ../../../relations/1f1ecf71.xml#1f1ecf71"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f07456a1"
+      textAlignment="2"
+      targetConnections="#1ba8629d #0bed32eb"
+      archimateElement="archimate:InfrastructureInterface ../../../technology/72c3c4b8.xml#72c3c4b8">
+    <bounds
+        x="840"
+        y="444"
+        width="120"
+        height="337"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7a3f5518"
+      textAlignment="2"
+      targetConnections="#53b49da7 #ef2684d8"
+      archimateElement="archimate:SystemSoftware ../../../technology/80509132.xml#80509132">
+    <bounds
+        x="893"
+        y="960"
+        width="739"
+        height="121"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="8f1b30d8"
+        source="#7a3f5518"
+        target="#a39d67a0"
+        relationship="archimate:FlowRelationship ../../../relations/5029da70.xml#5029da70"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="97a38f87"
+        textAlignment="2"
+        archimateElement="archimate:Artifact ../../../technology/79fae24d.xml#79fae24d">
+      <bounds
+          x="24"
+          y="36"
+          width="120"
+          height="55"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="b70cb435"
+        textAlignment="2"
+        archimateElement="archimate:Artifact ../../../technology/890120ea.xml#890120ea">
+      <bounds
+          x="156"
+          y="36"
+          width="157"
+          height="55"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="f4e34b9f"
+        textAlignment="2"
+        fillColor="#ff6666"
+        archimateElement="archimate:Artifact ../../../technology/a3a9e156.xml#a3a9e156">
+      <bounds
+          x="324"
+          y="36"
+          width="120"
+          height="55"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b4186ddd"
+      textAlignment="2"
+      archimateElement="archimate:InfrastructureInterface ../../../technology/a161b0ad.xml#a161b0ad">
+    <bounds
+        x="1481"
+        y="786"
+        width="920"
+        height="97"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="a39d67a0"
+        textAlignment="2"
+        targetConnections="#8f1b30d8"
+        archimateElement="archimate:InfrastructureInterface ../../../technology/48712a72.xml#48712a72">
+      <bounds
+          x="24"
+          y="30"
+          width="120"
+          height="55"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="860d92bb"
+          source="#a39d67a0"
+          target="#c4a80778"
+          relationship="archimate:FlowRelationship ../../../relations/f9b43430.xml#f9b43430"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="e39704d9"
+        textAlignment="2"
+        archimateElement="archimate:InfrastructureInterface ../../../technology/8a57c4cc.xml#8a57c4cc">
+      <bounds
+          x="288"
+          y="30"
+          width="120"
+          height="55"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="0f199e18"
+          source="#e39704d9"
+          target="#c4a80778"
+          relationship="archimate:FlowRelationship ../../../relations/afc0b9bb.xml#afc0b9bb"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="9d487945"
+        textAlignment="2"
+        targetConnections="#b7f63243"
+        archimateElement="archimate:InfrastructureInterface ../../../technology/bb8cc176.xml#bb8cc176">
+      <bounds
+          x="732"
+          y="30"
+          width="156"
+          height="55"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="11ecb9da"
+          source="#9d487945"
+          target="#71632a89"
+          relationship="archimate:UsedByRelationship ../../../relations/16eedd40.xml#16eedd40"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="b8aa1afa"
+          lineColor="#808080"
+          source="#9d487945"
+          target="#42225260"
+          relationship="archimate:UsedByRelationship ../../../relations/2363d485.xml#2363d485"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="10a48461"
+        textAlignment="2"
+        targetConnections="#628d7ce5"
+        archimateElement="archimate:InfrastructureInterface ../../../technology/af0c09e8.xml#af0c09e8">
+      <bounds
+          x="156"
+          y="30"
+          width="120"
+          height="55"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="86e73ba4"
+        textAlignment="2"
+        archimateElement="archimate:InfrastructureInterface ../../../technology/79e3a5e6.xml#79e3a5e6">
+      <bounds
+          x="420"
+          y="30"
+          width="120"
+          height="55"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="15354e20"
+          source="#86e73ba4"
+          target="#c4a80778"
+          relationship="archimate:FlowRelationship ../../../relations/60deab64.xml#60deab64"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="f08b21ee"
+        textAlignment="2"
+        targetConnections="#e9d25009"
+        archimateElement="archimate:InfrastructureInterface ../../../technology/e1c45c27.xml#e1c45c27">
+      <bounds
+          x="588"
+          y="30"
+          width="120"
+          height="55"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="6a6fa37a"
+          source="#f08b21ee"
+          target="#b43215a5"
+          relationship="archimate:FlowRelationship ../../../relations/0bd2f229.xml#0bd2f229"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a0bd40e2"
+      textAlignment="2"
+      targetConnections="#6a51f925"
+      archimateElement="archimate:SystemSoftware ../../../technology/a55d0ca5.xml#a55d0ca5">
+    <bounds
+        x="896"
+        y="1176"
+        width="733"
+        height="145"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="53b49da7"
+        source="#a0bd40e2"
+        target="#7a3f5518"
+        relationship="archimate:FlowRelationship ../../../relations/f467a432.xml#f467a432"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="59347f58"
+        textAlignment="2"
+        archimateElement="archimate:Artifact ../../../technology/72f1a419.xml#72f1a419">
+      <bounds
+          x="24"
+          y="72"
+          width="120"
+          height="55"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="58b47b8a"
+        textAlignment="2"
+        archimateElement="archimate:Artifact ../../../technology/77cb0af7.xml#77cb0af7">
+      <bounds
+          x="156"
+          y="72"
+          width="120"
+          height="55"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="5e0095e0"
+        textAlignment="2"
+        archimateElement="archimate:Artifact ../../../technology/44de773e.xml#44de773e">
+      <bounds
+          x="288"
+          y="72"
+          width="120"
+          height="55"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="79382342"
+        textAlignment="2"
+        archimateElement="archimate:Artifact ../../../technology/47f7c097.xml#47f7c097">
+      <bounds
+          x="420"
+          y="72"
+          width="120"
+          height="55"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="7b053847"
+        textAlignment="2"
+        archimateElement="archimate:Artifact ../../../technology/ee30994d.xml#ee30994d">
+      <bounds
+          x="552"
+          y="72"
+          width="120"
+          height="55"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b7f6e69f"
+      textAlignment="2"
+      archimateElement="archimate:InfrastructureInterface ../../../technology/2fe4e037.xml#2fe4e037">
+    <bounds
+        x="2556"
+        y="786"
+        width="582"
+        height="97"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="1326b7c6"
+        textAlignment="2"
+        targetConnections="#820468cb"
+        fillColor="#ff6666"
+        archimateElement="archimate:InfrastructureInterface ../../../technology/a58a5470.xml#a58a5470">
+      <bounds
+          x="12"
+          y="24"
+          width="120"
+          height="55"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="4ceeaec8"
+        textAlignment="2"
+        targetConnections="#cafbfcc4"
+        fillColor="#ff6666"
+        archimateElement="archimate:InfrastructureInterface ../../../technology/a4adeb10.xml#a4adeb10">
+      <bounds
+          x="156"
+          y="24"
+          width="120"
+          height="55"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="021aaa32"
+        textAlignment="2"
+        archimateElement="archimate:InfrastructureInterface ../../../technology/7f1ea2c7.xml#7f1ea2c7">
+      <bounds
+          x="300"
+          y="24"
+          width="120"
+          height="55"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="5b2d0e8c"
+          source="#021aaa32"
+          target="#a8b0d067"
+          relationship="archimate:UsedByRelationship ../../../relations/62230069.xml#62230069"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="686e47e3"
+        textAlignment="2"
+        archimateElement="archimate:InfrastructureInterface ../../../technology/dbf3af9a.xml#dbf3af9a">
+      <bounds
+          x="444"
+          y="24"
+          width="120"
+          height="55"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="d5fe8285"
+          source="#686e47e3"
+          target="#080f7b64"
+          relationship="archimate:UsedByRelationship ../../../relations/25d706c2.xml#25d706c2"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e4edf721"
+      textAlignment="2"
+      targetConnections="#654912b0 #38022df0"
+      archimateElement="archimate:SystemSoftware ../../../technology/53a4d77a.xml#53a4d77a">
+    <bounds
+        x="2424"
+        y="786"
+        width="121"
+        height="97"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="6471a03c"
+        source="#e4edf721"
+        target="#15799c3f"
+        relationship="archimate:FlowRelationship ../../../relations/fba9eac7.xml#fba9eac7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="15799c3f"
+      textAlignment="2"
+      targetConnections="#6471a03c #685b3798"
+      archimateElement="archimate:SystemSoftware ../../../technology/e25100fb.xml#e25100fb">
+    <bounds
+        x="2220"
+        y="920"
+        width="241"
+        height="235"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="b7f63243"
+        source="#15799c3f"
+        target="#9d487945"
+        relationship="archimate:FlowRelationship ../../../relations/b6ba6136.xml#b6ba6136"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="65928e3b"
+        source="#15799c3f"
+        target="#b43215a5"
+        relationship="archimate:FlowRelationship ../../../relations/b8452e77.xml#b8452e77"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="4abd7021"
+        textAlignment="2"
+        archimateElement="archimate:ApplicationComponent ../../../application/2da6e951/04930b86/9daed25c.xml#9daed25c"
+        type="1">
+      <bounds
+          x="12"
+          y="36"
+          width="120"
+          height="55"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="a1a3eeec"
+        textAlignment="2"
+        archimateElement="archimate:ApplicationComponent ../../../application/2da6e951/04930b86/a8829c3b.xml#a8829c3b"
+        type="1">
+      <bounds
+          x="12"
+          y="144"
+          width="120"
+          height="55"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="9af65ea8"
+          source="#a1a3eeec"
+          target="#20cfa052"
+          relationship="archimate:AssociationRelationship ../../../relations/032e2246.xml#032e2246"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="4ed96628"
+      textAlignment="2"
+      archimateElement="archimate:CommunicationPath ../../../technology/e280d589.xml#e280d589">
+    <bounds
+        x="1428"
+        y="1100"
+        width="120"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="ef2684d8"
+        source="#4ed96628"
+        target="#7a3f5518"
+        relationship="archimate:AssociationRelationship ../../../relations/d8062208.xml#d8062208"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="6a51f925"
+        source="#4ed96628"
+        target="#a0bd40e2"
+        relationship="archimate:AssociationRelationship ../../../relations/26fddbf6.xml#26fddbf6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="c9175bbf"
+      textAlignment="2"
+      archimateElement="archimate:SystemSoftware ../../../technology/31e67c8f.xml#31e67c8f">
+    <bounds
+        x="2501"
+        y="920"
+        width="140"
+        height="115"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="38022df0"
+        source="#c9175bbf"
+        target="#e4edf721"
+        relationship="archimate:FlowRelationship ../../../relations/0faee87a.xml#0faee87a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="04bdd983"
+      textAlignment="2"
+      archimateElement="archimate:InfrastructureInterface ../../../technology/ddaa920c.xml#ddaa920c">
+    <bounds
+        x="2160"
+        y="1212"
+        width="120"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="685b3798"
+        source="#04bdd983"
+        target="#15799c3f"
+        relationship="archimate:FlowRelationship ../../../relations/cb8d1e04.xml#cb8d1e04"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b43215a5"
+      textAlignment="2"
+      targetConnections="#65928e3b #6a6fa37a"
+      archimateElement="archimate:SystemSoftware ../../../technology/a8b4338e.xml#a8b4338e">
+    <bounds
+        x="2064"
+        y="917"
+        width="120"
+        height="121"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="0bed32eb"
+        source="#b43215a5"
+        target="#f07456a1"
+        relationship="archimate:FlowRelationship ../../../relations/abbd8fa4.xml#abbd8fa4">
+      <bendpoints
+          startX="-624"
+          startY="-29"
+          endX="600"
+          endY="336"/>
+      <bendpoints
+          startX="-1188"
+          startY="-29"
+          endX="36"
+          endY="336"/>
+    </sourceConnections>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="20cfa052"
+      textAlignment="2"
+      targetConnections="#9af65ea8"
+      archimateElement="archimate:Artifact ../../../technology/b5293f4e.xml#b5293f4e">
+    <bounds
+        x="1980"
+        y="1056"
+        width="120"
+        height="85"/>
+  </children>
+</archimate:ArchimateDiagramModel>

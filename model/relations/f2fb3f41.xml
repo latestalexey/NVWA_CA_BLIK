@@ -1,0 +1,7 @@
+<archimate:FlowRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="f2fb3f41"
+    name="Openbaarmakingsgegevens"
+    documentation="Wekelijkse informatie uitwisseling m.b.v. excel"
+    source="archimate:ApplicationComponent ../application/2da6e951/04930b86/6c9fd75b.xml#6c9fd75b"
+    target="archimate:ApplicationComponent ../application/5eea8998/2e242e9e.xml#2e242e9e"/>
