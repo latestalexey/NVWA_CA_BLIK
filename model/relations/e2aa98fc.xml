@@ -1,9 +1,0 @@
-<archimate:FlowRelationship
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="e2aa98fc"
-    source="archimate:ApplicationComponent ../application/5eea8998/f6ea7551.xml#f6ea7551"
-    target="archimate:ApplicationComponent ../application/5eea8998/74c757b0.xml#74c757b0">
-  <properties
-      key="_Info"
-      value="Gereed"/>
-</archimate:FlowRelationship>
