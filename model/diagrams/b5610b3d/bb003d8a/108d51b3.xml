@@ -4,28 +4,6 @@
     id="108d51b3"
     name="PF14_3 Importcontroles">
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="bd1dabd9"
-      textAlignment="1"
-      content="&quot;Aanpassen aanvraag&quot; is generieke functionaliteit die onderdeel moet zijn van het portaal.">
-    <bounds
-        x="383"
-        y="1194"
-        width="133"
-        height="108"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="51ff13a5"
-      textAlignment="1"
-      content="versturen bericht is generieke functionaliteit die daar waar nodig kan worden aangeroepen bij een processtap">
-    <bounds
-        x="551"
-        y="1132"
-        width="143"
-        height="104"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="09149187"
       textAlignment="2"
@@ -33,7 +11,7 @@
     <bounds
         x="900"
         y="216"
-        width="1033"
+        width="697"
         height="265"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -54,7 +32,7 @@
         targetConnections="#9e462bfd"
         archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/6ab36c99/8ee3dd72.xml#8ee3dd72">
       <bounds
-          x="528"
+          x="192"
           y="48"
           width="141"
           height="76"/>
@@ -66,7 +44,7 @@
         targetConnections="#bbb3edf1"
         archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/6ab36c99/741d6d91.xml#741d6d91">
       <bounds
-          x="192"
+          x="24"
           y="48"
           width="141"
           height="76"/>
@@ -77,8 +55,8 @@
         textAlignment="2"
         archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/6ab36c99/7bdc3368.xml#7bdc3368">
       <bounds
-          x="360"
-          y="48"
+          x="192"
+          y="156"
           width="141"
           height="76"/>
     </children>
@@ -88,7 +66,7 @@
         textAlignment="2"
         archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/6ab36c99/f24c817a.xml#f24c817a">
       <bounds
-          x="696"
+          x="360"
           y="48"
           width="141"
           height="76"/>
@@ -99,7 +77,7 @@
         textAlignment="2"
         archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/6ab36c99/8b1e1e69.xml#8b1e1e69">
       <bounds
-          x="864"
+          x="528"
           y="48"
           width="141"
           height="76"/>
@@ -111,43 +89,10 @@
         archimateElement="archimate:BusinessProcess ../../../business/5277e2da/47be7bb1.xml#47be7bb1">
       <bounds
           x="24"
-          y="48"
+          y="156"
           width="141"
           height="76"/>
     </children>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="874b61c4"
-      textAlignment="1"
-      content="Inloggen is een systeem functionaliteit die in het portaal wordt aangeboden aan bedrijven en burgers die een aanvraag willen doen bij de NVWA">
-    <bounds
-        x="47"
-        y="1183"
-        width="145"
-        height="126"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="1e90e0ea"
-      textAlignment="1"
-      content="Uploaden van documenten is generieke functionaliteit die daar waar nodig toegepast wordt.">
-    <bounds
-        x="47"
-        y="1318"
-        width="145"
-        height="96"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="a7ae4405"
-      textAlignment="1"
-      content="Beheren importprofiel / risico eisen: onderdeel van productontwikkeling?&#xD;&#xA;">
-    <bounds
-        x="47"
-        y="1135"
-        width="481"
-        height="37"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -155,7 +100,7 @@
       textAlignment="2"
       archimateElement="archimate:BusinessProcess ../../../business/5277e2da/84336727/778960d2.xml#778960d2">
     <bounds
-        x="1968"
+        x="1644"
         y="216"
         width="373"
         height="265"/>
@@ -221,23 +166,12 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="b5ef8254"
-      textAlignment="1"
-      content="Retributie proces is een ander (werk)proces. Hier vooral informatie bepalen dat input is voor dat proces.">
-    <bounds
-        x="722"
-        y="1137"
-        width="142"
-        height="113"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
       id="1435b304"
       textAlignment="1"
       content="versturen bericht is generieke functionaliteit die daar waar nodig kan worden aangeroepen bij een processtap">
     <bounds
-        x="1980"
-        y="505"
+        x="1812"
+        y="503"
         width="143"
         height="115"/>
   </children>
@@ -248,7 +182,7 @@
       targetConnections="#2ca2a0ce"
       archimateElement="archimate:BusinessProcess ../../../business/5277e2da/84336727/8cd7ba3b.xml#8cd7ba3b">
     <bounds
-        x="3192"
+        x="2964"
         y="214"
         width="2389"
         height="349"/>
@@ -320,7 +254,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="aee4bb7a"
         textAlignment="2"
-        targetConnections="#c18af17c"
         archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/ed1c32fc/a7265683.xml#a7265683">
       <bounds
           x="528"
@@ -604,34 +537,12 @@
     </children>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="3f25460d"
-      textAlignment="1"
-      content="In hoeverre is dit onderdeel van roosteren complex?">
-    <bounds
-        x="2831"
-        y="1261"
-        width="145"
-        height="65"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="63e1b40d"
-      textAlignment="1"
-      content="In hoeverre is dit onderdeel van roosteren complex?">
-    <bounds
-        x="3023"
-        y="1262"
-        width="145"
-        height="64"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="cd23f964"
       textAlignment="2"
       archimateElement="archimate:BusinessEvent ../../../business/5277e2da/93fb5a23/e7b76ed1.xml#e7b76ed1">
     <bounds
-        x="3216"
+        x="2988"
         y="136"
         width="120"
         height="55"/>
@@ -648,8 +559,8 @@
       textAlignment="2"
       archimateElement="archimate:BusinessEvent ../../../business/5277e2da/93fb5a23/473e8318.xml#473e8318">
     <bounds
-        x="1440"
-        y="132"
+        x="1104"
+        y="128"
         width="120"
         height="55"/>
     <sourceConnections
@@ -665,27 +576,10 @@
       textAlignment="1"
       content="Deze controle wordt ook gedaan voor export. Toevoegen bij export???">
     <bounds
-        x="3394"
+        x="3166"
         y="580"
         width="145"
         height="80"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="1959ddb5"
-      textAlignment="2"
-      archimateElement="archimate:BusinessEvent ../../../business/5277e2da/93fb5a23/ebf2acc6.xml#ebf2acc6">
-    <bounds
-        x="3726"
-        y="132"
-        width="120"
-        height="55"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="c18af17c"
-        source="#1959ddb5"
-        target="#aee4bb7a"
-        relationship="archimate:TriggeringRelationship ../../../relations/ff236736.xml#ff236736"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -693,8 +587,8 @@
       textAlignment="2"
       archimateElement="archimate:BusinessProcess ../../../business/5277e2da/84336727/3b9b4a14.xml#3b9b4a14">
     <bounds
-        x="5616"
-        y="214"
+        x="5400"
+        y="216"
         width="1200"
         height="349"/>
     <sourceConnections
@@ -740,17 +634,6 @@
       <bounds
           x="360"
           y="48"
-          width="141"
-          height="76"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="b6f4c14b"
-        textAlignment="2"
-        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/aa79995c/e3f989f3.xml#e3f989f3">
-      <bounds
-          x="24"
-          y="168"
           width="141"
           height="76"/>
     </children>
@@ -866,8 +749,8 @@
       textAlignment="2"
       archimateElement="archimate:BusinessProcess ../../../business/5277e2da/84336727/fff193be.xml#fff193be">
     <bounds
-        x="6828"
-        y="214"
+        x="6612"
+        y="216"
         width="528"
         height="348"/>
     <sourceConnections
@@ -949,7 +832,7 @@
       textAlignment="1"
       content="Wat is trigger om partij weer door te laten gaan of definitief te weigeren? Vanuit procesbeschrijving geinterpreteerd dat er een nieuw/aanvullend certificaat wordt verstuurd door aanvrager. ">
     <bounds
-        x="4404"
+        x="4176"
         y="582"
         width="146"
         height="145"/>
@@ -960,7 +843,7 @@
       textAlignment="1"
       content="Dit is toch onderdeel van de controle namelijk de gegevensverwerken daarvan?">
     <bounds
-        x="4739"
+        x="4511"
         y="102"
         width="141"
         height="97"/>
@@ -971,7 +854,7 @@
       textAlignment="2"
       archimateElement="archimate:BusinessEvent ../../../business/5277e2da/93fb5a23/27841a18.xml#27841a18">
     <bounds
-        x="5244"
+        x="5016"
         y="592"
         width="120"
         height="55"/>
@@ -988,7 +871,7 @@
       textAlignment="1"
       content="In procesflow niet duidelijk wat er bij niet-akkoord gebeurd. In toelichting wordt partij aangehouden maar onduidelijk of dit naar de vorige aanhouding en daaropvolgende stappen terug gaat.">
     <bounds
-        x="5280"
+        x="5052"
         y="31"
         width="145"
         height="168"/>
@@ -999,8 +882,8 @@
       textAlignment="1"
       content="Bevestiging SIP houder weggelaten omdat uit beschrijving niet blijkt dat NVWA iets doet met bevestiging.">
     <bounds
-        x="5808"
-        y="582"
+        x="5592"
+        y="584"
         width="144"
         height="100"/>
   </children>
@@ -1010,8 +893,8 @@
       textAlignment="1"
       content="Bij terugsturen naar land van opsporing wordt verwezen naar exportcertificering. Stap toevoegen waarin zaak wordt aangemaakt?">
     <bounds
-        x="6156"
-        y="582"
+        x="5940"
+        y="584"
         width="146"
         height="108"/>
   </children>
@@ -1021,8 +904,8 @@
       textAlignment="1"
       content="Let op: op dit punt kan een aanvrager een bezwaar indienen. Die moet dan gelinkt worden met de importcontrole zaak.">
     <bounds
-        x="6143"
-        y="72"
+        x="5927"
+        y="74"
         width="146"
         height="104"/>
   </children>
@@ -1032,8 +915,8 @@
       textAlignment="1"
       content="Er is een processtap opgenomen in PPI doc waarin gerefereerd wordt aan de mogelijkheid dat de NVWA op dit punt in het proces een toestemming kan hebben verleend om toch tot herstel over te gaan. Waar is die toestemming gegeven???">
     <bounds
-        x="6156"
-        y="708"
+        x="5940"
+        y="710"
         width="146"
         height="204"/>
   </children>
@@ -1043,8 +926,8 @@
       textAlignment="1"
       content="Er wordt gesproken over het opstellen van een ketenbeding zodat zending vernietigd kan worden enhet  zorgen voor ondertekening van alle betrokken partijen. Dit betekent dus dat NVWA ook tekent?">
     <bounds
-        x="6324"
-        y="582"
+        x="6108"
+        y="584"
         width="132"
         height="196"/>
   </children>
@@ -1054,8 +937,8 @@
       textAlignment="1"
       content="Deze stap lijkt uit het niets in dit werkproces te zitten maar lijkt eerder bij volgend werkproces te horen.">
     <bounds
-        x="6648"
-        y="580"
+        x="6432"
+        y="582"
         width="145"
         height="103"/>
   </children>
@@ -1065,21 +948,10 @@
       textAlignment="1"
       content="Er wordt ook gerefereerd aan meldingen proces:&#xD;&#xA;Indien de partij hersteld/behandeld wordt, wordt er een melding aangemaakt zodat er een controle kan plaatsvinden op het herstelde/behandelde product om te kijken of het nu wel geïmporteerd mag worden.&#xD;&#xA;Na afhandeling via het meldingen proces wordt de afhandeling uitgevoerd in handeling 60 indien de controle in het meldingen proces akkoord was.&#xD;&#xA;">
     <bounds
-        x="6480"
-        y="584"
+        x="6264"
+        y="586"
         width="145"
         height="352"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="39d88dbd"
-      textAlignment="1"
-      content="Op dit moment kan er sprake zijn van export en wordt verwezen naar proces export certificering en vervolgens komt er bij afhandelen weer een trigger terug ???">
-    <bounds
-        x="720"
-        y="1284"
-        width="145"
-        height="137"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -1087,8 +959,8 @@
       textAlignment="1"
       content="Dit is een dubbele stap met vergelijkbare stap in vorige werkproces">
     <bounds
-        x="5808"
-        y="99"
+        x="5592"
+        y="101"
         width="144"
         height="80"/>
   </children>
@@ -1204,8 +1076,8 @@
       targetConnections="#ad2b9d79"
       archimateElement="archimate:BusinessProcess ../../../business/5277e2da/84336727/e1253913.xml#e1253913">
     <bounds
-        x="2280"
-        y="640"
+        x="2004"
+        y="617"
         width="972"
         height="189"/>
     <sourceConnections
@@ -1289,7 +1161,7 @@
     <bounds
         x="-540"
         y="-480"
-        width="7896"
+        width="7680"
         height="123"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1307,7 +1179,7 @@
     <bounds
         x="-540"
         y="-240"
-        width="7896"
+        width="7680"
         height="121"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1329,8 +1201,8 @@
       targetConnections="#81310b9b"
       archimateElement="archimate:BusinessInteraction ../../../business/118d3038/986c8e83.xml#986c8e83">
     <bounds
-        x="3984"
-        y="-34"
+        x="3912"
+        y="-32"
         width="236"
         height="107"/>
     <sourceConnections
@@ -1354,19 +1226,8 @@
     <bounds
         x="912"
         y="504"
-        width="828"
+        width="684"
         height="113"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="d1090294"
-      textAlignment="1"
-      content="toevoegen generieke stap Selecteren product&#xD;&#xA;">
-    <bounds
-        x="4184"
-        y="129"
-        width="185"
-        height="80"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -1374,7 +1235,7 @@
       textAlignment="1"
       content="Monica vraagt na of er bij opslag feitelijk hetzelfde gebeurt als bij inslag, etc.">
     <bounds
-        x="4420"
+        x="4192"
         y="116"
         width="185"
         height="80"/>
