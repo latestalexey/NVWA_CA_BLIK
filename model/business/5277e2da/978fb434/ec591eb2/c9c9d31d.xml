@@ -1,8 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="c9c9d31d"
-    name="Opstellen bericht toezichthouder 3de land">
+    name="Opstellen bericht toezichthouder EU-land">
   <properties
       key="Pre"
-      value="verlegging"/>
+      value="verlegging: hierbij wordt de O/M-controle door ander EU-land gedaan"/>
 </archimate:BusinessProcess>

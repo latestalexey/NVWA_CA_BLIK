@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="8b640d1a"
     name="Vastleggen gekozen destructie locatie"
-    documentation="Aanvrager plant de uitvoering van de destructie en selecteert in het systeem een erkende locatie."/>
+    documentation="Aanvrager plant de uitvoering van de destructie en selecteert in het systeem een erkende locatie.">
+  <properties
+      key="Pre"
+      value="Indien na weigering door aanvrager wordt gekozen voor destructie"/>
+</archimate:BusinessProcess>
