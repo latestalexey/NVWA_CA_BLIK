@@ -1,7 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="65898d56"
-    name="Origineel certificaat vergelijken met scan"
+    name="E.0. Origineel certificaat vergelijken met scan"
     documentation="Zolang het originele certificaat nog niet elektronisch wordt ontvangen van de NVWA-counterpart in het 3e land, zal de gescande variant vergeleken worden met het origineel door dezelfde persoon die ook de mogelijke vervolg controles zal gaan uitvoeren. Dit ten behoeve van het voorkomen van Fraude.&#xD;&#xA;&#xD;&#xA;Indien origineel en scan overeenkomen en er geen controles meer plaatsvinden dan door naar handeling 60&#xD;&#xA;Indien origineel en scan overeenkomen en er zegelcontrole moet plaatsvinden dan door met handeling 22&#xD;&#xA;Indien origineel en scan overeenkomen en er een O en/of M controle plaats zal vinden dan wordt partij naar het opgegeven controle-locatie getransporteerd en vervolgens door naar handeling 24&#xD;&#xA;Indien origineel en scan niet overeenkomen dan door naar handeling 56&#xD;&#xA;&#xD;&#xA;Het idee is dat deze stap langzaam aan zal komen te vervallen daar we het gekwalificeerde elektronische certificaten digitaal ontvangen van de overheidsdienst in het 3de land waardoor deze controle bij handeling 8 uitgevoerd kan worden!&#xD;&#xA;">
   <properties
       key="Pre"/>
