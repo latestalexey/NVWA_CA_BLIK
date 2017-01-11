@@ -1,7 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="21de4e13"
-    name="E.2. Beoordelen resultaten zegel-controle"
+    name="E.02. Beoordelen resultaten zegel-controle"
     documentation="Beoordeel de resultaten van de controle op basis van een controleformulier. Op basis hiervan beoordeelt de controleur of de partij door mag.&#xD;&#xA;&#xD;&#xA;Indien resultaat akkoord dan naar werkproces Afhandelen, tenzij V(V)E dan door naar handeling 31&#xD;&#xA;Indien niet akkoord dan partij op transport naar controlelocatie voor aanvullende O-controle&#xD;&#xA;">
   <properties
       key="Post"
