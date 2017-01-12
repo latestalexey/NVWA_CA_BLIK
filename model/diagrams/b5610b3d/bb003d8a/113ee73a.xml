@@ -1,0 +1,60 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="113ee73a"
+    name="PF14_3 Importcontroles: Selecteren en bepalen controle route">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f88c6200"
+      textAlignment="2"
+      archimateElement="archimate:BusinessProcess ../../../business/5277e2da/84336727/778960d2.xml#778960d2">
+    <bounds
+        x="96"
+        y="72"
+        width="373"
+        height="347"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="5449dfcc"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/ea991542/0092d08a.xml#0092d08a">
+      <bounds
+          x="24"
+          y="48"
+          width="141"
+          height="76"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="ede0f868"
+          source="#5449dfcc"
+          target="#7d4db275"
+          relationship="archimate:TriggeringRelationship ../../../relations/0e24b86f.xml#0e24b86f"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="7d4db275"
+        textAlignment="2"
+        targetConnections="#ede0f868"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/ea991542/598da446.xml#598da446">
+      <bounds
+          x="192"
+          y="48"
+          width="141"
+          height="76"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="3dc4a974"
+        textAlignment="2"
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/ec591eb2/c9c9d31d.xml#c9c9d31d">
+      <bounds
+          x="192"
+          y="144"
+          width="141"
+          height="76"/>
+    </children>
+  </children>
+  <properties
+      key="_Project"
+      value="PF14_3"/>
+</archimate:ArchimateDiagramModel>

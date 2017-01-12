@@ -5,4 +5,7 @@
   <properties
       key="Pre"
       value="verlegging: hierbij wordt de O/M-controle door ander EU-land gedaan"/>
+  <properties
+      key="Post"
+      value="afronden zaak"/>
 </archimate:BusinessProcess>
