@@ -1,7 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="8b1e1e69"
-    name="B.3. Handmatige D-controle "
+    name="B.2. Handmatige D-controle "
     documentation="Controleer, na de automatische D-controle, voor zover nodig nog handmatig of het document inhoudelijk correct is. Dit kan nodig zijn indien de informatie niet via het systeem verwerkt kan worden.&#xD;&#xA;&#xD;&#xA;Het idee is dat deze stap langzaam aan zal komen te vervallen daar we digitaal alle informatie ontvangen inclusief het gekwalificeerde elektronische certificaten waardoor deze stap overbodig moet worden!&#xD;&#xA;">
   <properties
       key="Post"
