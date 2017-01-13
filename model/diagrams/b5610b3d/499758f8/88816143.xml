@@ -335,36 +335,22 @@
           y="48"
           width="141"
           height="76"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="d695c871"
-          source="#4a4a8b0c"
-          target="#dcc2fe1a"
-          relationship="archimate:TriggeringRelationship ../../../relations/aec40b9c.xml#aec40b9c"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="dcc2fe1a"
         textAlignment="2"
-        targetConnections="#d695c871"
         archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/e01625cc/c9f397fb.xml#c9f397fb">
       <bounds
           x="192"
           y="48"
           width="141"
           height="76"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="0daf334a"
-          source="#dcc2fe1a"
-          target="#6a7f20f8"
-          relationship="archimate:TriggeringRelationship ../../../relations/64bc1ad3.xml#64bc1ad3"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="6a7f20f8"
         textAlignment="2"
-        targetConnections="#0daf334a"
         archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/e01625cc/a4efbb7a.xml#a4efbb7a">
       <bounds
           x="360"
