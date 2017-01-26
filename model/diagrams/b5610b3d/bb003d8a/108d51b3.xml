@@ -298,18 +298,6 @@
           y="44"
           width="141"
           height="76"/>
-      <children
-          xsi:type="archimate:DiagramModelNote"
-          id="e26ea4e7"
-          textAlignment="2"
-          fillColor="#ffffb5"
-          content="monsterneming">
-        <bounds
-            x="14"
-            y="38"
-            width="119"
-            height="34"/>
-      </children>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
