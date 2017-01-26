@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="c25689fa"
-    name="A.3 Valideren gegevens"
-    documentation="De aanvraag wordt gecontroleerd op indieningsvereisten en/of uitvoerbaarheid.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld: Bij een aangevraagde keuring wordt beoordeeld of deze realiseerbaar is. Daarbij wordt gekeken of de aangevraagde tijd en de bijbehorende aantallen voor het desbetreffende slachthuis redelijkerwijs overeenkomen. Dit wordt gedaan a.d.h.v. historische data."/>
+    name="A.3 Valideren uitvoerbaarheid"
+    documentation="De aanvraag wordt gecontroleerd op indieningsvereisten en/of uitvoerbaarheid.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld: Bij een aangevraagde keuring wordt beoordeeld of deze realiseerbaar is. Daarbij wordt gekeken of de aangevraagde tijd en de bijbehorende aantallen voor het desbetreffende slachthuis redelijkerwijs overeenkomen. Dit wordt gedaan a.d.h.v. historische data.&#xD;&#xA;&#xD;&#xA;Voor meldingen worden validaties al zoveel mogelijk in bij het inwinnen en aanvullen van basisgegevens uitgevoerd. Indien nodig volgen hier nog aanvullende condities. Vooralsnog zijn er geen voorbeelden. &#xD;&#xA;&#xD;&#xA;"/>
