@@ -626,7 +626,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="790e128a"
           textAlignment="2"
-          targetConnections="#9c46e18a"
+          targetConnections="#d2ec3593"
           archimateElement="archimate:BusinessProcess ../../../business/5277e2da/84336727/6b6a25df/de7ca42f.xml#de7ca42f">
         <bounds
             x="12"
@@ -1624,9 +1624,9 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="e8a41056"
+      id="1e778e4e"
       textAlignment="2"
-      archimateElement="archimate:Product ../../../business/6ac897b4.xml#6ac897b4">
+      archimateElement="archimate:Product ../../../business/44dc945d.xml#44dc945d">
     <bounds
         x="2412"
         y="648"
@@ -1634,10 +1634,10 @@
         height="55"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="9c46e18a"
-        source="#e8a41056"
+        id="d2ec3593"
+        source="#1e778e4e"
         target="#790e128a"
-        relationship="archimate:AssociationRelationship ../../../relations/a0906d12.xml#a0906d12"/>
+        relationship="archimate:AssociationRelationship ../../../relations/b76a805a.xml#b76a805a"/>
   </children>
   <properties
       key="Pre"/>
