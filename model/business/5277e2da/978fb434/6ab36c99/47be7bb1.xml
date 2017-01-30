@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="47be7bb1"
+    name="Opstellen bericht derde land"
+    documentation="Indien een 3de land extra gegevens moet aanleveren zoals logboeken of verklaringen en de aanvraag is akkoord dan gaat er een bericht naar een 3de land met het verzoek tot aanlevering van extra gegevens (bijv. logboeken).">
+  <properties
+      key="Pre"
+      value="Indien het IUU betreft"/>
+</archimate:BusinessProcess>

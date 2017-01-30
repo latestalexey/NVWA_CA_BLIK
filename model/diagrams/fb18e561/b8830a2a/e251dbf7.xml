@@ -322,41 +322,6 @@
         </children>
       </children>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="80c53849"
-        textAlignment="2"
-        fillColor="#ffffff"
-        archimateElement="archimate:BusinessInteraction ../../../business/118d3038/21b344ab.xml#21b344ab">
-      <bounds
-          x="984"
-          y="12"
-          width="253"
-          height="108"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="dc0f46a2"
-          textAlignment="2"
-          archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/301e3a0c/7bac72fd.xml#7bac72fd">
-        <bounds
-            x="24"
-            y="36"
-            width="205"
-            height="61"/>
-        <children
-            xsi:type="archimate:DiagramModelNote"
-            id="7375b1d9"
-            textAlignment="1"
-            fillColor="#ffff00"
-            content="EPIC: ....">
-          <bounds
-              x="60"
-              y="36"
-              width="78"
-              height="25"/>
-        </children>
-      </children>
-    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
