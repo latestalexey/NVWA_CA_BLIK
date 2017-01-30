@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="5c7db3ea"
-    name="Berichtenbox (BOS)"/>
+    name="Berichtenbox (BOS)"
+    documentation="Berichtenbox outbound service&#xD;&#xA;Afleverkanaal voor het digitaal afleveren van berichten voor bedrijven in hun berichtenbox voor bedrijven (EDU)"/>

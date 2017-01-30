@@ -2,4 +2,16 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="e7c6fcd8"
     name="Bedrijvenbak"
-    documentation="Overzicht van bedrijven ten behoeve van selectie voor toezicht"/>
+    documentation="Overzicht van bedrijven ten behoeve van selectie voor toezicht">
+  <properties
+      key="accountable"
+      value="Directeur L&amp;N"/>
+  <properties
+      key="responsible"
+      value="FB xxx"/>
+  <properties
+      key="einddatum"/>
+  <properties
+      key="#gebruikers"/>
+  <properties/>
+</archimate:ApplicationComponent>

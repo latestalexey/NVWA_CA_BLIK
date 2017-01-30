@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="44474ed2"
     name="DNR"
-    documentation="Diensten register (EDU bouwsteen van MINEZ). "/>
+    documentation="Diensten register (EDU bouwsteen van MINEZ). ">
+  <properties
+      key="accountable"
+      value="RVO EOVB"/>
+  <properties
+      key="responsible"
+      value="Dictu"/>
+</archimate:ApplicationComponent>
