@@ -1,5 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="23130c69"
-    name="Assyst"
-    documentation="Meldingensysteem voor calls Dictu&#xD;&#xA;"/>
+    name="Topdesk"
+    documentation="Meldingensysteem voor calls Dictu. In gebruik bij FB&#xD;&#xA;">
+  <properties
+      key="extern"/>
+</archimate:ApplicationComponent>

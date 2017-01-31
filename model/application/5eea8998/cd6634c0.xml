@@ -2,4 +2,15 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="cd6634c0"
     name="Analist Notebook"
-    documentation="Analyse tool&#xD;&#xA;"/>
+    documentation="Analyse tool&#xD;&#xA;">
+  <properties
+      key="accountable"
+      value="Directeur IOD"/>
+  <properties
+      key="#gebruikers"
+      value="20"/>
+  <properties
+      key="responsible"
+      value="Koen Kolodziej"/>
+  <properties/>
+</archimate:ApplicationComponent>

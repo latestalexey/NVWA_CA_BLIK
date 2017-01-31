@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="87e28bae"
     name="Asksam"
-    documentation="Documentaire database met tekstverwerkingsfaciliteit&#xD;&#xA;"/>
+    documentation="Documentaire database met tekstverwerkingsfaciliteit&#xD;&#xA;">
+  <properties
+      key="einddatum"
+      value="2015"/>
+</archimate:ApplicationComponent>

@@ -1277,19 +1277,19 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="ad939476"
+      id="9757b502"
       textAlignment="2"
-      archimateElement="archimate:ApplicationComponent ../../application/2da6e951/04930b86/a8829c3b.xml#a8829c3b"
+      archimateElement="archimate:ApplicationComponent ../../application/2da6e951/04930b86/6c9fd75b.xml#6c9fd75b"
       type="1">
     <bounds
         x="312"
-        y="936"
-        width="192"
-        height="252"/>
+        y="948"
+        width="181"
+        height="265"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="b3547a5b"
-        source="#ad939476"
+        source="#9757b502"
         target="#825684ea"
         relationship="archimate:AssociationRelationship ../../relations/16b04df3.xml#16b04df3"/>
     <children
@@ -1298,7 +1298,7 @@
         textAlignment="2"
         archimateElement="archimate:ApplicationInterface ../../application/2da6e951/04930b86/aa32455d.xml#aa32455d">
       <bounds
-          x="24"
+          x="12"
           y="180"
           width="144"
           height="55"/>
@@ -1309,7 +1309,7 @@
         textAlignment="2"
         archimateElement="archimate:ApplicationFunction ../../application/2da6e951/04930b86/241a1954.xml#241a1954">
       <bounds
-          x="24"
+          x="12"
           y="108"
           width="144"
           height="55"/>
@@ -1320,8 +1320,8 @@
         textAlignment="2"
         archimateElement="archimate:ApplicationService ../../application/2da6e951/04930b86/fadaeff3.xml#fadaeff3">
       <bounds
-          x="24"
-          y="36"
+          x="12"
+          y="24"
           width="144"
           height="55"/>
       <sourceConnections

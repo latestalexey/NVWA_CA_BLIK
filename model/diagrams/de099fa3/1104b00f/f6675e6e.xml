@@ -70,9 +70,9 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="d05654eb"
+        id="639397d5"
         textAlignment="2"
-        archimateElement="archimate:ApplicationComponent ../../../application/89e43fa6.xml#89e43fa6"
+        archimateElement="archimate:ApplicationComponent ../../../application/5eea8998/70c31686.xml#70c31686"
         type="1">
       <bounds
           x="12"
@@ -82,7 +82,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="db21a706"
-          source="#d05654eb"
+          source="#639397d5"
           target="#7f3696bf"
           relationship="archimate:FlowRelationship ../../../relations/a4de9a6e.xml#a4de9a6e"/>
     </children>

@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="63c41458"
-    name="ISI.Lab"/>
+    name="ISI.Lab"
+    documentation="Onderdeel van ISI dat wordt gebruikt voor laboratoriumonderzoek."/>

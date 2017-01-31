@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="e30ae01c"
     name="Piketregeling"
-    documentation="Piketregeling AID&#xD;&#xA;"/>
+    documentation="Piketregeling AID&#xD;&#xA;">
+  <properties
+      key="einddatum"
+      value="2012"/>
+</archimate:ApplicationComponent>

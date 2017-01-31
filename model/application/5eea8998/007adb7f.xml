@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="007adb7f"
     name="MS Autoroute"
-    documentation="Routeplanner met specifieke functienaliteit voor DZI-werkzaamheden&#xD;&#xA;"/>
+    documentation="Routeplanner met specifieke functienaliteit voor DZI-werkzaamheden&#xD;&#xA;">
+  <properties
+      key="einddatum"
+      value="2017"/>
+</archimate:ApplicationComponent>

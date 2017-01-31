@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="2e49d1a3"
     name="CMSDK"
-    documentation="Content Management Systems Development Kit (CMSDK)&#xD;&#xA;Content Management Systeem, wordt gebruikt als archief voor documenten die vanuit (een deelsysteem van) SPIN worden gegenereerd&#xD;&#xA;&#xD;&#xA;"/>
+    documentation="Content Management Systems Development Kit (CMSDK)&#xD;&#xA;Content Management Systeem, wordt gebruikt als archief voor documenten die vanuit (een deelsysteem van) SPIN worden gegenereerd. Onderzoeken (HJ)&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="einddatum"
+      value="2018"/>
+</archimate:ApplicationComponent>

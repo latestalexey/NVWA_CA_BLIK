@@ -70,19 +70,19 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="09ffa6bc"
+        id="3f89735a"
         textAlignment="2"
-        archimateElement="archimate:ApplicationComponent ../../../application/89e43fa6.xml#89e43fa6"
+        archimateElement="archimate:ApplicationComponent ../../../application/5eea8998/70c31686.xml#70c31686"
         type="1">
       <bounds
           x="12"
-          y="36"
+          y="24"
           width="120"
           height="55"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="79b4bb60"
-          source="#09ffa6bc"
+          source="#3f89735a"
           target="#9edb60a4"
           relationship="archimate:FlowRelationship ../../../relations/a4de9a6e.xml#a4de9a6e"/>
     </children>
@@ -116,7 +116,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="9edb60a4"
       textAlignment="2"
-      targetConnections="#375ab190 #9fccbea0 #79b4bb60 #3c39c0bd #7e992824 #a686322c"
+      targetConnections="#375ab190 #9fccbea0 #3c39c0bd #7e992824 #a686322c #79b4bb60"
       archimateElement="archimate:ApplicationComponent ../../../application/5eea8998/1c3ffe68.xml#1c3ffe68"
       type="1">
     <bounds

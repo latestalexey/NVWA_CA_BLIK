@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="7cd952c5"
     name="BERREG"
-    documentation="Bedrijven, Erkenningen, Relaties REGistratiesysteem Relatiebeheer&#xD;&#xA;Hoofdapplicatie BERREG: Het eenduidig kunnen beheren en onderhouden van werkplekken, erkenningen, organisatorische eenheden en relaties&#xD;&#xA;&#xD;&#xA;"/>
+    documentation="Bedrijven, Erkenningen, Relaties REGistratiesysteem Relatiebeheer&#xD;&#xA;Hoofdapplicatie BERREG: Het eenduidig kunnen beheren en onderhouden van werkplekken, erkenningen, organisatorische eenheden en relaties&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="einddatum"
+      value="2015"/>
+</archimate:ApplicationComponent>

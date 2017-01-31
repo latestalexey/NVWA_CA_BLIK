@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="aeeb983b"
     name="PVCS Tracker"
-    documentation="Vastleggen bevindingen&#xD;&#xA;"/>
+    documentation="Vastleggen bevindingen&#xD;&#xA;">
+  <properties
+      key="einddatum"
+      value="2012"/>
+</archimate:ApplicationComponent>

@@ -1,5 +1,5 @@
 <archimate:UsedByRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="1f1ecf71"
+    id="766f9e27"
     source="archimate:InfrastructureService ../technology/9d196074.xml#9d196074"
-    target="archimate:DataObject ../application/5eea8998/6ebc2d59.xml#6ebc2d59"/>
+    target="archimate:ApplicationService ../application/2da6e951/cbd5c7b8/9c432925.xml#9c432925"/>
