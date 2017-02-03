@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="656f3b8e"
     name="Bepalen bestuurlijke maatregel"
-    documentation="In geval van een herhaalde overtredingsituatie bij een relatie of ernstige overtredingen kunnen bestuurlijke maatregelen worden opgelegd. Dit kunnen aanwijzingen/opdrachten zijn (naleven hygiënevoorschriften) of harde besluiten (een sluitingsbeschikking). In sommige gevallen kan een aanwijzing worden afgedwongen met een dwangsom (last onder dwang) of bestuursdwang."/>
+    documentation="In geval van een herhaalde overtredingsituatie bij een relatie of ernstige overtredingen kunnen bestuurlijke maatregelen worden opgelegd. Dit kunnen aanwijzingen/opdrachten zijn (naleven hygiënevoorschriften) of harde besluiten (een sluitingsbeschikking). In sommige gevallen kan een aanwijzing worden afgedwongen met een dwangsom (last onder dwang) of bestuursdwang.">
+  <properties
+      key="pre"
+      value="Het rapport van bevindingen is opgesteld"/>
+</archimate:BusinessProcess>
