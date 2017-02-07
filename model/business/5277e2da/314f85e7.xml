@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="314f85e7"
-    name="Registreren hercontrole"/>
+    name="Registreren hercontrole">
+  <properties
+      key="pre"
+      value="Alleen als er een overtreding is geconstateerd"/>
+</archimate:BusinessProcess>

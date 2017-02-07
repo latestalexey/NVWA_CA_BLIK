@@ -526,12 +526,6 @@
         height="55"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="66efd62e"
-        source="#f73e264a"
-        target="#dc02c12b"
-        relationship="archimate:UsedByRelationship ../../../../relations/f900c540.xml#f900c540"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="436ea371"
         source="#f73e264a"
         target="#68917474"
@@ -547,6 +541,12 @@
           endX="-24"
           endY="210"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="66efd62e"
+        source="#f73e264a"
+        target="#dc02c12b"
+        relationship="archimate:UsedByRelationship ../../../../relations/f900c540.xml#f900c540"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -834,6 +834,12 @@
         height="55"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
+        id="7d0f23b7"
+        source="#827ae6dc"
+        target="#68917474"
+        relationship="archimate:UsedByRelationship ../../../../relations/58ffe2c4.xml#58ffe2c4"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
         id="f7e0f3c1"
         source="#827ae6dc"
         target="#dc02c12b"
@@ -849,12 +855,6 @@
           endX="36"
           endY="246"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="7d0f23b7"
-        source="#827ae6dc"
-        target="#68917474"
-        relationship="archimate:UsedByRelationship ../../../../relations/58ffe2c4.xml#58ffe2c4"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
