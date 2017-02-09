@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="6d5e4967"
     name="TradEz"
-    documentation="Ontvangen van EDI berichtenverkeer (aangiften import inspecties) en doorzetten naar CLIENT&#xD;&#xA;Ook bekend als Berichtenverkeer CLI &amp; VGC&#xD;&#xA;&#xD;&#xA;"/>
+    documentation="Ontvangen van EDI berichtenverkeer (aangiften import inspecties) en doorzetten naar CLIENT&#xD;&#xA;Ook bekend als Berichtenverkeer CLI &amp; VGC&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="einddatum"
+      value="2015"/>
+</archimate:ApplicationComponent>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="afe2ed8c"
     name="Tattoo LIS (GGD)"
-    documentation="Letsel informatie systeem "/>
+    documentation="Letsel informatie systeem &#xD;&#xA;Uitzoeken HJ">
+  <properties
+      key="einddatum"
+      value="2016"/>
+</archimate:ApplicationComponent>

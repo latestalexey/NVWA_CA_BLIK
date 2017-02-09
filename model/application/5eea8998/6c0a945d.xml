@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="6c0a945d"
     name="Tracé"
-    documentation="Postkamer / DIV applicatie. Tracé biedt geautomatiseerde ondersteuning voor documentafhandeling, voortgangsbewaking en archivering."/>
+    documentation="Postkamer / DIV applicatie. Tracé biedt geautomatiseerde ondersteuning voor documentafhandeling, voortgangsbewaking en archivering.">
+  <properties
+      key="extern"
+      value="ja"/>
+</archimate:ApplicationComponent>

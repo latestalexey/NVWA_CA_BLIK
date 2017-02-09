@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="c6edaea9"
     name="VCMS"
-    documentation="Registreren van verzoekcertificaat aanvragen en genereren van rapporten van de Certificaten. Verzorgt de vervaardiging van verzoekcertificaat voor aanvragen die door het bedrijfsleven worden gedaan. &#xD;&#xA;"/>
+    documentation="Registreren van verzoekcertificaat aanvragen en genereren van rapporten van de Certificaten. Verzorgt de vervaardiging van verzoekcertificaat voor aanvragen die door het bedrijfsleven worden gedaan. &#xD;&#xA;">
+  <properties
+      key="einddatum"
+      value="2014"/>
+</archimate:ApplicationComponent>

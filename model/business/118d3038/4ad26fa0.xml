@@ -1,4 +1,5 @@
 <archimate:BusinessInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="4ad26fa0"
-    name="Zaaktype bundelingszaak"/>
+    name="Zaaktype bundelingszaak afvoeren"
+    documentation="Volgens mij is dit geen zaaktype. Het is ofwel een project (markten inspecteren) ofwel een kenmerk van individuele inspectiezaken in het kader van een project (bv HAP toezicht) met als kenmerk dat het om een inspectie op een markt ging."/>

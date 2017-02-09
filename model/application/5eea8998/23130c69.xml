@@ -4,5 +4,6 @@
     name="Topdesk"
     documentation="Meldingensysteem voor calls Dictu. In gebruik bij FB&#xD;&#xA;">
   <properties
-      key="extern"/>
+      key="extern"
+      value="ja"/>
 </archimate:ApplicationComponent>
