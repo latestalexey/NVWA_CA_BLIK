@@ -1,0 +1,6 @@
+<archimate:AccessRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="66c9b386"
+    source="archimate:BusinessProcess ../business/5277e2da/978fb434/9af82f6f/83b83471.xml#83b83471"
+    target="archimate:BusinessObject ../business/102cc247/7ae769db.xml#7ae769db"
+    accessType="1"/>
