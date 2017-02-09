@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="913f1351"
     name="VIRIS3"
-    documentation="RVOapp. Informeren en signaleren over vangstoverschrijding, vanstuitputting, vangstinspanning, bedrijfsmatigheid, vlootsamenstelling.&#xD;&#xA;&#xD;&#xA;"/>
+    documentation="RVOapp. Informeren en signaleren over vangstoverschrijding, vanstuitputting, vangstinspanning, bedrijfsmatigheid, vlootsamenstelling.&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="extern"
+      value="ja"/>
+  <properties
+      key="accountable"
+      value="RVO"/>
+</archimate:ApplicationComponent>

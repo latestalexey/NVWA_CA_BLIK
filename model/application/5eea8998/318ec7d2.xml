@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="318ec7d2"
     name="Website NVWA (oud)"
-    documentation="De oude website van de NVWA voor informatie en publicatie en toeleiding naar formdesk"/>
+    documentation="De oude website van de NVWA voor informatie en publicatie en toeleiding naar formdesk">
+  <properties
+      key="einddatum"
+      value="2016"/>
+</archimate:ApplicationComponent>

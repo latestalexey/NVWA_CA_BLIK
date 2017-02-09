@@ -1,4 +1,12 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="a9b86d38"
-    name="ROFOS Waardepapieren"/>
+    name="ROFOS Waardepapieren"
+    documentation="Eigenaar is drukkerij waar lege waardepapieren kunnen worden besteld.">
+  <properties
+      key="extern"
+      value="ja"/>
+  <properties
+      key="accountable"
+      value="Drukkerij ??"/>
+</archimate:ApplicationComponent>

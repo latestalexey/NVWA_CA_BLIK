@@ -2,4 +2,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="7dd3550c"
     name="RAPEX"
-    documentation="Europees Rapid Alert System voor Non-Food Products"/>
+    documentation="Europees Rapid Alert System voor Non-Food Products">
+  <properties/>
+  <properties
+      key="extern"
+      value="ja"/>
+</archimate:ApplicationComponent>

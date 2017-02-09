@@ -1,5 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="28ae5bbf"
-    name="combinatie regels"
-    documentation="Beslisregels:&#xD;&#xA;? De inspectie is combineerbaar met andere inspectieopdrachten gezien de benodigde competenties&#xD;&#xA;? De inspectie is niet combineerbaar, maar kan naast elkaar worden uitgevoerd&#xD;&#xA;? De inspectie is niet combineerbaar en overruled andere opdrachten&#xD;&#xA;? De inspectie is geoormerkt als noodzakelijk en mag niet worden overruled."/>

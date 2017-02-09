@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="0ffe5615"
     name="TRACES NL"
-    documentation="TRAdeControlExpertSysteem-NL&#xD;&#xA;Im-/export dier opvolger van ANIMO. Hier staan alle certificaten uit TRACES EU in waar NL bij betrokken is tbv raadpleging.&#xD;&#xA;"/>
+    documentation="TRAdeControlExpertSysteem-NL&#xD;&#xA;Im-/export dier opvolger van ANIMO. Hier staan alle certificaten uit TRACES EU in waar NL bij betrokken is tbv raadpleging.&#xD;&#xA;">
+  <properties
+      key="accountable"
+      value="V&amp;I"/>
+</archimate:ApplicationComponent>

@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="7c2d36a9"
     name="Suntaxis"
-    documentation="Elektronisch beschikbaar stellen en archiveren van documenten.&#xD;&#xA;"/>
+    documentation="Elektronisch beschikbaar stellen en archiveren van documenten.&#xD;&#xA;">
+  <properties
+      key="accountable"
+      value="VIC"/>
+  <properties
+      key="einddatum"
+      value="2019"/>
+</archimate:ApplicationComponent>

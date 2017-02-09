@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="97819d34"
     name="RASFF"
-    documentation="Rapid alert systeem voor food en feed. Portal van de EU"/>
+    documentation="Rapid alert systeem voor food en feed. Portal van de EU">
+  <properties
+      key="extern"
+      value="ja"/>
+</archimate:ApplicationComponent>

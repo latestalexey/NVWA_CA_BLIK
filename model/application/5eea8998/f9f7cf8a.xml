@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="f9f7cf8a"
     name="RBS Telebankieren"
-    documentation="RBS Telebankieren&#xD;&#xA;"/>
+    documentation="RBS Telebankieren&#xD;&#xA;">
+  <properties
+      key="extern"
+      value="ja"/>
+</archimate:ApplicationComponent>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="10547e32"
     name="Riga Access 2007"
-    documentation="registratie inbeslaggenomen administratie (ook Dos en Excel versies aanwezig)&#xD;&#xA;"/>
+    documentation="registratie inbeslaggenomen administratie (ook Dos en Excel versies aanwezig)&#xD;&#xA;">
+  <properties
+      key="accountable"
+      value="IOD"/>
+</archimate:ApplicationComponent>

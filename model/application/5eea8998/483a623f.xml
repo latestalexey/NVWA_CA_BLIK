@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="483a623f"
     name="PRO (nieuwe website NVWA)"
-    documentation="Portaal Rijks Overheid. CMS in beheer bij MINAZ voor de website NVWA, informatie, publicatie en toeleiding naar klantprotaal voor afname van diensten"/>
+    documentation="Portaal Rijks Overheid. CMS in beheer bij MINAZ voor de website NVWA, informatie, publicatie en toeleiding naar klantprotaal voor afname van diensten">
+  <properties
+      key="extern"
+      value="ja"/>
+</archimate:ApplicationComponent>
