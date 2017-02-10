@@ -343,7 +343,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="4facc32a"
         textAlignment="2"
-        archimateElement="archimate:BusinessProcess ../../../business/105b3da3.xml#105b3da3">
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/105b3da3.xml#105b3da3">
       <bounds
           x="212"
           y="252"
@@ -431,7 +431,7 @@
         id="a61386ab"
         textAlignment="2"
         targetConnections="#a5ed104b"
-        archimateElement="archimate:BusinessProcess ../../../business/d7c55283.xml#d7c55283">
+        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/d7c55283.xml#d7c55283">
       <bounds
           x="240"
           y="228"

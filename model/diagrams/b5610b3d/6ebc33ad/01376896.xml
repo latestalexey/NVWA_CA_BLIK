@@ -17,7 +17,7 @@
         id="80f86d81"
         textAlignment="2"
         targetConnections="#62daf693"
-        archimateElement="archimate:Product ../../../business/0564220b.xml#0564220b">
+        archimateElement="archimate:Product ../../../business/102cc247/1ccabd44/0564220b.xml#0564220b">
       <bounds
           x="12"
           y="36"
@@ -38,7 +38,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="33e72e29"
         textAlignment="2"
-        archimateElement="archimate:Product ../../../business/0dbd0090.xml#0dbd0090">
+        archimateElement="archimate:Product ../../../business/102cc247/1ccabd44/0dbd0090.xml#0dbd0090">
       <bounds
           x="156"
           y="36"
@@ -55,7 +55,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="dd85e17a"
         textAlignment="2"
-        archimateElement="archimate:Product ../../../business/44dc945d.xml#44dc945d">
+        archimateElement="archimate:Product ../../../business/102cc247/1ccabd44/44dc945d.xml#44dc945d">
       <bounds
           x="24"
           y="36"
@@ -72,7 +72,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="4b47185b"
         textAlignment="2"
-        archimateElement="archimate:Product ../../../business/2c3a7aef.xml#2c3a7aef">
+        archimateElement="archimate:Product ../../../business/102cc247/1ccabd44/2c3a7aef.xml#2c3a7aef">
       <bounds
           x="288"
           y="36"
@@ -89,7 +89,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="28026479"
         textAlignment="2"
-        archimateElement="archimate:BusinessObject ../../../business/a8d2739c/55a6d840.xml#55a6d840">
+        archimateElement="archimate:BusinessObject ../../../business/102cc247/a8d2739c/55a6d840.xml#55a6d840">
       <bounds
           x="432"
           y="36"
@@ -1409,7 +1409,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="e59fd846"
         textAlignment="2"
-        archimateElement="archimate:Product ../../../business/0564220b.xml#0564220b">
+        archimateElement="archimate:Product ../../../business/102cc247/1ccabd44/0564220b.xml#0564220b">
       <bounds
           x="24"
           y="24"
@@ -1427,7 +1427,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="fc8e4316"
       textAlignment="2"
-      archimateElement="archimate:BusinessObject ../../../business/6fc64c6b.xml#6fc64c6b">
+      archimateElement="archimate:BusinessObject ../../../business/102cc247/a8d2739c/6fc64c6b.xml#6fc64c6b">
     <bounds
         x="-588"
         y="732"
@@ -1439,7 +1439,7 @@
       id="c82f1d57"
       textAlignment="2"
       targetConnections="#f56e9d55"
-      archimateElement="archimate:Contract ../../../business/7fa959ae.xml#7fa959ae">
+      archimateElement="archimate:Contract ../../../business/102cc247/1ccabd44/7fa959ae.xml#7fa959ae">
     <bounds
         x="-2100"
         y="153"
@@ -1450,7 +1450,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="99472d08"
       textAlignment="2"
-      archimateElement="archimate:Product ../../../business/efa32942.xml#efa32942">
+      archimateElement="archimate:Product ../../../business/102cc247/1ccabd44/efa32942.xml#efa32942">
     <bounds
         x="-1584"
         y="168"
@@ -1467,7 +1467,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e03f04e4"
       textAlignment="2"
-      archimateElement="archimate:Product ../../../business/c96eed0d.xml#c96eed0d">
+      archimateElement="archimate:Product ../../../business/102cc247/1ccabd44/c96eed0d.xml#c96eed0d">
     <bounds
         x="-588"
         y="645"
@@ -1485,7 +1485,7 @@
       id="b56a6dbb"
       textAlignment="2"
       targetConnections="#553e4939"
-      archimateElement="archimate:Product ../../../business/87587ac6.xml#87587ac6">
+      archimateElement="archimate:Product ../../../business/102cc247/1ccabd44/87587ac6.xml#87587ac6">
     <bounds
         x="696"
         y="756"
@@ -1497,7 +1497,7 @@
       id="35280d0e"
       textAlignment="2"
       targetConnections="#8fd7be72"
-      archimateElement="archimate:Product ../../../business/fc10eef2.xml#fc10eef2">
+      archimateElement="archimate:Product ../../../business/102cc247/1ccabd44/fc10eef2.xml#fc10eef2">
     <bounds
         x="696"
         y="657"
@@ -1508,7 +1508,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b446a8aa"
       textAlignment="2"
-      archimateElement="archimate:Product ../../../business/1e49981c.xml#1e49981c">
+      archimateElement="archimate:Product ../../../business/102cc247/1ccabd44/1e49981c.xml#1e49981c">
     <bounds
         x="840"
         y="636"
@@ -1525,7 +1525,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c64f64dd"
       textAlignment="2"
-      archimateElement="archimate:Product ../../../business/48fb1790.xml#48fb1790">
+      archimateElement="archimate:Product ../../../business/102cc247/1ccabd44/48fb1790.xml#48fb1790">
     <bounds
         x="1524"
         y="636"
@@ -1542,7 +1542,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f9954404"
       textAlignment="2"
-      archimateElement="archimate:Product ../../../business/96d13303.xml#96d13303">
+      archimateElement="archimate:Product ../../../business/102cc247/1ccabd44/96d13303.xml#96d13303">
     <bounds
         x="2112"
         y="648"
@@ -1559,7 +1559,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="1e778e4e"
       textAlignment="2"
-      archimateElement="archimate:Product ../../../business/44dc945d.xml#44dc945d">
+      archimateElement="archimate:Product ../../../business/102cc247/1ccabd44/44dc945d.xml#44dc945d">
     <bounds
         x="2412"
         y="648"
@@ -1576,7 +1576,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="50ba3b78"
       textAlignment="2"
-      archimateElement="archimate:BusinessObject ../../../business/6c6e6f35.xml#6c6e6f35">
+      archimateElement="archimate:BusinessObject ../../../business/102cc247/a8d2739c/6c6e6f35.xml#6c6e6f35">
     <bounds
         x="2664"
         y="645"
