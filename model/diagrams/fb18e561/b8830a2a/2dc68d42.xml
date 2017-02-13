@@ -511,7 +511,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="a4caddb1"
           textAlignment="2"
-          archimateElement="archimate:BusinessProcess ../../../business/68523844.xml#68523844">
+          archimateElement="archimate:BusinessProcess ../../../business/5277e2da/68523844.xml#68523844">
         <bounds
             x="300"
             y="90"
@@ -579,7 +579,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="48671f26"
             textAlignment="2"
-            archimateElement="archimate:BusinessProcess ../../../business/d5840db7.xml#d5840db7">
+            archimateElement="archimate:BusinessProcess ../../../business/5277e2da/d5840db7.xml#d5840db7">
           <bounds
               x="300"
               y="96"
@@ -642,7 +642,7 @@
           id="3d9da818"
           textAlignment="2"
           targetConnections="#4ea2cc2b"
-          archimateElement="archimate:BusinessProcess ../../../business/40b33066.xml#40b33066">
+          archimateElement="archimate:BusinessProcess ../../../business/5277e2da/40b33066.xml#40b33066">
         <bounds
             x="156"
             y="192"
