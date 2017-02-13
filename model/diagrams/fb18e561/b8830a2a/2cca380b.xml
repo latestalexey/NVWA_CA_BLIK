@@ -129,17 +129,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="2fd79aad"
-        textAlignment="2"
-        archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/39823425/852b0afd.xml#852b0afd">
-      <bounds
-          x="12"
-          y="27"
-          width="169"
-          height="49"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="c049c30b"
         textAlignment="2"
         archimateElement="archimate:BusinessProcess ../../../business/5277e2da/978fb434/39823425/76f849b7.xml#76f849b7">

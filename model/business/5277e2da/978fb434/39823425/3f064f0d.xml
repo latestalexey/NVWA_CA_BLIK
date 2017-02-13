@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="3f064f0d"
     name="Bepalen boetebedrag"
-    documentation="In geval van bestuurlijke boeteoplegging wordt per overtreding bepaald of deze juridisch en feitelijk goed is onderbouwd. Op grond van meerdere factoren per wetgeving (zoals recidive, bedrijfsgrootte, particulier/bedrijfsmatig, risico voor volksgezondheid, dieren, dierenwelzijn, milieu etc.) wordt het boetebedrag per overtreding bepaald. "/>
+    documentation="In geval van bestuurlijke boeteoplegging wordt per overtreding bepaald of deze juridisch en feitelijk goed is onderbouwd. Op grond van meerdere factoren per wetgeving (zoals recidive, bedrijfsgrootte, particulier/bedrijfsmatig, risico voor volksgezondheid, dieren, dierenwelzijn, milieu etc.) wordt het boetebedrag per overtreding bepaald. ">
+  <properties
+      key="pre"
+      value="Het rapport van bevindingen is opgesteld"/>
+</archimate:BusinessProcess>

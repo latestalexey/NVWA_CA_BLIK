@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="f04a71ca"
+    name="Registreren bestuurlijke beschikking"
+    documentation="De bestuurlijke beschikking wordt geregistreerd in de systemen van het CJIB.">
+  <properties
+      key="pre"
+      value="Na goedgekeurde bestuurlijke beschikking"/>
+</archimate:BusinessProcess>

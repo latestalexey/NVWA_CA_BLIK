@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="75705d9d"
     name="Opstellen Relaas"
-    documentation="Bij sommige controles worden medewerkers ingezet die niet bevoegd zijn om een rapport van bevindingen of proces verbaal op te stellen. In dat geval wordt door de constateerder een Relaas op gesteld, dat door een bevoegde wordt gebruikt om een rapport van bevindingen of proces verbaal op te stellen. Voorbeeld is de inzet van flexteam bij Tabak."/>
+    documentation="Bij sommige controles worden medewerkers ingezet die niet bevoegd zijn om een rapport van bevindingen of proces verbaal op te stellen. In dat geval wordt door de constateerder een Relaas op gesteld, dat door een bevoegde wordt gebruikt om een rapport van bevindingen of proces verbaal op te stellen. Voorbeeld is de inzet van flexteam bij Tabak.&#xD;&#xA;&#xD;&#xA;Onderdeel van het opstellen van het relaas is het beoordelen door de inspecteur. ">
+  <properties
+      key="pre"
+      value="Alleen bij flexwerkers en nadat de inspecteur akkoord is gegaan met het oordeel."/>
+</archimate:BusinessProcess>
