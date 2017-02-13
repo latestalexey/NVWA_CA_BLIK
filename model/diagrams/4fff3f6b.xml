@@ -1,0 +1,153 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="4fff3f6b"
+    name="CA grondplaat eigenaarschap"
+    documentation="Dit overaicht toont voor zaaktypen, gegevenstypen en productcategorieen/bedrijfsinformatieobjecten de eigenaar zoals benoemt in het VOB">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7d048f97"
+      textAlignment="2"
+      archimateElement="archimate:BusinessActor ../business/6de8be28/4a92c8a7/c305b44c.xml#c305b44c">
+    <bounds
+        x="48"
+        y="36"
+        width="120"
+        height="241"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a6d2dce5"
+      textAlignment="2"
+      targetConnections="#491fe4e0"
+      archimateElement="archimate:BusinessInteraction ../business/118d3038/3d0bd403.xml#3d0bd403">
+    <bounds
+        x="240"
+        y="36"
+        width="120"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="4b37c562"
+      textAlignment="2"
+      targetConnections="#408d3d09"
+      archimateElement="archimate:BusinessInteraction ../business/118d3038/fe73d408.xml#fe73d408">
+    <bounds
+        x="408"
+        y="36"
+        width="120"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6b76ef26"
+      textAlignment="2"
+      archimateElement="archimate:BusinessInteraction ../business/118d3038/6162ee6b.xml#6162ee6b">
+    <bounds
+        x="576"
+        y="36"
+        width="120"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="d242c590"
+      textAlignment="2"
+      archimateElement="archimate:BusinessInteraction ../business/118d3038/2f5cd3e9.xml#2f5cd3e9">
+    <bounds
+        x="756"
+        y="36"
+        width="120"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="796127eb"
+      textAlignment="2"
+      archimateElement="archimate:Product ../business/f7386aee/5f5d6c37.xml#5f5d6c37">
+    <bounds
+        x="576"
+        y="120"
+        width="120"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="88cb9159"
+      textAlignment="2"
+      archimateElement="archimate:Product ../business/f7386aee/8c1b8e72.xml#8c1b8e72">
+    <bounds
+        x="756"
+        y="120"
+        width="120"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="127e9606"
+      textAlignment="2"
+      archimateElement="archimate:Product ../business/f7386aee/ea7d9fd0.xml#ea7d9fd0">
+    <bounds
+        x="240"
+        y="120"
+        width="120"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="491fe4e0"
+        source="#127e9606"
+        target="#a6d2dce5"
+        relationship="archimate:UsedByRelationship ../relations/135dcb9b.xml#135dcb9b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7bdd9003"
+      textAlignment="2"
+      archimateElement="archimate:Product ../business/f7386aee/03c99125.xml#03c99125">
+    <bounds
+        x="408"
+        y="120"
+        width="120"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="408d3d09"
+        source="#7bdd9003"
+        target="#4b37c562"
+        relationship="archimate:UsedByRelationship ../relations/c7452d29.xml#c7452d29"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="025fbc0b"
+      textAlignment="2"
+      archimateElement="archimate:BusinessObject ../business/102cc247/1572674e.xml#1572674e">
+    <bounds
+        x="240"
+        y="216"
+        width="120"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="617ce08a"
+      textAlignment="2"
+      archimateElement="archimate:BusinessObject ../business/102cc247/2328d94a.xml#2328d94a">
+    <bounds
+        x="408"
+        y="216"
+        width="120"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="69ad884a"
+      textAlignment="2"
+      archimateElement="archimate:BusinessObject ../business/102cc247/73bf4eec.xml#73bf4eec">
+    <bounds
+        x="756"
+        y="216"
+        width="120"
+        height="55"/>
+  </children>
+</archimate:ArchimateDiagramModel>
