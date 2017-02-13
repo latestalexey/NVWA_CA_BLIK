@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="7d9c8da5"
     name="Vastleggen terugkoppeling melding"
-    documentation="Indien de melding door de oplosgroep wordt afgehandeld wordt de terugkoppeling vastgelegd en kan worden overgegaan naar afhandeling melding. &#xD;&#xA;&#xD;&#xA;In geval van nationale meldingen vindt terugkoppeling naar de melder plaats.&#xD;&#xA;In geval van internationale meldingen vindt geen terugkoppeling plaats. &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>
+    documentation="Hie wordt het uitendelijke bericht dat wordt teruggekoppeld vastgelegd. &#xD;&#xA;&#xD;&#xA;In geval van nationale meldingen vindt terugkoppeling naar de melder plaats.&#xD;&#xA;In geval van wettelijk verplichte meldingen vindt geen terugkoppeling plaats (o.a GFL, RASFF, RAPEX, business administration) &#xD;&#xA;&#xD;&#xA;"/>

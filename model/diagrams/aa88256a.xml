@@ -309,7 +309,7 @@
         <bounds
             x="432"
             y="24"
-            width="120"
+            width="169"
             height="55"/>
       </children>
       <children
@@ -351,6 +351,35 @@
           y="780"
           width="681"
           height="61"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="818301de"
+          source="#cd3cf067"
+          target="#f9b013da"
+          relationship="archimate:AggregationRelationship ../relations/3833120e.xml#3833120e"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="f9b013da"
+          textAlignment="2"
+          targetConnections="#818301de"
+          archimateElement="archimate:BusinessInteraction ../business/118d3038/968555d9.xml#968555d9">
+        <bounds
+            x="96"
+            y="12"
+            width="133"
+            height="37"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="86998537"
+          textAlignment="2"
+          archimateElement="archimate:BusinessInteraction ../business/118d3038/cae86708.xml#cae86708">
+        <bounds
+            x="444"
+            y="12"
+            width="156"
+            height="37"/>
+      </children>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"

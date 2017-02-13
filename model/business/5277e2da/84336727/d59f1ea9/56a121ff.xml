@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="56a121ff"
     name="Opstellen uitgaand internationaal bericht"
-    documentation="Stel het uitgaand RASFF / RAPEX bericht op aan de hand van de beschikbare informatie.&#xD;&#xA;Zorg dat dit bericht binnen 48 uur is uitgestuurd"/>
+    documentation="Stel het uitgaand RASFF / RAPEX bericht op (in betreffende systeem) aan de hand van de beschikbare informatie.&#xD;&#xA;Zorg dat dit bericht binnen 48 uur is uitgestuurd en leg het referentienummer vast in Inspect.&#xD;&#xA;&#xD;&#xA;Het internationale bericht wordt vastgelegd in het betreffende systeem">
+  <properties
+      key="post"
+      value="vastgelegd referentienummer"/>
+</archimate:BusinessProcess>
