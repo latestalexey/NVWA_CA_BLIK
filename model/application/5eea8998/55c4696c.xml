@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="55c4696c"
-    name="Programma inspectielijsten"
+    name="Programma inspectielijsten (progril)"
     documentation="Programma voor het aanvragen van inspectielijsten; Controleurs maken gebruik van ISI. In ISI staan inspectielijsten en inspectielijsten bestaan uit onderdelen, waaronder rubrieken met vragen en mogelijke antwoorden."/>

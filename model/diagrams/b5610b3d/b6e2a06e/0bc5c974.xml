@@ -952,17 +952,6 @@
             endY="-68"/>
       </sourceConnections>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="06069b37"
-        textAlignment="1"
-        content="NVWA doet alleen afbouw incident overleg (dept. doet afbouw crisisoverleg)">
-      <bounds
-          x="144"
-          y="3"
-          width="285"
-          height="52"/>
-    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1189,6 +1178,17 @@
         y="-12"
         width="5760"
         height="289"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="06069b37"
+      textAlignment="1"
+      content="NVWA doet alleen afbouw incident overleg (dept. doet afbouw crisisoverleg)">
+    <bounds
+        x="3720"
+        y="494"
+        width="285"
+        height="52"/>
   </children>
   <properties
       key="_Project"

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="d1b0666a"
     name="Herinspecties internet"
-    documentation="uploaden van bewijzen van compliance (via portaal)"/>
+    documentation="uploaden van bewijzen van compliance (via portaal)">
+  <properties
+      key="einddatum"
+      value="2014"/>
+</archimate:ApplicationComponent>

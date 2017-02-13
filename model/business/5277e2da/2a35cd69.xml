@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="2a35cd69"
+    name="Beoordelen bestuurlijke beschikking"
+    documentation="De bestuurlijke beschikking wordt door JZ beoordeeld.&#xD;&#xA;Daarnaast wordt er een fysiek dossier aangemaakt dat bij verzet tegen de beschikking wordt overgedragen naar het OM.">
+  <properties
+      key="pre"
+      value="Alleen voor een bestuurlijke beschikking"/>
+</archimate:BusinessProcess>

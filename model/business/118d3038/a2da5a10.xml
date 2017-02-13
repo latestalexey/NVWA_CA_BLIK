@@ -1,4 +1,5 @@
 <archimate:BusinessInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="a2da5a10"
-    name="Zaaktype Inkomend signaal behandelen"/>
+    name="Zaaktype Inkomend signaal behandelen (afvoeren)"
+    documentation="Is geen zaaktype. Is vervangen door uniform werkproces bij alle interactie &quot;registreren (aan)vraag&quot;"/>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="cfbb8c6f"
     name="Forfait"
-    documentation="Applicatie voor verwerken KM-declaraties door controleurs.&#xD;&#xA;"/>
+    documentation="Applicatie voor verwerken KM-declaraties door controleurs.&#xD;&#xA;">
+  <properties
+      key="einddatum"
+      value="2012"/>
+</archimate:ApplicationComponent>

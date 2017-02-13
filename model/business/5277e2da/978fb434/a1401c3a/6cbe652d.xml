@@ -3,7 +3,8 @@
     id="6cbe652d"
     name="Optreden als getuige"
     documentation="In de uit het PV volgende vervolging door OM  kan de NVWA inspecteur worden gevraagd als getuige te verschijnen.">
+  <properties/>
   <properties
-      key="Pre"
-      value="aanzeggen bestuurlijke maatregel = completed"/>
+      key="pre"
+      value="naar aanleiding van een PV"/>
 </archimate:BusinessProcess>

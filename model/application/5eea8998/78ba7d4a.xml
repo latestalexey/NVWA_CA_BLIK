@@ -1,5 +1,9 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="78ba7d4a"
-    name="Digitaal dossier"
-    documentation="Virtueel dossier applicatie om informatie te verzamelen"/>
+    name="Digitaal dossier (incl GEO explorer)"
+    documentation="Virtueel dossier applicatie om informatie te verzamelen">
+  <properties
+      key="einddatum"
+      value="2019"/>
+</archimate:ApplicationComponent>

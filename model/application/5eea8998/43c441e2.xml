@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="43c441e2"
     name="DIS"
-    documentation="Drankenwet informatie systeem"/>
+    documentation="Drankenwet informatie systeem">
+  <properties
+      key="einddatum"
+      value="2015"/>
+</archimate:ApplicationComponent>

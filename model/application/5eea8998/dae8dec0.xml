@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="dae8dec0"
     name="EBS TOP"
-    documentation="E-Business Suite Toezicht Ondersteuning en Planning. Planning van categorie 3 activiteiten, wordt gebruikt in Regio Oost; t.b.v. bijv. keuring/inspectie van veetransporten (export) en slachterijen. (Alle veetransporten van dierentuindieren tot slachtvee)&#xD;&#xA;"/>
+    documentation="E-Business Suite Toezicht Ondersteuning en Planning. Planning van categorie 3 activiteiten, wordt gebruikt in Regio Oost; t.b.v. bijv. keuring/inspectie van veetransporten (export) en slachterijen. (Alle veetransporten van dierentuindieren tot slachtvee)&#xD;&#xA;">
+  <properties
+      key="einddatum"
+      value="2014"/>
+</archimate:ApplicationComponent>

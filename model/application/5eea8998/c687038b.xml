@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="c687038b"
     name="Certsys"
-    documentation="Certsys ondersteunt het opmaken van ‘certificaten’ die op verzoek worden afgegeven voor de export.&#xD;&#xA;"/>
+    documentation="Certsys ondersteunt het opmaken van ‘certificaten’ die op verzoek worden afgegeven voor de export.&#xD;&#xA;">
+  <properties
+      key="einddatum"
+      value="2015"/>
+</archimate:ApplicationComponent>

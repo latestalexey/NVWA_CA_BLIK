@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="fa5160f0"
     name="Onbezoldigden"
-    documentation="registratie systeem medewerkers Flora en Fauna en Staatsbosbeheer. Uren en Overtredingen.&#xD;&#xA;"/>
+    documentation="registratie systeem medewerkers Flora en Fauna en Staatsbosbeheer. Uren en Overtredingen. Onderzoeken (HJ)&#xD;&#xA;">
+  <properties
+      key="einddatum"
+      value="?"/>
+</archimate:ApplicationComponent>

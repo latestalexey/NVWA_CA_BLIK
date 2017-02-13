@@ -1,4 +1,5 @@
 <archimate:BusinessInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="66cbfd46"
-    name="Zaaktype (inter)nationale melding afhandelen"/>
+    name="Zaaktype melding afhandelen"
+    documentation="Voorstel om (inter)nationale  weg te laten als woord. Als er geen andere meldingen zijn dan voegt het niks toe en krijg je een kortere zaaktypenaam. Als later blijkt dat nationaal en internationaal twee zaaktypen worden dan kun je het altijd weer toevoegen.&#xD;&#xA;"/>
