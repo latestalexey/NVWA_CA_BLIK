@@ -15,50 +15,6 @@
         height="792"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="d6e4605f"
-        textAlignment="2"
-        archimateElement="archimate:ApplicationComponent ../../../application/2da6e951/e93b1b8a/f4ef0c36/13a729c6/f120c177.xml#f120c177">
-      <bounds
-          x="432"
-          y="37"
-          width="456"
-          height="108"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="2cfca048"
-          textAlignment="2"
-          archimateElement="archimate:ApplicationFunction ../../../application/2da6e951/e93b1b8a/f4ef0c36/13a729c6/eee955a7.xml#eee955a7">
-        <bounds
-            x="48"
-            y="36"
-            width="120"
-            height="55"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="fc9a0b0c"
-          textAlignment="2"
-          archimateElement="archimate:ApplicationFunction ../../../application/2da6e951/e93b1b8a/f4ef0c36/13a729c6/49fb66cc.xml#49fb66cc">
-        <bounds
-            x="180"
-            y="36"
-            width="120"
-            height="55"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="58f1e5df"
-          textAlignment="2"
-          archimateElement="archimate:ApplicationFunction ../../../application/2da6e951/e93b1b8a/f4ef0c36/13a729c6/d0b4e2df.xml#d0b4e2df">
-        <bounds
-            x="312"
-            y="36"
-            width="120"
-            height="55"/>
-      </children>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="1b001b14"
         textAlignment="2"
         archimateElement="archimate:ApplicationComponent ../../../application/2da6e951/e93b1b8a/f4ef0c36/9ccdf89f/985f48af.xml#985f48af">
