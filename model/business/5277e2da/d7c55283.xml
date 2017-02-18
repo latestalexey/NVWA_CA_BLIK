@@ -1,4 +1,11 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="d7c55283"
-    name="Versturen internationaal bericht"/>
+    name="Versturen internationaal bericht">
+  <properties
+      key="pre"
+      value="er is een (inter)nationaal bericht opgesteld"/>
+  <properties
+      key="pre"
+      value="relevante beslissingen zijn genoemen en er mag worden overgegaan tot afhandelen"/>
+</archimate:BusinessProcess>

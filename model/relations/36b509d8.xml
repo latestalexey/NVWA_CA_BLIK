@@ -1,5 +1,6 @@
-<archimate:FlowRelationship
+<archimate:AccessRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="287fbb96"
+    id="36b509d8"
     source="archimate:ApplicationFunction ../application/2da6e951/bd85b024/888da803.xml#888da803"
-    target="archimate:ApplicationInteraction ../application/2da6e951/bd85b024/8aa49949.xml#8aa49949"/>
+    target="archimate:DataObject ../application/c2aef9ea.xml#c2aef9ea"
+    accessType="1"/>
