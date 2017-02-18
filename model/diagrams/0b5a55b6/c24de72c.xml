@@ -10,9 +10,9 @@
       archimateElement="archimate:ApplicationComponent ../../application/2da6e951/47e371c2/1d7fa012.xml#1d7fa012">
     <bounds
         x="168"
-        y="261"
+        y="204"
         width="181"
-        height="304"/>
+        height="361"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="a3b79a64"
@@ -20,7 +20,7 @@
         archimateElement="archimate:ApplicationFunction ../../application/2da6e951/47e371c2/8c88c853.xml#8c88c853">
       <bounds
           x="36"
-          y="24"
+          y="60"
           width="120"
           height="55"/>
       <sourceConnections
@@ -37,7 +37,7 @@
         archimateElement="archimate:ApplicationFunction ../../application/2da6e951/47e371c2/f36113ad.xml#f36113ad">
       <bounds
           x="36"
-          y="240"
+          y="276"
           width="120"
           height="55"/>
       <sourceConnections
@@ -91,7 +91,7 @@
         archimateElement="archimate:ApplicationFunction ../../application/2da6e951/47e371c2/047b25b1.xml#047b25b1">
       <bounds
           x="36"
-          y="168"
+          y="204"
           width="120"
           height="55"/>
     </children>
@@ -102,7 +102,7 @@
         archimateElement="archimate:ApplicationFunction ../../application/2da6e951/47e371c2/37746b17.xml#37746b17">
       <bounds
           x="36"
-          y="96"
+          y="132"
           width="120"
           height="55"/>
       <sourceConnections

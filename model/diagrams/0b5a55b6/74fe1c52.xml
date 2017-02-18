@@ -48,18 +48,12 @@
         y="72"
         width="120"
         height="55"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="aa19cee4"
-        source="#029523c3"
-        target="#7f6d85e0"
-        relationship="archimate:FlowRelationship ../../relations/e4e48434.xml#e4e48434"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="7f6d85e0"
       textAlignment="2"
-      targetConnections="#2af3d882 #aa19cee4"
+      targetConnections="#2af3d882"
       archimateElement="archimate:ApplicationService ../../application/2da6e951/04930b86/6705cec3.xml#6705cec3">
     <bounds
         x="396"

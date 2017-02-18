@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="ea7d9fd0"
     name="Besturlijksrechtelijke afdoening &lt;&lt;prod.categorie>>"
-    documentation="Afdoening in het kader van het bestuursrecht waarbij de NVWA als bestuursorgaan het mandaat heeft om een maatregel op te leggen"/>
+    documentation="Afdoening in het kader van het bestuursrecht waarbij de NVWA als bestuursorgaan het mandaat heeft om een maatregel op te leggen">
+  <properties
+      key="producttype"
+      value="bestuurlijke boete"/>
+  <properties
+      key="producttype"
+      value="in beslag name"/>
+  <properties
+      key="producttype"
+      value="sluiting (tijdelijk)"/>
+  <properties
+      key="producttype"
+      value="intrekking erkenning"/>
+</archimate:Product>

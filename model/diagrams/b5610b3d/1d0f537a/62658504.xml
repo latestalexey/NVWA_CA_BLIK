@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="62658504"
-    name="PF10 Geprogrammeerde handhaving">
+    name="PF10 Geprogrammeerde handhaving"
+    documentation="toont alle zaaktypen in samenhang voor de flow uitvoeren geprogrammeerde handhaving">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="61b1e51b"
@@ -364,6 +365,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e8736d92"
       textAlignment="2"
+      targetConnections="#2c879d24"
       archimateElement="archimate:BusinessProcess ../../../business/5277e2da/84336727/1ce60d7f.xml#1ce60d7f">
     <bounds
         x="2088"
@@ -801,6 +803,24 @@
         y="960"
         width="120"
         height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="299c6c48"
+      textAlignment="2"
+      fillColor="#ffffff"
+      archimateElement="archimate:Representation ../../../business/102cc247/1ccabd44/2248c44e.xml#2248c44e">
+    <bounds
+        x="3372"
+        y="960"
+        width="133"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="2c879d24"
+        source="#299c6c48"
+        target="#e8736d92"
+        relationship="archimate:AssociationRelationship ../../../relations/1071c93f.xml#1071c93f"/>
   </children>
   <properties
       key="_Project"

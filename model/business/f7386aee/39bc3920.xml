@@ -2,4 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="39bc3920"
     name="Uitgevoerde controle &lt;&lt;prod.categorie>>"
-    documentation="Betreft de bevindingen tav naleving via een ingevulde inspectielijst &#xD;&#xA;"/>
+    documentation="Betreft de bevindingen tav naleving via een ingevulde inspectielijst &#xD;&#xA;">
+  <properties
+      key="producttype"/>
+</archimate:Product>

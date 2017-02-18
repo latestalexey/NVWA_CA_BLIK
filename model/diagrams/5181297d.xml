@@ -2,7 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="5181297d"
-    name="CA Grondplaat procesflows">
+    name="CA Grondplaat procesflows basis">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="1e4bcc3e"
@@ -28,19 +28,12 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="43441666"
         textAlignment="2"
-        targetConnections="#b845d46c"
         archimateElement="archimate:BusinessProcess ../business/5277e2da/3e0e9fd2/cab3b7fd.xml#cab3b7fd">
       <bounds
           x="36"
           y="156"
           width="681"
           height="37"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="50076325"
-          source="#43441666"
-          target="#5d81104d"
-          relationship="archimate:AssociationRelationship ../relations/6b3360c4.xml#6b3360c4"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -317,45 +310,5 @@
           width="681"
           height="37"/>
     </children>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="5d81104d"
-      textAlignment="2"
-      targetConnections="#50076325"
-      archimateElement="archimate:Product ../business/f7386aee/efa6429e.xml#efa6429e">
-    <bounds
-        x="804"
-        y="1044"
-        width="181"
-        height="55"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="e9b82805"
-      textAlignment="2"
-      archimateElement="archimate:Product ../business/f7386aee/2674933b.xml#2674933b">
-    <bounds
-        x="996"
-        y="1056"
-        width="169"
-        height="55"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="b845d46c"
-        source="#e9b82805"
-        target="#43441666"
-        relationship="archimate:AssociationRelationship ../relations/728da2d7.xml#728da2d7"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="fcc1eac2"
-      textAlignment="2"
-      archimateElement="archimate:Product ../business/f7386aee/ef1ff5e4.xml#ef1ff5e4">
-    <bounds
-        x="804"
-        y="1164"
-        width="169"
-        height="55"/>
   </children>
 </archimate:ArchimateDiagramModel>

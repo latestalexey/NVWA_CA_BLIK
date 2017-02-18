@@ -1,4 +1,5 @@
 <archimate:Representation
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="271e49ea"
-    name="Producttype specificatue"/>
+    name="Producttype specificatie"
+    documentation="Dit is de informatieve weerslag van het resultaat van het ontwikkelen van een producttype. Het bevat alle kenmerken van dat producttype incl de (verwijzing naar) inspectielijst, normtijden, uitvoerend organisatiedeel, benodigde competenties , werkinstructies etc."/>
